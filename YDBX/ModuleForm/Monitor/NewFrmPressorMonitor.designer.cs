@@ -1,0 +1,762 @@
+﻿namespace Monitor
+{
+    partial class NewFrmPressorMonitor
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Series series3 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.DataPoint dataPoint5 = new System.Windows.Forms.DataVisualization.Charting.DataPoint(0D, 3D);
+            System.Windows.Forms.DataVisualization.Charting.DataPoint dataPoint6 = new System.Windows.Forms.DataVisualization.Charting.DataPoint(0D, 0D);
+            System.Windows.Forms.DataVisualization.Charting.Title title3 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea4 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Series series4 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.DataPoint dataPoint7 = new System.Windows.Forms.DataVisualization.Charting.DataPoint(0D, 2D);
+            System.Windows.Forms.DataVisualization.Charting.DataPoint dataPoint8 = new System.Windows.Forms.DataVisualization.Charting.DataPoint(0D, 0D);
+            System.Windows.Forms.DataVisualization.Charting.Title title4 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(NewFrmPressorMonitor));
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.panel5 = new System.Windows.Forms.Panel();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.panel10 = new System.Windows.Forms.Panel();
+            this.txt_Scheduled_Qty = new System.Windows.Forms.TextBox();
+            this.lbl_Scheduled_Qty = new System.Windows.Forms.Label();
+            this.label16 = new System.Windows.Forms.Label();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.label1 = new System.Windows.Forms.Label();
+            this.panel17 = new System.Windows.Forms.Panel();
+            this.lbl_Completion_Rate = new System.Windows.Forms.Label();
+            this.label20 = new System.Windows.Forms.Label();
+            this.panel16 = new System.Windows.Forms.Panel();
+            this.lbl_Actual_Qty = new System.Windows.Forms.Label();
+            this.label18 = new System.Windows.Forms.Label();
+            this.panel12 = new System.Windows.Forms.Panel();
+            this.panel15 = new System.Windows.Forms.Panel();
+            this.lbl_MessageInfo = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.panel18 = new System.Windows.Forms.Panel();
+            this.lbl_CompressorInfo = new System.Windows.Forms.Label();
+            this.label26 = new System.Windows.Forms.Label();
+            this.panel9 = new System.Windows.Forms.Panel();
+            this.lbl_Com_BarCode = new System.Windows.Forms.Label();
+            this.label24 = new System.Windows.Forms.Label();
+            this.label22 = new System.Windows.Forms.Label();
+            this.panel14 = new System.Windows.Forms.Panel();
+            this.lbl_ProductInfo = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.panel13 = new System.Windows.Forms.Panel();
+            this.lbl_Pro_BarCode = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.cht_NoMatchHour = new System.Windows.Forms.DataVisualization.Charting.Chart();
+            this.cht_ProductHour = new System.Windows.Forms.DataVisualization.Charting.Chart();
+            this.panel8 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.panel1.SuspendLayout();
+            this.panel6.SuspendLayout();
+            this.panel4.SuspendLayout();
+            this.panel5.SuspendLayout();
+            this.panel7.SuspendLayout();
+            this.panel10.SuspendLayout();
+            this.panel2.SuspendLayout();
+            this.panel17.SuspendLayout();
+            this.panel16.SuspendLayout();
+            this.panel12.SuspendLayout();
+            this.panel15.SuspendLayout();
+            this.panel18.SuspendLayout();
+            this.panel9.SuspendLayout();
+            this.panel14.SuspendLayout();
+            this.panel13.SuspendLayout();
+            this.panel3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.cht_NoMatchHour)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.cht_ProductHour)).BeginInit();
+            this.panel8.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // timer1
+            // 
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.panel1.Controls.Add(this.panel6);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(1350, 639);
+            this.panel1.TabIndex = 3;
+            // 
+            // panel6
+            // 
+            this.panel6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.panel6.Controls.Add(this.panel4);
+            this.panel6.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel6.Location = new System.Drawing.Point(0, 0);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(1350, 639);
+            this.panel6.TabIndex = 15;
+            // 
+            // panel4
+            // 
+            this.panel4.Controls.Add(this.panel5);
+            this.panel4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel4.Location = new System.Drawing.Point(0, 0);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(1350, 639);
+            this.panel4.TabIndex = 34;
+            // 
+            // panel5
+            // 
+            this.panel5.Controls.Add(this.panel7);
+            this.panel5.Controls.Add(this.panel3);
+            this.panel5.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel5.Location = new System.Drawing.Point(0, 0);
+            this.panel5.Name = "panel5";
+            this.panel5.Size = new System.Drawing.Size(1350, 639);
+            this.panel5.TabIndex = 35;
+            // 
+            // panel7
+            // 
+            this.panel7.Controls.Add(this.panel10);
+            this.panel7.Controls.Add(this.panel2);
+            this.panel7.Controls.Add(this.panel17);
+            this.panel7.Controls.Add(this.panel16);
+            this.panel7.Controls.Add(this.panel12);
+            this.panel7.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel7.Location = new System.Drawing.Point(697, 0);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(653, 639);
+            this.panel7.TabIndex = 39;
+            // 
+            // panel10
+            // 
+            this.panel10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(16)))), ((int)(((byte)(16)))), ((int)(((byte)(16)))));
+            this.panel10.Controls.Add(this.txt_Scheduled_Qty);
+            this.panel10.Controls.Add(this.lbl_Scheduled_Qty);
+            this.panel10.Controls.Add(this.label16);
+            this.panel10.Location = new System.Drawing.Point(6, 81);
+            this.panel10.Name = "panel10";
+            this.panel10.Size = new System.Drawing.Size(200, 200);
+            this.panel10.TabIndex = 39;
+            // 
+            // txt_Scheduled_Qty
+            // 
+            this.txt_Scheduled_Qty.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(16)))), ((int)(((byte)(16)))), ((int)(((byte)(16)))));
+            this.txt_Scheduled_Qty.Font = new System.Drawing.Font("微软雅黑", 40F);
+            this.txt_Scheduled_Qty.ForeColor = System.Drawing.Color.Gold;
+            this.txt_Scheduled_Qty.Location = new System.Drawing.Point(3, 106);
+            this.txt_Scheduled_Qty.Name = "txt_Scheduled_Qty";
+            this.txt_Scheduled_Qty.Size = new System.Drawing.Size(194, 78);
+            this.txt_Scheduled_Qty.TabIndex = 16;
+            this.txt_Scheduled_Qty.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txt_Scheduled_Qty.Visible = false;
+            this.txt_Scheduled_Qty.DoubleClick += new System.EventHandler(this.txt_Scheduled_Qty_DoubleClick);
+            // 
+            // lbl_Scheduled_Qty
+            // 
+            this.lbl_Scheduled_Qty.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(16)))), ((int)(((byte)(16)))), ((int)(((byte)(16)))));
+            this.lbl_Scheduled_Qty.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl_Scheduled_Qty.Font = new System.Drawing.Font("微软雅黑", 40F);
+            this.lbl_Scheduled_Qty.ForeColor = System.Drawing.Color.Gold;
+            this.lbl_Scheduled_Qty.Location = new System.Drawing.Point(0, 80);
+            this.lbl_Scheduled_Qty.Name = "lbl_Scheduled_Qty";
+            this.lbl_Scheduled_Qty.Size = new System.Drawing.Size(200, 120);
+            this.lbl_Scheduled_Qty.TabIndex = 15;
+            this.lbl_Scheduled_Qty.Text = "1500";
+            this.lbl_Scheduled_Qty.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lbl_Scheduled_Qty.DoubleClick += new System.EventHandler(this.lbl_Scheduled_Qty_DoubleClick);
+            // 
+            // label16
+            // 
+            this.label16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(38)))), ((int)(((byte)(38)))));
+            this.label16.Dock = System.Windows.Forms.DockStyle.Top;
+            this.label16.Font = new System.Drawing.Font("微软雅黑", 16F);
+            this.label16.ForeColor = System.Drawing.Color.White;
+            this.label16.Location = new System.Drawing.Point(0, 0);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(200, 80);
+            this.label16.TabIndex = 8;
+            this.label16.Text = "计划产量\r\nScheduled qty";
+            this.label16.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // panel2
+            // 
+            this.panel2.Controls.Add(this.label1);
+            this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel2.Location = new System.Drawing.Point(0, 0);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(653, 60);
+            this.panel2.TabIndex = 38;
+            // 
+            // label1
+            // 
+            this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(38)))), ((int)(((byte)(38)))));
+            this.label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.label1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label1.Font = new System.Drawing.Font("微软雅黑", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.Location = new System.Drawing.Point(0, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(653, 60);
+            this.label1.TabIndex = 14;
+            this.label1.Text = "生产数据\r\nProduction Data";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // panel17
+            // 
+            this.panel17.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.panel17.Controls.Add(this.panel8);
+            this.panel17.Controls.Add(this.lbl_Completion_Rate);
+            this.panel17.Controls.Add(this.label20);
+            this.panel17.Location = new System.Drawing.Point(441, 81);
+            this.panel17.Name = "panel17";
+            this.panel17.Size = new System.Drawing.Size(200, 200);
+            this.panel17.TabIndex = 37;
+            // 
+            // lbl_Completion_Rate
+            // 
+            this.lbl_Completion_Rate.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(16)))), ((int)(((byte)(16)))), ((int)(((byte)(16)))));
+            this.lbl_Completion_Rate.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl_Completion_Rate.Font = new System.Drawing.Font("微软雅黑", 40F);
+            this.lbl_Completion_Rate.ForeColor = System.Drawing.Color.Gold;
+            this.lbl_Completion_Rate.Location = new System.Drawing.Point(0, 80);
+            this.lbl_Completion_Rate.Name = "lbl_Completion_Rate";
+            this.lbl_Completion_Rate.Size = new System.Drawing.Size(200, 120);
+            this.lbl_Completion_Rate.TabIndex = 14;
+            this.lbl_Completion_Rate.Text = "60%";
+            this.lbl_Completion_Rate.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label20
+            // 
+            this.label20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(38)))), ((int)(((byte)(38)))));
+            this.label20.Dock = System.Windows.Forms.DockStyle.Top;
+            this.label20.Font = new System.Drawing.Font("微软雅黑", 16F);
+            this.label20.ForeColor = System.Drawing.Color.White;
+            this.label20.Location = new System.Drawing.Point(0, 0);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(200, 80);
+            this.label20.TabIndex = 8;
+            this.label20.Text = "完成率\r\nCompletion rate";
+            this.label20.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // panel16
+            // 
+            this.panel16.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.panel16.Controls.Add(this.lbl_Actual_Qty);
+            this.panel16.Controls.Add(this.label18);
+            this.panel16.Location = new System.Drawing.Point(226, 81);
+            this.panel16.Name = "panel16";
+            this.panel16.Size = new System.Drawing.Size(200, 200);
+            this.panel16.TabIndex = 36;
+            // 
+            // lbl_Actual_Qty
+            // 
+            this.lbl_Actual_Qty.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(16)))), ((int)(((byte)(16)))), ((int)(((byte)(16)))));
+            this.lbl_Actual_Qty.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl_Actual_Qty.Font = new System.Drawing.Font("微软雅黑", 40F);
+            this.lbl_Actual_Qty.ForeColor = System.Drawing.Color.Gold;
+            this.lbl_Actual_Qty.Location = new System.Drawing.Point(0, 80);
+            this.lbl_Actual_Qty.Name = "lbl_Actual_Qty";
+            this.lbl_Actual_Qty.Size = new System.Drawing.Size(200, 120);
+            this.lbl_Actual_Qty.TabIndex = 14;
+            this.lbl_Actual_Qty.Text = "800";
+            this.lbl_Actual_Qty.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label18
+            // 
+            this.label18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(38)))), ((int)(((byte)(38)))));
+            this.label18.Dock = System.Windows.Forms.DockStyle.Top;
+            this.label18.Font = new System.Drawing.Font("微软雅黑", 16F);
+            this.label18.ForeColor = System.Drawing.Color.White;
+            this.label18.Location = new System.Drawing.Point(0, 0);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(200, 80);
+            this.label18.TabIndex = 8;
+            this.label18.Text = "实际产量\r\nActual qty";
+            this.label18.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // panel12
+            // 
+            this.panel12.Controls.Add(this.panel15);
+            this.panel12.Controls.Add(this.panel18);
+            this.panel12.Controls.Add(this.panel9);
+            this.panel12.Controls.Add(this.label22);
+            this.panel12.Controls.Add(this.panel14);
+            this.panel12.Controls.Add(this.panel13);
+            this.panel12.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.panel12.Location = new System.Drawing.Point(0, 309);
+            this.panel12.Name = "panel12";
+            this.panel12.Size = new System.Drawing.Size(653, 330);
+            this.panel12.TabIndex = 34;
+            // 
+            // panel15
+            // 
+            this.panel15.Controls.Add(this.lbl_MessageInfo);
+            this.panel15.Controls.Add(this.label10);
+            this.panel15.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel15.Location = new System.Drawing.Point(0, 265);
+            this.panel15.Name = "panel15";
+            this.panel15.Size = new System.Drawing.Size(653, 65);
+            this.panel15.TabIndex = 18;
+            // 
+            // lbl_MessageInfo
+            // 
+            this.lbl_MessageInfo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(16)))), ((int)(((byte)(16)))), ((int)(((byte)(16)))));
+            this.lbl_MessageInfo.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl_MessageInfo.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl_MessageInfo.Font = new System.Drawing.Font("微软雅黑", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.lbl_MessageInfo.ForeColor = System.Drawing.Color.Gold;
+            this.lbl_MessageInfo.Location = new System.Drawing.Point(261, 0);
+            this.lbl_MessageInfo.Name = "lbl_MessageInfo";
+            this.lbl_MessageInfo.Size = new System.Drawing.Size(392, 65);
+            this.lbl_MessageInfo.TabIndex = 11;
+            this.lbl_MessageInfo.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // label10
+            // 
+            this.label10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(38)))), ((int)(((byte)(38)))));
+            this.label10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label10.Dock = System.Windows.Forms.DockStyle.Left;
+            this.label10.Font = new System.Drawing.Font("微软雅黑", 16F);
+            this.label10.ForeColor = System.Drawing.Color.White;
+            this.label10.Location = new System.Drawing.Point(0, 0);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(261, 65);
+            this.label10.TabIndex = 10;
+            this.label10.Text = "提示信息\r\nMessage tips";
+            this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // panel18
+            // 
+            this.panel18.Controls.Add(this.lbl_CompressorInfo);
+            this.panel18.Controls.Add(this.label26);
+            this.panel18.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel18.Location = new System.Drawing.Point(0, 200);
+            this.panel18.Name = "panel18";
+            this.panel18.Size = new System.Drawing.Size(653, 65);
+            this.panel18.TabIndex = 17;
+            // 
+            // lbl_CompressorInfo
+            // 
+            this.lbl_CompressorInfo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(16)))), ((int)(((byte)(16)))), ((int)(((byte)(16)))));
+            this.lbl_CompressorInfo.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl_CompressorInfo.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl_CompressorInfo.Font = new System.Drawing.Font("微软雅黑", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.lbl_CompressorInfo.ForeColor = System.Drawing.Color.Gold;
+            this.lbl_CompressorInfo.Location = new System.Drawing.Point(261, 0);
+            this.lbl_CompressorInfo.Name = "lbl_CompressorInfo";
+            this.lbl_CompressorInfo.Size = new System.Drawing.Size(392, 65);
+            this.lbl_CompressorInfo.TabIndex = 11;
+            this.lbl_CompressorInfo.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // label26
+            // 
+            this.label26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(38)))), ((int)(((byte)(38)))));
+            this.label26.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label26.Dock = System.Windows.Forms.DockStyle.Left;
+            this.label26.Font = new System.Drawing.Font("微软雅黑", 16F);
+            this.label26.ForeColor = System.Drawing.Color.White;
+            this.label26.Location = new System.Drawing.Point(0, 0);
+            this.label26.Name = "label26";
+            this.label26.Size = new System.Drawing.Size(261, 65);
+            this.label26.TabIndex = 10;
+            this.label26.Text = "压缩机型号\r\nCompressor model";
+            this.label26.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // panel9
+            // 
+            this.panel9.Controls.Add(this.lbl_Com_BarCode);
+            this.panel9.Controls.Add(this.label24);
+            this.panel9.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel9.Location = new System.Drawing.Point(0, 135);
+            this.panel9.Name = "panel9";
+            this.panel9.Size = new System.Drawing.Size(653, 65);
+            this.panel9.TabIndex = 16;
+            // 
+            // lbl_Com_BarCode
+            // 
+            this.lbl_Com_BarCode.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(16)))), ((int)(((byte)(16)))), ((int)(((byte)(16)))));
+            this.lbl_Com_BarCode.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl_Com_BarCode.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl_Com_BarCode.Font = new System.Drawing.Font("微软雅黑", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.lbl_Com_BarCode.ForeColor = System.Drawing.Color.Gold;
+            this.lbl_Com_BarCode.Location = new System.Drawing.Point(261, 0);
+            this.lbl_Com_BarCode.Name = "lbl_Com_BarCode";
+            this.lbl_Com_BarCode.Size = new System.Drawing.Size(392, 65);
+            this.lbl_Com_BarCode.TabIndex = 10;
+            this.lbl_Com_BarCode.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // label24
+            // 
+            this.label24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(38)))), ((int)(((byte)(38)))));
+            this.label24.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label24.Dock = System.Windows.Forms.DockStyle.Left;
+            this.label24.Font = new System.Drawing.Font("微软雅黑", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label24.ForeColor = System.Drawing.Color.White;
+            this.label24.Location = new System.Drawing.Point(0, 0);
+            this.label24.Name = "label24";
+            this.label24.Size = new System.Drawing.Size(261, 65);
+            this.label24.TabIndex = 9;
+            this.label24.Text = "压缩机条码\r\nCompressor barcode";
+            this.label24.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label22
+            // 
+            this.label22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label22.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label22.Dock = System.Windows.Forms.DockStyle.Top;
+            this.label22.Font = new System.Drawing.Font("微软雅黑", 16F);
+            this.label22.ForeColor = System.Drawing.Color.White;
+            this.label22.Location = new System.Drawing.Point(0, 130);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(653, 5);
+            this.label22.TabIndex = 15;
+            this.label22.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // panel14
+            // 
+            this.panel14.Controls.Add(this.lbl_ProductInfo);
+            this.panel14.Controls.Add(this.label7);
+            this.panel14.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel14.Location = new System.Drawing.Point(0, 65);
+            this.panel14.Name = "panel14";
+            this.panel14.Size = new System.Drawing.Size(653, 65);
+            this.panel14.TabIndex = 14;
+            // 
+            // lbl_ProductInfo
+            // 
+            this.lbl_ProductInfo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(16)))), ((int)(((byte)(16)))), ((int)(((byte)(16)))));
+            this.lbl_ProductInfo.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl_ProductInfo.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl_ProductInfo.Font = new System.Drawing.Font("微软雅黑", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.lbl_ProductInfo.ForeColor = System.Drawing.Color.Gold;
+            this.lbl_ProductInfo.Location = new System.Drawing.Point(261, 0);
+            this.lbl_ProductInfo.Name = "lbl_ProductInfo";
+            this.lbl_ProductInfo.Size = new System.Drawing.Size(392, 65);
+            this.lbl_ProductInfo.TabIndex = 11;
+            this.lbl_ProductInfo.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // label7
+            // 
+            this.label7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(38)))), ((int)(((byte)(38)))));
+            this.label7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label7.Dock = System.Windows.Forms.DockStyle.Left;
+            this.label7.Font = new System.Drawing.Font("微软雅黑", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label7.ForeColor = System.Drawing.Color.White;
+            this.label7.Location = new System.Drawing.Point(0, 0);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(261, 65);
+            this.label7.TabIndex = 10;
+            this.label7.Text = "产品型号\r\nProduct model";
+            this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // panel13
+            // 
+            this.panel13.Controls.Add(this.lbl_Pro_BarCode);
+            this.panel13.Controls.Add(this.label6);
+            this.panel13.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel13.Location = new System.Drawing.Point(0, 0);
+            this.panel13.Name = "panel13";
+            this.panel13.Size = new System.Drawing.Size(653, 65);
+            this.panel13.TabIndex = 13;
+            // 
+            // lbl_Pro_BarCode
+            // 
+            this.lbl_Pro_BarCode.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(16)))), ((int)(((byte)(16)))), ((int)(((byte)(16)))));
+            this.lbl_Pro_BarCode.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl_Pro_BarCode.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lbl_Pro_BarCode.Font = new System.Drawing.Font("微软雅黑", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.lbl_Pro_BarCode.ForeColor = System.Drawing.Color.Gold;
+            this.lbl_Pro_BarCode.Location = new System.Drawing.Point(261, 0);
+            this.lbl_Pro_BarCode.Name = "lbl_Pro_BarCode";
+            this.lbl_Pro_BarCode.Size = new System.Drawing.Size(392, 65);
+            this.lbl_Pro_BarCode.TabIndex = 10;
+            this.lbl_Pro_BarCode.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // label6
+            // 
+            this.label6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(38)))), ((int)(((byte)(38)))));
+            this.label6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label6.Dock = System.Windows.Forms.DockStyle.Left;
+            this.label6.Font = new System.Drawing.Font("微软雅黑", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label6.ForeColor = System.Drawing.Color.White;
+            this.label6.Location = new System.Drawing.Point(0, 0);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(261, 65);
+            this.label6.TabIndex = 9;
+            this.label6.Text = "扫描条码\r\nProduct barcode";
+            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // panel3
+            // 
+            this.panel3.Controls.Add(this.cht_NoMatchHour);
+            this.panel3.Controls.Add(this.cht_ProductHour);
+            this.panel3.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel3.Location = new System.Drawing.Point(0, 0);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(697, 639);
+            this.panel3.TabIndex = 38;
+            // 
+            // cht_NoMatchHour
+            // 
+            this.cht_NoMatchHour.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.cht_NoMatchHour.BorderlineColor = System.Drawing.Color.Gray;
+            this.cht_NoMatchHour.BorderlineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Solid;
+            chartArea3.AxisX.Interval = 1D;
+            chartArea3.AxisX.IsLabelAutoFit = false;
+            chartArea3.AxisX.IsStartedFromZero = false;
+            chartArea3.AxisX.LabelStyle.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea3.AxisX.LabelStyle.ForeColor = System.Drawing.Color.Gold;
+            chartArea3.AxisX.LineColor = System.Drawing.Color.Gold;
+            chartArea3.AxisX.MajorGrid.Enabled = false;
+            chartArea3.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dash;
+            chartArea3.AxisX.MajorTickMark.LineColor = System.Drawing.Color.White;
+            chartArea3.AxisX.TitleFont = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea3.AxisX.TitleForeColor = System.Drawing.Color.Gold;
+            chartArea3.AxisX2.InterlacedColor = System.Drawing.Color.Gold;
+            chartArea3.AxisX2.LineColor = System.Drawing.Color.Gold;
+            chartArea3.AxisX2.MajorGrid.LineColor = System.Drawing.Color.Gold;
+            chartArea3.AxisX2.TitleForeColor = System.Drawing.Color.Gold;
+            chartArea3.AxisY.Interval = 10D;
+            chartArea3.AxisY.IsLabelAutoFit = false;
+            chartArea3.AxisY.LabelAutoFitMaxFontSize = 12;
+            chartArea3.AxisY.LabelStyle.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea3.AxisY.LabelStyle.ForeColor = System.Drawing.Color.Gold;
+            chartArea3.AxisY.LineColor = System.Drawing.Color.Gold;
+            chartArea3.AxisY.MajorGrid.LineColor = System.Drawing.Color.CadetBlue;
+            chartArea3.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dash;
+            chartArea3.AxisY.MajorTickMark.LineColor = System.Drawing.Color.Gold;
+            chartArea3.AxisY.Maximum = 100D;
+            chartArea3.AxisY.Minimum = 0D;
+            chartArea3.AxisY.MinorGrid.LineColor = System.Drawing.Color.White;
+            chartArea3.AxisY2.LineColor = System.Drawing.Color.Gold;
+            chartArea3.AxisY2.MajorGrid.LineColor = System.Drawing.Color.White;
+            chartArea3.AxisY2.MinorGrid.LineColor = System.Drawing.Color.White;
+            chartArea3.AxisY2.TitleForeColor = System.Drawing.Color.Gold;
+            chartArea3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(56)))), ((int)(((byte)(68)))), ((int)(((byte)(92)))));
+            chartArea3.BorderColor = System.Drawing.Color.WhiteSmoke;
+            chartArea3.CursorX.LineColor = System.Drawing.SystemColors.Window;
+            chartArea3.CursorY.LineColor = System.Drawing.Color.White;
+            chartArea3.Name = "ChartArea1";
+            this.cht_NoMatchHour.ChartAreas.Add(chartArea3);
+            this.cht_NoMatchHour.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.cht_NoMatchHour.Location = new System.Drawing.Point(0, 320);
+            this.cht_NoMatchHour.Name = "cht_NoMatchHour";
+            this.cht_NoMatchHour.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            series3.BorderDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            series3.ChartArea = "ChartArea1";
+            series3.Color = System.Drawing.Color.OrangeRed;
+            series3.CustomProperties = "DrawingStyle=Cylinder";
+            series3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            series3.Label = "#VAL";
+            series3.LabelBorderDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            series3.LabelForeColor = System.Drawing.Color.OrangeRed;
+            series3.LegendText = "不匹配数量\\nNO Match Qty";
+            series3.Name = "NoQty";
+            dataPoint6.IsVisibleInLegend = true;
+            series3.Points.Add(dataPoint5);
+            series3.Points.Add(dataPoint6);
+            series3.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Int32;
+            this.cht_NoMatchHour.Series.Add(series3);
+            this.cht_NoMatchHour.Size = new System.Drawing.Size(697, 319);
+            this.cht_NoMatchHour.TabIndex = 39;
+            this.cht_NoMatchHour.Text = "chart1";
+            title3.Font = new System.Drawing.Font("微软雅黑", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            title3.ForeColor = System.Drawing.Color.White;
+            title3.Name = "Title1";
+            title3.Text = "小时不匹配量统计 Hourly No Match  of the day";
+            this.cht_NoMatchHour.Titles.Add(title3);
+            // 
+            // cht_ProductHour
+            // 
+            this.cht_ProductHour.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.cht_ProductHour.BorderlineColor = System.Drawing.Color.Gray;
+            this.cht_ProductHour.BorderlineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Solid;
+            chartArea4.AxisX.InterlacedColor = System.Drawing.Color.Yellow;
+            chartArea4.AxisX.Interval = 2D;
+            chartArea4.AxisX.IsLabelAutoFit = false;
+            chartArea4.AxisX.IsStartedFromZero = false;
+            chartArea4.AxisX.LabelStyle.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea4.AxisX.LabelStyle.ForeColor = System.Drawing.Color.Gold;
+            chartArea4.AxisX.LineColor = System.Drawing.Color.Gold;
+            chartArea4.AxisX.MajorGrid.Enabled = false;
+            chartArea4.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dash;
+            chartArea4.AxisX.MajorTickMark.LineColor = System.Drawing.Color.Gold;
+            chartArea4.AxisX.TitleFont = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea4.AxisX.TitleForeColor = System.Drawing.Color.WhiteSmoke;
+            chartArea4.AxisX2.LineColor = System.Drawing.Color.White;
+            chartArea4.AxisX2.MajorGrid.LineColor = System.Drawing.Color.Gold;
+            chartArea4.AxisY.Interval = 10D;
+            chartArea4.AxisY.IsLabelAutoFit = false;
+            chartArea4.AxisY.LabelAutoFitMaxFontSize = 12;
+            chartArea4.AxisY.LabelStyle.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea4.AxisY.LabelStyle.ForeColor = System.Drawing.Color.Gold;
+            chartArea4.AxisY.LineColor = System.Drawing.Color.Gold;
+            chartArea4.AxisY.MajorGrid.LineColor = System.Drawing.Color.IndianRed;
+            chartArea4.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dash;
+            chartArea4.AxisY.MajorTickMark.LineColor = System.Drawing.Color.Gold;
+            chartArea4.AxisY.Maximum = 100D;
+            chartArea4.AxisY.Minimum = 0D;
+            chartArea4.AxisY.MinorGrid.LineColor = System.Drawing.Color.White;
+            chartArea4.AxisY2.LineColor = System.Drawing.Color.White;
+            chartArea4.AxisY2.MajorGrid.LineColor = System.Drawing.Color.Gold;
+            chartArea4.AxisY2.MinorGrid.LineColor = System.Drawing.Color.Gold;
+            chartArea4.AxisY2.TitleForeColor = System.Drawing.Color.White;
+            chartArea4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(56)))), ((int)(((byte)(68)))), ((int)(((byte)(92)))));
+            chartArea4.BorderColor = System.Drawing.Color.White;
+            chartArea4.CursorX.LineColor = System.Drawing.SystemColors.Window;
+            chartArea4.CursorY.LineColor = System.Drawing.Color.White;
+            chartArea4.Name = "ChartArea1";
+            this.cht_ProductHour.ChartAreas.Add(chartArea4);
+            this.cht_ProductHour.Dock = System.Windows.Forms.DockStyle.Top;
+            this.cht_ProductHour.Location = new System.Drawing.Point(0, 0);
+            this.cht_ProductHour.Name = "cht_ProductHour";
+            this.cht_ProductHour.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            series4.ChartArea = "ChartArea1";
+            series4.Color = System.Drawing.Color.SpringGreen;
+            series4.CustomProperties = "DrawingStyle=Cylinder";
+            series4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            series4.Label = "#VAL";
+            series4.LabelBorderDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.NotSet;
+            series4.LabelForeColor = System.Drawing.Color.SpringGreen;
+            series4.LegendText = "生产数量\\nProduction Qty";
+            series4.Name = "ToQty";
+            series4.Points.Add(dataPoint7);
+            series4.Points.Add(dataPoint8);
+            series4.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Int32;
+            this.cht_ProductHour.Series.Add(series4);
+            this.cht_ProductHour.Size = new System.Drawing.Size(697, 320);
+            this.cht_ProductHour.TabIndex = 38;
+            this.cht_ProductHour.Text = "cht_ProductHour";
+            title4.Font = new System.Drawing.Font("微软雅黑", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            title4.ForeColor = System.Drawing.Color.White;
+            title4.Name = "Title1";
+            title4.Text = "小时产量统计 Hourly output of the day";
+            this.cht_ProductHour.Titles.Add(title4);
+            // 
+            // panel8
+            // 
+            this.panel8.Controls.Add(this.pictureBox1);
+            this.panel8.Location = new System.Drawing.Point(-9, -18);
+            this.panel8.Name = "panel8";
+            this.panel8.Size = new System.Drawing.Size(212, 240);
+            this.panel8.TabIndex = 40;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(53, 15);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(101, 200);
+            this.pictureBox1.TabIndex = 41;
+            this.pictureBox1.TabStop = false;
+            // 
+            // NewFrmPressorMonitor
+            // 
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(76)))), ((int)(((byte)(111)))));
+            this.ClientSize = new System.Drawing.Size(1350, 729);
+            this.Controls.Add(this.panel1);
+            this.Font = new System.Drawing.Font("微软雅黑", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.Name = "NewFrmPressorMonitor";
+            this.Text = "FrmProductMonitor";
+            this.Load += new System.EventHandler(this.FrmPressorMonitor_Load);
+            this.panel1.ResumeLayout(false);
+            this.panel6.ResumeLayout(false);
+            this.panel4.ResumeLayout(false);
+            this.panel5.ResumeLayout(false);
+            this.panel7.ResumeLayout(false);
+            this.panel10.ResumeLayout(false);
+            this.panel10.PerformLayout();
+            this.panel2.ResumeLayout(false);
+            this.panel17.ResumeLayout(false);
+            this.panel16.ResumeLayout(false);
+            this.panel12.ResumeLayout(false);
+            this.panel15.ResumeLayout(false);
+            this.panel18.ResumeLayout(false);
+            this.panel9.ResumeLayout(false);
+            this.panel14.ResumeLayout(false);
+            this.panel13.ResumeLayout(false);
+            this.panel3.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.cht_NoMatchHour)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.cht_ProductHour)).EndInit();
+            this.panel8.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+        private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Panel panel6;
+        private System.Windows.Forms.Panel panel4;
+        private System.Windows.Forms.Panel panel5;
+        private System.Windows.Forms.Panel panel7;
+        private System.Windows.Forms.Panel panel10;
+        private System.Windows.Forms.TextBox txt_Scheduled_Qty;
+        private System.Windows.Forms.Label lbl_Scheduled_Qty;
+        private System.Windows.Forms.Label label16;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Panel panel17;
+        private System.Windows.Forms.Label lbl_Completion_Rate;
+        private System.Windows.Forms.Label label20;
+        private System.Windows.Forms.Panel panel16;
+        private System.Windows.Forms.Label lbl_Actual_Qty;
+        private System.Windows.Forms.Label label18;
+        private System.Windows.Forms.Panel panel12;
+        private System.Windows.Forms.Panel panel15;
+        private System.Windows.Forms.Label lbl_MessageInfo;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Panel panel18;
+        private System.Windows.Forms.Label lbl_CompressorInfo;
+        private System.Windows.Forms.Label label26;
+        private System.Windows.Forms.Panel panel9;
+        private System.Windows.Forms.Label lbl_Com_BarCode;
+        private System.Windows.Forms.Label label24;
+        private System.Windows.Forms.Label label22;
+        private System.Windows.Forms.Panel panel14;
+        private System.Windows.Forms.Label lbl_ProductInfo;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Panel panel13;
+        private System.Windows.Forms.Label lbl_Pro_BarCode;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.DataVisualization.Charting.Chart cht_NoMatchHour;
+        private System.Windows.Forms.DataVisualization.Charting.Chart cht_ProductHour;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Panel panel8;
+        private System.Windows.Forms.PictureBox pictureBox1;
+    }
+}

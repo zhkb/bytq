@@ -1,0 +1,13 @@
+E:\学习\Src\New Frame\NewFrame\Frame.Config\obj\Debug\Frame.Config.Properties.Resources.resources
+E:\学习\Src\New Frame\NewFrame\Frame.Config\obj\Debug\Frame.Config.csproj.GenerateResource.Cache
+E:\学习\Src\New Frame\NewFrame\Frame.Config\bin\Debug\Frame.Config.dll.config
+E:\学习\Src\New Frame\NewFrame\Frame.Config\bin\Debug\Frame.Config.dll
+E:\学习\Src\New Frame\NewFrame\Frame.Config\bin\Debug\Frame.Config.pdb
+E:\学习\Src\New Frame\NewFrame\Frame.Config\obj\Debug\Frame.Config.dll
+E:\学习\Src\New Frame\NewFrame\Frame.Config\obj\Debug\Frame.Config.pdb
+E:\学习\Src\New Frame\NewFrame\Config\bin\Debug\Frame.Config.dll
+E:\学习\Src\New Frame\NewFrame\Config\bin\Debug\Frame.Config.pdb
+E:\学习\Src\New Frame\NewFrame\Config\obj\Debug\Frame.Config.Properties.Resources.resources
+E:\学习\Src\New Frame\NewFrame\Config\obj\Debug\Frame.Config.csproj.GenerateResource.Cache
+E:\学习\Src\New Frame\NewFrame\Config\obj\Debug\Frame.Config.dll
+E:\学习\Src\New Frame\NewFrame\Config\obj\Debug\Frame.Config.pdb

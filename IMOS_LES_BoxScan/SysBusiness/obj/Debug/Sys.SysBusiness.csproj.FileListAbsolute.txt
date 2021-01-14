@@ -1,0 +1,194 @@
+E:\学习\Src\New Frame\NewFrame\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+E:\学习\Src\New Frame\NewFrame\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+E:\学习\Src\New Frame\NewFrame\SysBusiness\bin\Debug\Frame.Utilities.dll
+E:\学习\Src\New Frame\NewFrame\SysBusiness\bin\Debug\Sys.Config.dll
+E:\学习\Src\New Frame\NewFrame\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+E:\学习\Src\New Frame\NewFrame\SysBusiness\bin\Debug\MySql.Data.dll
+E:\学习\Src\New Frame\NewFrame\SysBusiness\bin\Debug\System.Data.SQLite.dll
+E:\学习\Src\New Frame\NewFrame\SysBusiness\bin\Debug\Sys.Config.pdb
+E:\学习\Src\New Frame\NewFrame\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+E:\学习\Src\New Frame\NewFrame\SysBusiness\bin\Debug\Frame.Utilities.pdb
+E:\学习\Src\New Frame\NewFrame\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+E:\学习\Src\New Frame\NewFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+E:\学习\Src\New Frame\NewFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+E:\学习\Src\New Frame\NewFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+E:\学习\Src\New Frame\NewFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+E:\学习\Src\New Frame\NewFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmReportPrint.resources
+E:\学习\Src\New Frame\NewFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+E:\学习\Src\New Frame\NewFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+E:\学习\Src\New Frame\NewFrame\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+E:\学习\Src\New Frame\NewFrame\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+E:\学习\Src\New Frame\NewFrame\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+E:\学习\Src\New Frame\NewFrame\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Sys.Config.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\MySql.Data.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmReportPrint.resources
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Sys.Config.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\MySql.Data.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmReportPrint.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\SysBusiness\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\SysBusiness\bin\Debug\MySql.Data.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\SysBusiness\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\SysBusiness\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\SysBusiness\bin\Debug\Sys.Utilities.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\SysBusiness\bin\Debug\Sys.Utilities.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.Utilities.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\MySql.Data.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.Utilities.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.Config.dll
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.Utilities.dll
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\MySql.Data.dll
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.Utilities.pdb
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.Config.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.Utilities.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\MySql.Data.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.Utilities.pdb
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.Config.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\SysBusiness\bin\Debug\MySql.Data.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\SysBusiness\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\SysBusiness\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\SysBusiness\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.csprojAssemblyReference.cache
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.cache
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.CoreCompileInputs.cache
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.CopyComplete
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\SysBusiness\bin\Debug\Sys.Config.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\SysBusiness\bin\Debug\MySql.Data.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\SysBusiness\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\SysBusiness\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\SysBusiness\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\SysBusiness\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\SysBusiness\obj\Debug\Sys.SysBusiness.csprojAssemblyReference.cache
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.cache
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.CoreCompileInputs.cache
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.CopyComplete
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+D:\SVN\IMOS_LES_BoxScan\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+D:\SVN\IMOS_LES_BoxScan\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+D:\SVN\IMOS_LES_BoxScan\SysBusiness\bin\Debug\Sys.Config.dll
+D:\SVN\IMOS_LES_BoxScan\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+D:\SVN\IMOS_LES_BoxScan\SysBusiness\bin\Debug\MySql.Data.dll
+D:\SVN\IMOS_LES_BoxScan\SysBusiness\bin\Debug\System.Data.SQLite.dll
+D:\SVN\IMOS_LES_BoxScan\SysBusiness\bin\Debug\Sys.Config.pdb
+D:\SVN\IMOS_LES_BoxScan\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+D:\SVN\IMOS_LES_BoxScan\SysBusiness\obj\Debug\Sys.SysBusiness.csprojAssemblyReference.cache
+D:\SVN\IMOS_LES_BoxScan\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+D:\SVN\IMOS_LES_BoxScan\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+D:\SVN\IMOS_LES_BoxScan\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.cache
+D:\SVN\IMOS_LES_BoxScan\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.CoreCompileInputs.cache
+D:\SVN\IMOS_LES_BoxScan\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.CopyComplete
+D:\SVN\IMOS_LES_BoxScan\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+D:\SVN\IMOS_LES_BoxScan\SysBusiness\obj\Debug\Sys.SysBusiness.pdb

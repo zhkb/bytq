@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" UseFileCache="true" ReportInfo.Created="06/07/2017 15:25:22" ReportInfo.Modified="10/12/2019 14:01:37" ReportInfo.CreatorVersion="1.8.30.0">
+  <Dictionary>
+    <MsSqlDataConnection Name="Connection" ConnectionString="rijcmlqJUrEa/KIcQqhhcfnlqC6PGg5imbaGg6zUaNTAYc5sc03TfePxSblja2w5ZBQ6XB2KW3rzKVqcx6AloZTNTR44dHkYeZUDGBO29MmMS3/EQZ1uB8oN4b6VT05NhkHDu4nSS02ixL5sCDaWruiw1dvBMMaAoWWyrYZLApMwLWsLZEX4+75DvGPgPlqrPbGnxvV">
+      <TableDataSource Name="Wms_Product_BarCode" Alias="BoxBarData" DataType="System.Int32" Enabled="true" TableName="Wms_Product_BarCode">
+        <Column Name="Bar_ID" Enabled="false" DataType="System.Int32"/>
+        <Column Name="Bar_Code" DataType="System.String"/>
+        <Column Name="Bar_Type" Enabled="false" DataType="System.Int32"/>
+        <Column Name="Line_Type" Enabled="false" DataType="System.String"/>
+        <Column Name="Material_Name" DataType="System.String" PropName="Part_No"/>
+        <Column Name="Order_Material" DataType="System.String" PropName="Part_Name"/>
+        <Column Name="Unit" Enabled="false" DataType="System.String"/>
+        <Column Name="Spection" Enabled="false" DataType="System.String"/>
+        <Column Name="Bar_Date" Enabled="false" DataType="System.String"/>
+        <Column Name="Create_Time" Enabled="false" DataType="System.DateTime"/>
+        <Column Name="Print_Group" Enabled="false" DataType="System.String"/>
+        <Column Name="Company_ID" Enabled="false" DataType="System.Int32"/>
+        <Column Name="Company_Name" Enabled="false" DataType="System.String"/>
+        <Column Name="Product_Line_ID" Enabled="false" DataType="System.Int32"/>
+        <Column Name="Product_Line_Name" Enabled="false" DataType="System.String"/>
+        <Column Name="Dept_ID" Enabled="false" DataType="System.Int32"/>
+        <Column Name="Dept_Name" Enabled="false" DataType="System.String"/>
+        <Column Name="Order_No" DataType="System.String" PropName="Column"/>
+        <CommandParameter Name="Parameter" DataType="22"/>
+      </TableDataSource>
+    </MsSqlDataConnection>
+    <MsSqlDataConnection Name="Connection1" ConnectionString="rijcmlqQG9MY5ISwkuzB0Wi8oMpsr9XxAhiHe1zbgmAGpLrp6znGnBet+XoFgYfj5gl+ytlUcHlfeEynGmamTZqajKOnUJPRzAEGZLoF3rvSvtMCHV+igYU39/b7u+65PK6rOIF2XJyGdyvmHlaH5UbQ2CWo7W5gD+jlKZcw325akI4GPHIZRARcyz7TJleH4RGyHCMH8pkUU59Xst+0sNu/8vmvA==">
+      <TableDataSource Name="IMOS_PR_Scan" DataType="System.Int32" Enabled="true" TableName="IMOS_PR_Scan">
+        <Column Name="ID" DataType="System.Int32"/>
+        <Column Name="Company_Code" DataType="System.String"/>
+        <Column Name="Company_Name" DataType="System.String"/>
+        <Column Name="Factory_Code" DataType="System.String"/>
+        <Column Name="Factory_Name" DataType="System.String"/>
+        <Column Name="Product_Line_Code" DataType="System.String"/>
+        <Column Name="Product_Line_Name" DataType="System.String"/>
+        <Column Name="Process_Code" DataType="System.String"/>
+        <Column Name="Process_Name" DataType="System.String"/>
+        <Column Name="Product_BarCode" DataType="System.String"/>
+        <Column Name="Material_Code" DataType="System.String"/>
+        <Column Name="Material_Name" DataType="System.String"/>
+        <Column Name="Material_Level" DataType="System.Int32"/>
+        <Column Name="Material_QualityResult" DataType="System.String"/>
+        <Column Name="Scan_Time" DataType="System.DateTime"/>
+        <Column Name="Create_Time" DataType="System.DateTime"/>
+        <Column Name="Create_User" DataType="System.String"/>
+      </TableDataSource>
+    </MsSqlDataConnection>
+    <Parameter Name="BarText" DataType="System.String"/>
+    <Parameter Name="MaterCode" DataType="System.String"/>
+    <Parameter Name="MaterName" DataType="System.String"/>
+    <Parameter Name="ProductDate" DataType="System.String"/>
+    <Parameter Name="SeqNo" DataType="System.String"/>
+  </Dictionary>
+  <ReportPage Name="Page1" LeftMargin="0" TopMargin="0" RightMargin="0" BottomMargin="0" Watermark.ImageSize="Center">
+    <ReportTitleBand Name="ReportTitle1" Top="20" Width="793.8" Height="37.8" Guides="37.8,37.8">
+      <TextObject Name="Text1" Width="793.8" Height="37.8" Dock="Fill" Text="能耗标识打印扫描记录表" HorzAlign="Center" Font="微软雅黑, 18pt"/>
+    </ReportTitleBand>
+    <PageHeaderBand Name="PageHeader1" Top="77.8" Width="793.8" Height="28.35" Guides="28.35">
+      <TextObject Name="Text5" Width="56.7" Height="28.35" Dock="Left" Border.Lines="All" Text="序号" HorzAlign="Center" Font="微软雅黑, 12pt"/>
+      <TextObject Name="Text6" Left="56.7" Width="189" Height="28.35" Dock="Left" Border.Lines="All" Text="产品条码" HorzAlign="Center" Font="微软雅黑, 12pt"/>
+      <TextObject Name="Text7" Left="245.7" Width="132.3" Height="28.35" Dock="Left" Border.Lines="All" Text="产品编码" HorzAlign="Center" Font="微软雅黑, 12pt"/>
+      <TextObject Name="Text8" Left="378" Width="151.2" Height="28.35" Dock="Left" Border.Lines="All" Text="产品型号" HorzAlign="Center" Font="微软雅黑, 12pt"/>
+      <TextObject Name="Text9" Left="529.2" Width="179.55" Height="28.35" Dock="Left" Border.Lines="All" Text="扫描时间" HorzAlign="Center" Font="微软雅黑, 12pt"/>
+      <TextObject Name="Text10" Left="708.75" Width="85.05" Height="28.35" Dock="Fill" Border.Lines="All" Text="能耗等级" HorzAlign="Center" Font="微软雅黑, 12pt"/>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="126.15" Width="793.8" Height="28.35" Guides="9.45,9.45" DataSource="IMOS_PR_Scan">
+      <TextObject Name="Text2" Width="56.7" Height="28.35" Dock="Left" Border.Lines="All" Text="[Row#]" HorzAlign="Center" Font="微软雅黑, 10pt"/>
+      <TextObject Name="Text3" Left="56.7" Width="189" Height="28.35" Dock="Left" Border.Lines="All" Text="[IMOS_PR_Scan.Product_BarCode]" HorzAlign="Center" Font="微软雅黑, 10pt"/>
+      <TextObject Name="Text4" Left="245.7" Width="132.3" Height="28.35" Dock="Left" Border.Lines="All" Text="[IMOS_PR_Scan.Material_Code]" HorzAlign="Center" Font="微软雅黑, 10pt"/>
+      <TextObject Name="Text11" Left="378" Width="151.2" Height="28.35" Dock="Left" Border.Lines="All" Text="[IMOS_PR_Scan.Material_Name]" HorzAlign="Center" Font="微软雅黑, 10pt"/>
+      <TextObject Name="Text12" Left="529.2" Width="179.55" Height="28.35" Dock="Left" Border.Lines="All" Text="[IMOS_PR_Scan.Scan_Time]" HorzAlign="Center" Font="微软雅黑, 10pt"/>
+      <TextObject Name="Text13" Left="708.75" Width="85.05" Height="28.35" Dock="Fill" Border.Lines="All" Text="[IMOS_PR_Scan.Material_Level]" HorzAlign="Center" Font="微软雅黑, 10pt"/>
+    </DataBand>
+  </ReportPage>
+</Report>

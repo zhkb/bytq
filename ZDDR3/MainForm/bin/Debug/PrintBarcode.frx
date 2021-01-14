@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="06/14/2018 10:00:20" ReportInfo.Modified="06/14/2018 10:10:36" ReportInfo.CreatorVersion="1.8.30.0">
+  <Dictionary>
+    <MsSqlDataConnection Name="Connection" ConnectionString="rijcmlqG7JEM8vUQFw5Px1C9xr+maKCydYmGKGUTTKuXt/TPdZRw75gySu2UUyIvyXeEJgPdD3srQdbKkawzErnofLa+9RGN1sAv0gE13O4irmnSsgNIs2XhBSlIUd+QDrfR5fUddXuROBTQo301L4IVnN5u60Zx1qnBtBVUS8YgQlKxMDwG/OyG41LVbsUTJKGohjpIeFcgG30JW0E5N3xIkdf3A==">
+      <TableDataSource Name="Table" Alias="Barcode_DataTable" DataType="System.Int32" Enabled="true">
+        <Column Name="Material_Code" DataType="System.String" PropName="Column"/>
+        <CommandParameter Name="Material_Code" DataType="22"/>
+      </TableDataSource>
+    </MsSqlDataConnection>
+  </Dictionary>
+  <ReportPage Name="Page1">
+    <DataBand Name="Data1" Width="718.2" Height="75.6" DataSource="Table">
+      <TextObject Name="Text1" Left="198.45" Top="18.9" Width="94.5" Height="18.9" Text="eweewe" Font="宋体, 9pt"/>
+    </DataBand>
+  </ReportPage>
+</Report>

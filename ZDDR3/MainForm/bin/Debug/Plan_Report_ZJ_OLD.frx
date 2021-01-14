@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="08/29/2017 16:01:30" ReportInfo.Modified="09/10/2017 12:18:29" ReportInfo.CreatorVersion="2013.2.5.0">
+  <Styles Name="Standard">
+    <Style Name="Title" Font="宋体, 12pt, style=Bold"/>
+    <Style Name="Header" Font="宋体, 10pt, style=Bold"/>
+    <Style Name="Group" Font="宋体, 10pt, style=Bold"/>
+    <Style Name="Data"/>
+    <Style Name="Footer"/>
+    <Style Name="EvenRows" Fill.Color="WhiteSmoke"/>
+  </Styles>
+  <Dictionary>
+    <MsSqlDataConnection Name="Connection" ConnectionString="rijcmlqG7JEM8vUQFw5Px1C9xr+maKCydYmGKGUTTKuXt/TPdZRw75gySu2UUyIvyXeEJgPdD3srQdbKkawzErnofLa+9RGN1sAv0gE13O4irmnSsgNIs2XhBSlIUd+QDrfR5fUddXuROBTQo301L4IVnN5u60Zx1qnBtBVUS8YgQlKxMDwG/OyG41LVbsUTJKGohjpAfzXH4p/HphBP9bWkI6iQw==">
+      <TableDataSource Name="Table" Alias="PlanInfo" DataType="System.Int32" Enabled="true" SelectCommand="SELECT a.[Serial_No]&#13;&#10;      ,a.[Ingredients_Code]&#13;&#10;      ,a.[Ingredients_Name]&#13;&#10;      ,a.[Ingredients_Weight]&#13;&#10;      ,a.[Ingredients_Error]&#13;&#10;      ,a.[Ingredients_Time]&#13;&#10;      ,b.[Plan_No]&#13;&#10;      ,b.[Recipe_Code]&#13;&#10;      ,b.[Recipe_Name]&#13;&#10;      ,b.[Plan_Qty]&#13;&#10;      ,b.[Actual_Qty]&#13;&#10;      ,b.[Plan_Date]&#13;&#10;  FROM [Mixing_Weigh] a, Mixing_Plan b where a.plan_no=b.Plan_No and a.[Plan_No] = '1'">
+        <Column Name="Serial_No" DataType="System.Int32"/>
+        <Column Name="Ingredients_Code" DataType="System.String"/>
+        <Column Name="Ingredients_Name" DataType="System.String"/>
+        <Column Name="Ingredients_Weight" DataType="System.Double"/>
+        <Column Name="Ingredients_Error" DataType="System.Double"/>
+        <Column Name="Ingredients_Time" DataType="System.DateTime"/>
+        <Column Name="Plan_No" DataType="System.String"/>
+        <Column Name="Recipe_Code" DataType="System.String"/>
+        <Column Name="Recipe_Name" DataType="System.String"/>
+        <Column Name="Plan_Qty" DataType="System.Int32"/>
+        <Column Name="Actual_Qty" DataType="System.Int32"/>
+        <Column Name="Plan_Date" DataType="System.DateTime"/>
+      </TableDataSource>
+    </MsSqlDataConnection>
+  </Dictionary>
+  <ReportPage Name="Page1">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2" Height="103.95">
+      <TextObject Name="Text1" Width="718.2" Height="56.7" Text="制胶计划报表" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt, style=Bold" Style="Title"/>
+      <TextObject Name="Text15" Left="47.25" Top="56.7" Width="75.6" Height="18.9" Border.Lines="All" Text="计划编号" VertAlign="Center" Font="宋体, 10pt, style=Bold"/>
+      <TextObject Name="Text14" Left="47.25" Top="75.6" Width="75.6" Height="18.9" Border.Lines="All" Text="[PlanInfo.Plan_No]" VertAlign="Center" Font="宋体, 9pt"/>
+      <TextObject Name="Text17" Left="122.85" Top="56.7" Width="94.5" Height="18.9" Border.Lines="All" Text="配方编码" VertAlign="Center" Font="宋体, 10pt, style=Bold"/>
+      <TextObject Name="Text16" Left="122.85" Top="75.6" Width="94.5" Height="18.9" Border.Lines="All" Text="[PlanInfo.Recipe_Code]" VertAlign="Center" Font="宋体, 9pt"/>
+      <TextObject Name="Text19" Left="217.35" Top="56.7" Width="94.5" Height="18.9" Border.Lines="All" Text="配方名称" VertAlign="Center" Font="宋体, 10pt, style=Bold"/>
+      <TextObject Name="Text18" Left="217.35" Top="75.6" Width="94.5" Height="18.9" Border.Lines="All" Text="[PlanInfo.Recipe_Name]" VertAlign="Center" Font="宋体, 9pt"/>
+      <TextObject Name="Text21" Left="311.85" Top="56.7" Width="85.05" Height="18.9" Border.Lines="All" Text="计划数量" VertAlign="Center" Font="宋体, 10pt, style=Bold"/>
+      <TextObject Name="Text20" Left="311.85" Top="75.6" Width="85.05" Height="18.9" Border.Lines="All" Text="[PlanInfo.Plan_Qty]" VertAlign="Center" Font="宋体, 9pt"/>
+      <TextObject Name="Text23" Left="396.9" Top="56.7" Width="113.4" Height="18.9" Border.Lines="All" Text="完成数量" VertAlign="Center" Font="宋体, 10pt, style=Bold"/>
+      <TextObject Name="Text22" Left="396.9" Top="75.6" Width="113.4" Height="18.9" Border.Lines="All" Text="[PlanInfo.Actual_Qty]" VertAlign="Center" Font="宋体, 9pt"/>
+      <TextObject Name="Text25" Left="510.3" Top="56.7" Width="141.75" Height="18.9" Border.Lines="All" Text="创建日期" VertAlign="Center" Font="宋体, 10pt, style=Bold"/>
+      <TextObject Name="Text24" Left="510.3" Top="75.6" Width="141.75" Height="18.9" Border.Lines="All" Text="[PlanInfo.Plan_Date]" VertAlign="Center" Font="宋体, 9pt"/>
+    </ReportTitleBand>
+    <PageHeaderBand Name="PageHeader1" Top="107.95" Width="718.2" Height="47.25">
+      <TextObject Name="Text3" Left="47.25" Top="28.35" Width="66.15" Height="18.9" Border.Lines="All" Text="序列号" Font="宋体, 10pt, style=Bold"/>
+      <TextObject Name="Text5" Left="113.4" Top="28.35" Width="66.15" Height="18.9" Border.Lines="All" Text="主料编码" Font="宋体, 10pt, style=Bold"/>
+      <TextObject Name="Text7" Left="179.55" Top="28.35" Width="113.4" Height="18.9" Border.Lines="All" Text="主料名称" Font="宋体, 10pt, style=Bold"/>
+      <TextObject Name="Text9" Left="292.95" Top="28.35" Width="85.05" Height="18.9" Border.Lines="All" Text="主料称量" Font="宋体, 10pt, style=Bold"/>
+      <TextObject Name="Text11" Left="378" Top="28.35" Width="94.5" Height="18.9" Border.Lines="All" Text="主料误差" Font="宋体, 10pt, style=Bold"/>
+      <TextObject Name="Text13" Left="472.5" Top="28.35" Width="141.75" Height="18.9" Border.Lines="All" Text="主料称量时间" Font="宋体, 10pt, style=Bold"/>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="159.2" Width="718.2" Height="18.9" EvenStyle="EvenRows" DataSource="Table">
+      <TextObject Name="Text2" Left="47.25" Width="66.15" Height="18.9" Border.Lines="All" Text="[PlanInfo.Serial_No]" VertAlign="Center" Font="宋体, 9pt"/>
+      <TextObject Name="Text4" Left="113.4" Width="66.15" Height="18.9" Border.Lines="All" Text="[PlanInfo.Ingredients_Code]" VertAlign="Center" Font="宋体, 9pt"/>
+      <TextObject Name="Text6" Left="179.55" Width="113.4" Height="18.9" Border.Lines="All" Text="[PlanInfo.Ingredients_Name]" VertAlign="Center" Font="宋体, 9pt"/>
+      <TextObject Name="Text10" Left="378" Width="94.5" Height="18.9" Border.Lines="All" Text="[PlanInfo.Ingredients_Error]" HideZeros="true" VertAlign="Center" Font="宋体, 9pt"/>
+      <TextObject Name="Text12" Left="472.5" Width="141.75" Height="18.9" Border.Lines="All" Text="[PlanInfo.Ingredients_Time]" HideZeros="true" VertAlign="Center" Font="宋体, 9pt"/>
+      <TextObject Name="Text8" Left="292.95" Width="85.05" Height="18.9" Border.Lines="All" Text="[PlanInfo.Ingredients_Weight]" VertAlign="Center" Font="宋体, 9pt"/>
+    </DataBand>
+    <PageFooterBand Name="PageFooter1" Top="182.1" Width="718.2" Height="18.9">
+      <TextObject Name="Text26" Width="718.2" Height="18.9" Dock="Fill" Text="[PageN]" HorzAlign="Right" Font="宋体, 9pt" Style="Footer"/>
+    </PageFooterBand>
+  </ReportPage>
+</Report>

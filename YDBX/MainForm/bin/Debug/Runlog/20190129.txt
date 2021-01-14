@@ -1,0 +1,158 @@
+2019-01-29 14:54:43  登录异常，请检查数据或数据库连接.异常信息：对象名 'sys_User' 无效。
+2019-01-29 14:57:24  获取用户权限信息失败.System.Data.SqlClient.SqlException (0x80131904): 关键字 'and' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   在 Sys.DbUtilities.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText) 位置 E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\DbUtilities\DbProvider\SqlHelper.cs:行号 48
+   在 Sys.DbUtilities.DataHelper.Fill(String commandText) 位置 E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\DbUtilities\DataHelper.cs:行号 44
+   在 Sys.SysBusiness.SysBusinessFunction.GetMenuInfoData(String UserID, String UserCode) 位置 E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\SysBusiness\SysBusinessFunction.cs:行号 1231
+ClientConnectionId:3b2e592e-2e14-4297-841d-413d8fd20201
+Error Number:156,State:1,Class:15
+2019-01-29 14:57:24  1#plc10.10.60.180
+2019-01-29 14:57:27  处理报警信息异常.异常信息：无法加载 DLL“Prodave6.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+2019-01-29 14:57:32  处理报警信息异常.异常信息：无法加载 DLL“Prodave6.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+2019-01-29 14:57:37  处理报警信息异常.异常信息：无法加载 DLL“Prodave6.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+2019-01-29 15:00:20  获取用户权限信息失败.System.Data.SqlClient.SqlException (0x80131904): 关键字 'and' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   在 Sys.DbUtilities.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText) 位置 E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\DbUtilities\DbProvider\SqlHelper.cs:行号 48
+   在 Sys.DbUtilities.DataHelper.Fill(String commandText) 位置 E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\DbUtilities\DataHelper.cs:行号 44
+   在 Sys.SysBusiness.SysBusinessFunction.GetMenuInfoData(String UserID, String UserCode) 位置 E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\SysBusiness\SysBusinessFunction.cs:行号 1231
+ClientConnectionId:3568f201-6db8-44d1-a6da-69712d8c4239
+Error Number:156,State:1,Class:15
+2019-01-29 15:00:20  1#plc10.10.60.180
+2019-01-29 15:00:23  处理报警信息异常.异常信息：无法加载 DLL“Prodave6.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+2019-01-29 15:00:28  处理报警信息异常.异常信息：无法加载 DLL“Prodave6.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+2019-01-29 15:21:01  获取用户权限信息失败.System.Data.SqlClient.SqlException (0x80131904): 列名 'ProductLine_Code' 无效。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   在 Sys.DbUtilities.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText) 位置 E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\DbUtilities\DbProvider\SqlHelper.cs:行号 48
+   在 Sys.DbUtilities.DataHelper.Fill(String commandText) 位置 E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\DbUtilities\DataHelper.cs:行号 44
+   在 Sys.SysBusiness.SysBusinessFunction.GetMenuInfoData(String UserID, String UserCode) 位置 E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\SysBusiness\SysBusinessFunction.cs:行号 1232
+ClientConnectionId:e94807d1-f501-4853-a107-d65d61fe4aab
+Error Number:207,State:1,Class:16
+2019-01-29 15:21:01  1#plc10.10.60.180
+2019-01-29 15:21:03  处理报警信息异常.异常信息：无法加载 DLL“Prodave6.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+2019-01-29 15:21:08  处理报警信息异常.异常信息：无法加载 DLL“Prodave6.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+2019-01-29 15:21:13  处理报警信息异常.异常信息：无法加载 DLL“Prodave6.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+2019-01-29 15:22:29  1#plc10.10.60.180
+2019-01-29 15:22:30  处理报警信息异常.异常信息：无法加载 DLL“Prodave6.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+2019-01-29 15:22:35  处理报警信息异常.异常信息：无法加载 DLL“Prodave6.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+2019-01-29 15:24:26  1#plc10.10.60.180
+2019-01-29 15:24:47  1#plc10.10.60.180
+2019-01-29 15:26:16  1#plc10.10.60.180
+2019-01-29 15:26:52  系统正常退出.
+2019-01-29 15:28:42  1#plc10.10.60.180
+2019-01-29 15:29:04  系统正常退出.
+2019-01-29 15:31:54  1#plc10.10.60.180
+2019-01-29 15:33:18  系统正常退出.
+2019-01-29 15:40:03  1#plc10.10.60.180
+2019-01-29 15:40:56  系统正常退出.
+2019-01-29 16:00:34  1#plc10.10.60.180
+2019-01-29 16:00:42  系统正常退出.
+2019-01-29 16:00:59  1#plc10.10.60.180
+2019-01-29 16:01:15  系统正常退出.
+2019-01-29 16:03:56  1#plc10.10.60.180
+2019-01-29 16:04:12  系统正常退出.
+2019-01-29 16:18:57  1#plc10.10.60.180
+2019-01-29 16:19:02  系统正常退出.
+2019-01-29 16:19:36  1#plc10.10.60.180
+2019-01-29 16:19:49  系统正常退出.
+2019-01-29 16:21:22  1#plc10.10.60.180
+2019-01-29 16:21:28  系统正常退出.
+2019-01-29 16:21:56  1#plc10.10.60.180
+2019-01-29 16:22:18  系统正常退出.
+2019-01-29 16:24:24  1#plc10.10.60.180
+2019-01-29 16:24:31  系统正常退出.
+2019-01-29 16:26:07  1#plc10.10.60.180
+2019-01-29 16:26:41  系统正常退出.
+2019-01-29 16:27:15  1#plc10.10.60.180
+2019-01-29 16:27:43  系统正常退出.
+2019-01-29 16:28:52  1#plc10.10.60.180
+2019-01-29 16:29:05  系统正常退出.
+2019-01-29 16:40:50  1#plc10.10.60.180
+2019-01-29 16:40:56  系统正常退出.
+2019-01-29 16:41:47  1#plc10.10.60.180
+2019-01-29 16:41:52  系统正常退出.
+2019-01-29 16:42:40  1#plc10.10.60.180
+2019-01-29 16:42:51  系统正常退出.
+2019-01-29 16:43:08  1#plc10.10.60.180
+2019-01-29 16:43:34  系统正常退出.
+2019-01-29 16:45:47  1#plc10.10.60.180
+2019-01-29 16:45:55  系统正常退出.
+2019-01-29 16:46:11  1#plc10.10.60.180
+2019-01-29 16:46:16  系统正常退出.
+2019-01-29 16:46:31  1#plc10.10.60.180
+2019-01-29 16:46:45  系统正常退出.
+2019-01-29 17:04:29  1#plc10.10.60.180
+2019-01-29 17:04:39  系统正常退出.
+2019-01-29 17:04:55  1#plc10.10.60.180
+2019-01-29 17:04:59  系统正常退出.
+2019-01-29 17:05:32  1#plc10.10.60.180
+2019-01-29 17:06:05  系统正常退出.
+2019-01-29 17:10:15  1#plc10.10.60.180
+2019-01-29 17:10:55  1#plc10.10.60.180
+2019-01-29 17:11:27  数据库连接失败，重新连接中.....
+2019-01-29 17:11:47  系统正常退出.
+2019-01-29 17:15:45  1#plc10.10.60.180
+2019-01-29 17:16:46  系统正常退出.
+2019-01-29 17:17:47  1#plc10.10.60.180
+2019-01-29 17:18:03  系统正常退出.
+2019-01-29 17:19:09  1#plc10.10.60.180
+2019-01-29 17:19:35  系统正常退出.
+2019-01-29 17:23:01  1#plc10.10.60.180
+2019-01-29 17:23:07  系统正常退出.
+2019-01-29 17:27:33  1#plc10.10.60.180
+2019-01-29 17:27:45  系统正常退出.
+2019-01-29 17:28:40  1#plc10.10.60.180
+2019-01-29 17:28:49  系统正常退出.
+2019-01-29 17:29:34  1#plc10.10.60.180
+2019-01-29 17:29:39  系统正常退出.
+2019-01-29 17:30:08  1#plc10.10.60.180
+2019-01-29 17:30:19  系统正常退出.
+2019-01-29 17:30:40  1#plc10.10.60.180
+2019-01-29 17:30:50  系统正常退出.
+2019-01-29 17:33:14  1#plc10.10.60.180
+2019-01-29 17:33:32  系统正常退出.
+2019-01-29 17:35:10  1#plc10.10.60.180
+2019-01-29 17:35:14  系统正常退出.
+2019-01-29 17:36:31  1#plc10.10.60.180
+2019-01-29 17:36:35  系统正常退出.
+2019-01-29 17:37:06  1#plc10.10.60.180
+2019-01-29 17:37:09  系统正常退出.
+2019-01-29 17:37:40  1#plc10.10.60.180
+2019-01-29 17:37:43  系统正常退出.
+2019-01-29 17:38:05  1#plc10.10.60.180
+2019-01-29 17:38:09  系统正常退出.

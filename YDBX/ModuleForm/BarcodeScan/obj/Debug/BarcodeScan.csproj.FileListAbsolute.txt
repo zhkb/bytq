@@ -1,0 +1,11 @@
+D:\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\BarcodeScan\bin\Debug\BarcodeScan.dll
+D:\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\BarcodeScan\bin\Debug\BarcodeScan.pdb
+D:\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\BarcodeScan\obj\Debug\BarcodeScan.dll
+D:\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\BarcodeScan\obj\Debug\BarcodeScan.pdb
+D:\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\BarcodeScan\obj\Debug\BarcodeScan.csprojResolveAssemblyReference.cache
+D:\SVN\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\BarcodeScan\bin\Debug\BarcodeScan.dll
+D:\SVN\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\BarcodeScan\bin\Debug\BarcodeScan.pdb
+D:\SVN\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\BarcodeScan\obj\Debug\BarcodeScan.csprojAssemblyReference.cache
+D:\SVN\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\BarcodeScan\obj\Debug\BarcodeScan.csproj.CoreCompileInputs.cache
+D:\SVN\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\BarcodeScan\obj\Debug\BarcodeScan.dll
+D:\SVN\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\BarcodeScan\obj\Debug\BarcodeScan.pdb

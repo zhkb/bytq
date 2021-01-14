@@ -1,0 +1,16 @@
+E:\学习\Src\New Frame\NewFrame\FrameUtilities\obj\Debug\Frame.Utilities.BaseForm.resources
+E:\学习\Src\New Frame\NewFrame\FrameUtilities\obj\Debug\Frame.Utilities.csproj.GenerateResource.Cache
+E:\学习\Src\New Frame\NewFrame\FrameUtilities\bin\Debug\Frame.Utilities.exe.config
+E:\学习\Src\New Frame\NewFrame\FrameUtilities\bin\Debug\Frame.Utilities.exe
+E:\学习\Src\New Frame\NewFrame\FrameUtilities\bin\Debug\Frame.Utilities.pdb
+E:\学习\Src\New Frame\NewFrame\FrameUtilities\obj\Debug\Frame.Utilities.Properties.Resources.resources
+E:\学习\Src\New Frame\NewFrame\FrameUtilities\obj\Debug\Frame.Utilities.exe
+E:\学习\Src\New Frame\NewFrame\FrameUtilities\obj\Debug\Frame.Utilities.pdb
+E:\学习\Src\New Frame\NewFrame\Utilities\bin\Debug\Frame.Utilities.pdb
+E:\学习\Src\New Frame\NewFrame\Utilities\obj\Debug\Frame.Utilities.BaseForm.resources
+E:\学习\Src\New Frame\NewFrame\Utilities\obj\Debug\Frame.Utilities.Properties.Resources.resources
+E:\学习\Src\New Frame\NewFrame\Utilities\obj\Debug\Frame.Utilities.csproj.GenerateResource.Cache
+E:\学习\Src\New Frame\NewFrame\Utilities\obj\Debug\Frame.Utilities.pdb
+E:\学习\Src\New Frame\NewFrame\Utilities\bin\Debug\Frame.Utilities.dll.config
+E:\学习\Src\New Frame\NewFrame\Utilities\bin\Debug\Frame.Utilities.dll
+E:\学习\Src\New Frame\NewFrame\Utilities\obj\Debug\Frame.Utilities.dll

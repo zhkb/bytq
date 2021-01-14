@@ -1,0 +1,496 @@
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\bin\Debug\Option.dll
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\bin\Debug\Option.pdb
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\bin\Debug\ControlLogic.dll
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\bin\Debug\Frame.Utilities.dll
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\bin\Debug\Sys.Config.dll
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\bin\Debug\Sys.DbUtilities.dll
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\bin\Debug\Sys.SysBusiness.dll
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\bin\Debug\User.dll
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\bin\Debug\Communication.dll
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\bin\Debug\MySql.Data.dll
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\bin\Debug\System.Data.SQLite.dll
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\bin\Debug\Interop.ACTMULTILib.dll
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\bin\Debug\Sys.Config.pdb
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\bin\Debug\ControlLogic.pdb
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\bin\Debug\Sys.DbUtilities.pdb
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\bin\Debug\Sys.SysBusiness.pdb
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\bin\Debug\Frame.Utilities.pdb
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\bin\Debug\User.pdb
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\bin\Debug\Communication.pdb
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\obj\Debug\Option.csprojResolveAssemblyReference.cache
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\obj\Debug\Option.FrmMenuModify.resources
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\obj\Debug\Option.FrmOptionModify.resources
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\obj\Debug\Option.FrmSysSet.resources
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\obj\Debug\Option.Properties.Resources.resources
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\obj\Debug\Option.csproj.GenerateResource.Cache
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\obj\Debug\Option.dll
+F:\other\江苏力信\Mixing20170928\Mixing\ModuleForm\option\optionMx\obj\Debug\Option.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\Option.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\Option.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\ControlLogic.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\Sys.Config.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\System.Net.Http.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\User.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\Communication.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\MySql.Data.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\User.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\System.Net.Http.xml
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\Communication.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\obj\Debug\Option.csprojResolveAssemblyReference.cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\obj\Debug\Option.FrmMenuModify.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\obj\Debug\Option.FrmOptionModify.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\obj\Debug\Option.FrmSysSet.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\obj\Debug\Option.Properties.Resources.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\obj\Debug\Option.csproj.GenerateResource.Cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\obj\Debug\Option.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Option\obj\Debug\Option.pdb
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\Option.dll
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\Option.pdb
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\ControlLogic.dll
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\Frame.Utilities.dll
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\Sys.Config.dll
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\Sys.DbUtilities.dll
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\Sys.SysBusiness.dll
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\System.Net.Http.dll
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\User.dll
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\Communication.dll
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\MySql.Data.dll
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\System.Data.SQLite.dll
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\Interop.ACTMULTILib.dll
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\Sys.Config.pdb
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\ControlLogic.pdb
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\Sys.DbUtilities.pdb
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\Sys.SysBusiness.pdb
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\Frame.Utilities.pdb
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\User.pdb
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\System.Net.Http.xml
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\Communication.pdb
+E:\1.工作代码\Mixing\ModuleForm\Option\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\1.工作代码\Mixing\ModuleForm\Option\obj\Debug\Option.csprojResolveAssemblyReference.cache
+E:\1.工作代码\Mixing\ModuleForm\Option\obj\Debug\Option.FrmMenuModify.resources
+E:\1.工作代码\Mixing\ModuleForm\Option\obj\Debug\Option.FrmOptionModify.resources
+E:\1.工作代码\Mixing\ModuleForm\Option\obj\Debug\Option.FrmSysSet.resources
+E:\1.工作代码\Mixing\ModuleForm\Option\obj\Debug\Option.Properties.Resources.resources
+E:\1.工作代码\Mixing\ModuleForm\Option\obj\Debug\Option.csproj.GenerateResource.Cache
+E:\1.工作代码\Mixing\ModuleForm\Option\obj\Debug\Option.dll
+E:\1.工作代码\Mixing\ModuleForm\Option\obj\Debug\Option.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\Option.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\Option.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\ControlLogic.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\Sys.Config.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\System.Net.Http.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\User.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\Communication.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\MySql.Data.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\User.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\System.Net.Http.xml
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\Communication.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\obj\Debug\Option.csprojResolveAssemblyReference.cache
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\obj\Debug\Option.FrmMenuModify.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\obj\Debug\Option.FrmOptionModify.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\obj\Debug\Option.FrmSysSet.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\obj\Debug\Option.Properties.Resources.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\obj\Debug\Option.csproj.GenerateResource.Cache
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\obj\Debug\Option.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Option\obj\Debug\Option.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\bin\Debug\Option.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\bin\Debug\Option.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\bin\Debug\ControlLogic.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\bin\Debug\Sys.Config.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\bin\Debug\User.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\bin\Debug\MySql.Data.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\bin\Debug\User.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\obj\Debug\Option.csprojResolveAssemblyReference.cache
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\obj\Debug\Option.FrmMenuModify.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\obj\Debug\Option.FrmOptionModify.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\obj\Debug\Option.FrmSysSet.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\obj\Debug\Option.Properties.Resources.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\obj\Debug\Option.csproj.GenerateResource.Cache
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\obj\Debug\Option.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Option\obj\Debug\Option.pdb
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\bin\Debug\Option.dll
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\bin\Debug\Option.pdb
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\bin\Debug\ControlLogic.dll
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\bin\Debug\Frame.Utilities.dll
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\bin\Debug\Sys.Config.dll
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\bin\Debug\Sys.DbUtilities.dll
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\bin\Debug\Sys.SysBusiness.dll
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\bin\Debug\System.Net.Http.dll
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\bin\Debug\User.dll
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\bin\Debug\MySql.Data.dll
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\bin\Debug\System.Data.SQLite.dll
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\bin\Debug\Sys.Config.pdb
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\bin\Debug\ControlLogic.pdb
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\bin\Debug\Sys.DbUtilities.pdb
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\bin\Debug\Sys.SysBusiness.pdb
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\bin\Debug\Frame.Utilities.pdb
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\bin\Debug\User.pdb
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\bin\Debug\System.Net.Http.xml
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\obj\Debug\Option.csprojResolveAssemblyReference.cache
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\obj\Debug\Option.FrmMenuModify.resources
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\obj\Debug\Option.FrmOptionModify.resources
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\obj\Debug\Option.FrmSysSet.resources
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\obj\Debug\Option.Properties.Resources.resources
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\obj\Debug\Option.csproj.GenerateResource.Cache
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\obj\Debug\Option.dll
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Option\obj\Debug\Option.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\bin\Debug\Option.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\bin\Debug\Option.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\bin\Debug\ControlLogic.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\bin\Debug\Frame.Utilities.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\bin\Debug\Sys.Config.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\bin\Debug\Sys.DbUtilities.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\bin\Debug\Sys.SysBusiness.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\bin\Debug\System.Net.Http.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\bin\Debug\User.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\bin\Debug\MySql.Data.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\bin\Debug\System.Data.SQLite.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\bin\Debug\Sys.Config.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\bin\Debug\ControlLogic.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\bin\Debug\Sys.DbUtilities.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\bin\Debug\Sys.SysBusiness.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\bin\Debug\Frame.Utilities.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\bin\Debug\User.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\bin\Debug\System.Net.Http.xml
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\obj\Debug\Option.csprojResolveAssemblyReference.cache
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\obj\Debug\Option.FrmMenuModify.resources
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\obj\Debug\Option.FrmOptionModify.resources
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\obj\Debug\Option.FrmSysSet.resources
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\obj\Debug\Option.Properties.Resources.resources
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\obj\Debug\Option.csproj.GenerateResource.Cache
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\obj\Debug\Option.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Option\obj\Debug\Option.pdb
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\bin\Debug\Option.dll
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\bin\Debug\Option.pdb
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\bin\Debug\ControlLogic.dll
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\bin\Debug\Frame.Utilities.dll
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\bin\Debug\Sys.Config.dll
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\bin\Debug\Sys.DbUtilities.dll
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\bin\Debug\Sys.SysBusiness.dll
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\bin\Debug\System.Net.Http.dll
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\bin\Debug\User.dll
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\bin\Debug\MySql.Data.dll
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\bin\Debug\System.Data.SQLite.dll
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\bin\Debug\Sys.Config.pdb
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\bin\Debug\ControlLogic.pdb
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\bin\Debug\Sys.DbUtilities.pdb
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\bin\Debug\Sys.SysBusiness.pdb
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\bin\Debug\Frame.Utilities.pdb
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\bin\Debug\User.pdb
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\bin\Debug\System.Net.Http.xml
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\obj\Debug\Option.csprojResolveAssemblyReference.cache
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\obj\Debug\Option.FrmMenuModify.resources
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\obj\Debug\Option.FrmOptionModify.resources
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\obj\Debug\Option.FrmSysSet.resources
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\obj\Debug\Option.Properties.Resources.resources
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\obj\Debug\Option.csproj.GenerateResource.Cache
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\obj\Debug\Option.dll
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Option\obj\Debug\Option.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Option.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Option.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\ControlLogic.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\User.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\MySql.Data.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\User.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.FrmMenuModify.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.FrmOptionModify.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.FrmSysSet.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.Properties.Resources.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.csproj.GenerateResource.Cache
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.FrmMenu.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.FrmModuleModify.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Communication.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Communication.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Option.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Option.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\ControlLogic.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Frame.Utilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Sys.Config.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Sys.DbUtilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Sys.SysBusiness.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\User.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Communication.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\MySql.Data.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\System.Data.SQLite.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Interop.ACTMULTILib.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Sys.Config.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\ControlLogic.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Sys.DbUtilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Sys.SysBusiness.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Frame.Utilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\User.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\Communication.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.csprojResolveAssemblyReference.cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.FrmMenu.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.FrmMenuModify.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.FrmModuleModify.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.FrmOptionModify.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.FrmSysSet.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.Properties.Resources.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.csproj.GenerateResource.Cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\obj\Debug\Option.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\FastReport.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\FastReport.Bars.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\FastReport.Editor.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\FastReport.xml
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Option\bin\Debug\ThoughtWorks.QRCode.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\Option.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\Option.pdb
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\ControlLogic.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\Frame.Utilities.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\Sys.DbUtilities.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\Sys.SysBusiness.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\User.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\Communication.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\MySql.Data.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\System.Data.SQLite.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\FastReport.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\ThoughtWorks.QRCode.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\BarcodeLib.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\Interop.ACTMULTILib.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\FastReport.Bars.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\FastReport.Editor.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\ControlLogic.pdb
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\Sys.DbUtilities.pdb
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\Sys.SysBusiness.pdb
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\Frame.Utilities.pdb
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\User.pdb
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\Communication.pdb
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\bin\Debug\FastReport.xml
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\obj\Debug\Option.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\obj\Debug\Option.FrmMenu.resources
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\obj\Debug\Option.FrmMenuModify.resources
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\obj\Debug\Option.FrmModuleModify.resources
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\obj\Debug\Option.FrmOptionModify.resources
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\obj\Debug\Option.FrmSysSet.resources
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\obj\Debug\Option.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\obj\Debug\Option.csproj.GenerateResource.Cache
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\obj\Debug\Option.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Option\obj\Debug\Option.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\Option.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\Option.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\ControlLogic.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\Frame.Utilities.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\Sys.DbUtilities.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\Sys.SysBusiness.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\User.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\Communication.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\MySql.Data.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\System.Data.SQLite.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\FastReport.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\ThoughtWorks.QRCode.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\BarcodeLib.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\Interop.ACTMULTILib.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\FastReport.Bars.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\FastReport.Editor.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\ControlLogic.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\Sys.DbUtilities.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\Sys.SysBusiness.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\Frame.Utilities.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\User.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\Communication.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\bin\Debug\FastReport.xml
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\obj\Debug\Option.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\obj\Debug\Option.FrmMenu.resources
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\obj\Debug\Option.FrmMenuModify.resources
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\obj\Debug\Option.FrmModuleModify.resources
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\obj\Debug\Option.FrmOptionModify.resources
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\obj\Debug\Option.FrmSysSet.resources
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\obj\Debug\Option.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\obj\Debug\Option.csproj.GenerateResource.Cache
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\obj\Debug\Option.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Option\obj\Debug\Option.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\Option.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\Option.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\ControlLogic.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\Frame.Utilities.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\Sys.DbUtilities.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\Sys.SysBusiness.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\User.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\Communication.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\MySql.Data.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\System.Data.SQLite.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\FastReport.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\ThoughtWorks.QRCode.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\BarcodeLib.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\Interop.ACTMULTILib.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\FastReport.Bars.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\FastReport.Editor.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\ControlLogic.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\Sys.DbUtilities.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\Sys.SysBusiness.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\Frame.Utilities.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\User.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\Communication.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\bin\Debug\FastReport.xml
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\obj\Debug\Option.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmMenu.resources
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmMenuModify.resources
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmModuleModify.resources
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmOptionModify.resources
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmSysSet.resources
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\obj\Debug\Option.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\obj\Debug\Option.csproj.GenerateResource.Cache
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\obj\Debug\Option.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Option\obj\Debug\Option.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\Option.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\Option.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\ControlLogic.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\Frame.Utilities.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\Sys.Config.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\Sys.DbUtilities.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\Sys.SysBusiness.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\User.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\Communication.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\MySql.Data.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\System.Data.SQLite.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\FastReport.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\ThoughtWorks.QRCode.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\BarcodeLib.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\Interop.ACTMULTILib.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\FastReport.Bars.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\FastReport.Editor.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\Sys.Config.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\ControlLogic.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\Sys.DbUtilities.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\Sys.SysBusiness.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\Frame.Utilities.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\User.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\Communication.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\bin\Debug\FastReport.xml
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\obj\Debug\Option.csprojResolveAssemblyReference.cache
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmMenu.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmMenuModify.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmModuleModify.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmOptionModify.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmSysSet.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\obj\Debug\Option.Properties.Resources.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\obj\Debug\Option.csproj.GenerateResource.Cache
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\obj\Debug\Option.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Option\obj\Debug\Option.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Option.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Option.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\ControlLogic.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Frame.Utilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Sys.Config.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Sys.DbUtilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Sys.SysBusiness.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\User.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Communication.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\MySql.Data.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\System.Data.SQLite.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\FastReport.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\ThoughtWorks.QRCode.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\BarcodeLib.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\FastReport.Bars.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\FastReport.Editor.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Sys.Config.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\ControlLogic.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Sys.DbUtilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Sys.SysBusiness.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Frame.Utilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\User.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Communication.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\FastReport.xml
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.csprojResolveAssemblyReference.cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmMenu.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmMenuModify.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmModuleModify.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmOptionModify.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmSysSet.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.Properties.Resources.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.csproj.GenerateResource.Cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\ActUtlTypeLib.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Option.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Option.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\ControlLogic.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Frame.Utilities.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Sys.Config.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Sys.DbUtilities.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Sys.SysBusiness.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\User.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Communication.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\MySql.Data.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\System.Data.SQLite.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\FastReport.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\ThoughtWorks.QRCode.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\BarcodeLib.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\ActUtlTypeLib.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\FastReport.Bars.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\FastReport.Editor.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Sys.Config.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\ControlLogic.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Sys.DbUtilities.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Sys.SysBusiness.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Frame.Utilities.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\User.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Communication.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\FastReport.xml
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmMenu.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmMenuModify.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmModuleModify.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmOptionModify.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.FrmSysSet.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.Properties.Resources.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.csproj.GenerateResource.Cache
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\Frame.Utilities.dll.config
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\bin\Debug\User.dll.config
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.csprojAssemblyReference.cache
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.csproj.CoreCompileInputs.cache
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Option\obj\Debug\Option.csproj.CopyComplete

@@ -1,0 +1,6 @@
+E:\学习\Src\New Frame\NewFrame\NewFrame\bin\Debug\MainForm.exe.config
+E:\学习\Src\New Frame\NewFrame\NewFrame\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+E:\学习\Src\New Frame\NewFrame\NewFrame\obj\Debug\NewFrame.MainFrameForm.resources
+E:\学习\Src\New Frame\NewFrame\NewFrame\obj\Debug\MainForm.Properties.Resources.resources
+E:\学习\Src\New Frame\NewFrame\NewFrame\obj\Debug\MainForm.csproj.GenerateResource.Cache
+E:\学习\Src\New Frame\NewFrame\NewFrame\obj\Debug\MainForm.MainForm.resources

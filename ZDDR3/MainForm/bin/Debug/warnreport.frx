@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="08/28/2017 10:27:03" ReportInfo.Modified="06/07/2018 13:29:18" ReportInfo.CreatorVersion="1.8.30.0">
+  <Styles Name="Standard">
+    <Style Name="Title" Font="宋体, 12pt, style=Bold"/>
+    <Style Name="Header" Font="宋体, 10pt, style=Bold"/>
+    <Style Name="Group" Font="宋体, 10pt, style=Bold"/>
+    <Style Name="Data"/>
+    <Style Name="Footer"/>
+    <Style Name="EvenRows" Fill.Color="WhiteSmoke"/>
+  </Styles>
+  <Dictionary>
+    <MsSqlDataConnection Name="Connection" ConnectionString="rijcmlqG7JEM8vUQFw5Px1C9xr+maKCydYmGKGUTTKuXt/TPdZRw75gySu2UUyIvyXeEJgPdD3srQdbKkawzErnofLa+9RGN1sAv0gE13O4irmnSsgNIs2XhBSlIUd+QDrfR5fUddXuROBTQo301L4IVnN5u60Zx1qnBtBVUS8YgQlKxMDwG/OyG41LVbsUTJKGohjpSoPJOt30Wb9iuVr7cGAmwg==">
+      <TableDataSource Name="Mixing_Alarm" DataType="System.Int32" Enabled="true" TableName="Mixing_Alarm">
+        <Column Name="Alarm_Code" DataType="System.String"/>
+        <Column Name="Equipment_Code" DataType="System.String"/>
+        <Column Name="Equipment_Name" DataType="System.String"/>
+        <Column Name="Alarm_Desc" DataType="System.String"/>
+        <Column Name="Create_Time" DataType="System.DateTime"/>
+      </TableDataSource>
+    </MsSqlDataConnection>
+  </Dictionary>
+  <ReportPage Name="Page1" PaperWidth="100" PaperHeight="30" TopMargin="2" RightMargin="2" BottomMargin="2">
+    <DataBand Name="Data1" Width="332.64" Height="85.05" StartNewPage="true" DataSource="Mixing_Alarm">
+      <BarcodeObject Name="Barcode1" Left="18.9" Top="-9.45" Width="177.5" Height="94.5" Expression="[Mixing_Alarm.Alarm_Desc]"/>
+    </DataBand>
+  </ReportPage>
+</Report>

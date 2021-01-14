@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    <!-- 主程序名称 -->
+    <add key="DataBaseType" value="SqlServer" />
+    <add key="ServerDbConnection" value="server=(local);database=Haier_NOIDA;user=sa;pwd=123;MultipleActiveResultSets=true" />
+    <add key="BusinessDbConnection" value="server=192.168.1.177;database=Haier_NOIDA;user=sa;pwd=bytq2016!!;MultipleActiveResultSets=true" />
+    <!--<add key="BusinessDbConnection" value="server=192.168.1.5;database=Haier_NOIDA;user=sa;pwd=bytq123;MultipleActiveResultSets=true" />-->
+    <!--公司编号-->
+    <add key="CompanyID" value="1001" />
+    <add key="CompanyCode" value="C001" />
+    <add key="CompanyName" value="海尔集团" />
+    <!--工厂编号-->
+    <add key="FactoryID" value="2001" />
+    <add key="FactoryCode" value="F001" />
+    <add key="FactoryName" value="印度NOIDA海尔工业园" />
+    <!--产线编号-->
+    <add key="ProductLineID" value="3001" />
+    <add key="ProductLineCode" value="L001" />
+    <add key="ProductLineName" value="印度NOIDA冰箱生产A线" />
+    <!-- 1001 U壳寄存库 入库  1002 U壳寄存库 出库 A线  1003  U壳寄存库 出库 B线 1010箱体寄存库入库 1020箱门匹配 1030压缩机防差错 A线 1031压缩机防差错 B线 1040前排寄存库  1050 能效贴防差错    1060 箱体寄存库看板 1061 箱门匹配看板 -->
+    <add key="CurrentProcessCode" value="1040" />
+    <add key="CurrentProcessName" value="前排寄存库" />
+    <add key="CurrentProcessName_EN" value="Front row storage" />
+    <add key="StationCode" value="1" />
+    <!--系统类型-->
+    <add key="SystemType" value="1" />
+    <!-- 系统更新IP地址-->
+    <add key="App_AutoUpdateIP" value="127.0.0.1" />
+    <!-- 系统更新端口-->
+    <add key="App_AutoUpdatePort" value="8040" />
+    <!-- 系统更新文件目录-->
+    <add key="App_AutoUpdateDir" value="DownLoad" />
+    <!-- 程序是否进行过升级-->
+    <add key="App_AutoUpdateFinish" value="False" />
+    <!-- 系统更新是否成功-->
+    <add key="App_AutoUpdateSuccess" value="False" />
+    <!-- 升级完成要打开的程序文件-->
+    <add key="App_AutoExecuteName" value="IMOS.PTS.exe" />
+    <!-- 更新检查时间间隔-->
+    <add key="App_UpdateInterval" value="5" />
+    <!-- 当前系统版本-->
+    <add key="App_Version" value="系统 版本信息：1.0.0" />
+    <!-- PLC 相关 PLC 类型 1 三菱 2 西门子-->
+    <add key="PLCType" value="1" />
+    <add key="MasterPLCStation" value="1" />
+    <add key="MasterPLCIP" value="127.0.0.1" />
+    <add key="RubberPLCIP" value="127.0.0.1" />
+    <add key="TerrinePLCIP" value="127.0.0.1" />
+    <add key="DispersePLCIP" value="127.0.0.1" />
+    <!-- 扫码器相关 -->
+    <add key="BarScanIP" value="127.0.0.1" />
+    <add key="BarScanPort" value="2112" />
+    <!-- 压缩机防差错界面产品扫码器相关 -->
+    <add key="BarScanProIP" value="127.0.0.1" />
+    <add key="BarScanProPort" value="2122" />
+    <!-- 压缩机防差错界面压缩机扫码器相关 -->
+    <add key="BarScanComIP" value="127.0.0.1" />
+    <add key="BarScanComPort" value="2123" />
+    <!--能耗贴防差错工位-->
+    <!--启用串口扫码器扫描物料码 1.启用 2.不启用）-->
+    <add key="UseDiscernFlag" value="2" />
+    <!--语言类型 1.中文简体 2.英语（US）-->
+    <add key="LanguageType" value="1" />
+    <!--网络通信-->
+    <!--是否启用条码扫描以太网产品码A-->
+    <add key="IsInitBarOne" value="1" />
+    <add key="IntelligentDeviceIP1" value="127.0.0.1" />
+    <add key="IntelligentDevicePort1" value="2000" />
+    <!--网络通信-->
+    <!--是否启用条码扫描以太网产品码B-->
+    <add key="IsInitBarTwo" value="0" />
+    <add key="IntelligentDeviceIP2" value="127.0.0.1" />
+    <add key="IntelligentDevicePort2" value="2001" />
+    <!--箱体寄存库库存地址-->
+    <add key="StockBlock" value="0" />
+    <add key="StockAddress" value="100" />
+    <add key="Stocklength" value="65" />
+    <!--箱体寄存库分道A-->
+    <add key="AFDBlock" value="0" />
+    <add key="AFDAddress" value="201" />
+    <add key="AFDlength" value="2" />
+    <!--箱体寄存库分道B-->
+    <add key="BFDBlock" value="0" />
+    <add key="BFDAddress" value="203" />
+    <add key="BFDlength" value="2" />
+    <!--箱体寄存库出库下传请求1-->
+    <add key="AXTCKBlock" value="0" />
+    <add key="AXTCKAddress" value="0" />
+    <!--箱体寄存库下传请求2-->
+    <add key="BXTCKBlock" value="0" />
+    <add key="BXTCKAddress" value="20" />
+    <!--U壳出库模式：1=规则出库； 2=扫码出库； 3=手动出库；-->
+    <add key="CurrentProductionOutMode" value="1" />
+    <!--U壳出库模式：1=U壳出库A； 2=U壳出库B；-->
+    <add key="CurrentStationNo" value="1001" />
+    <!--U壳出库PLC地址：U壳出库A地址50； U壳出库A地址70；-->
+    <add key="CurrentStationPlcAddress" value="50" />
+  </appSettings>
+</configuration>

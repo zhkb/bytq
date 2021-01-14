@@ -1,0 +1,505 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BE6FDFB9-FFBF-49F2-A87F-79B19EFBFE9E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Monitor</RootNamespace>
+    <AssemblyName>Monitor</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BarcodeLib">
+      <HintPath>F:\2345Downloads\BarcodeLib.dll</HintPath>
+    </Reference>
+    <Reference Include="FastReport, Version=1.8.30.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ThoughtWorks.QRCode, Version=1.0.4778.30637, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\ThoughtWorks.QRCode.1.1.0\lib\ThoughtWorks.QRCode.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmCradPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCradPrint.designer.cs">
+      <DependentUpon>FrmCradPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEnergyLabel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEnergyLabel.Designer.cs">
+      <DependentUpon>FrmEnergyLabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFoamingWeigh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFoamingWeigh.Designer.cs">
+      <DependentUpon>FrmFoamingWeigh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmManualPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmManualPrint.Designer.cs">
+      <DependentUpon>FrmManualPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSoundPlay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSoundPlay.Designer.cs">
+      <DependentUpon>FrmSoundPlay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQuality.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQuality.designer.cs">
+      <DependentUpon>FrmQuality.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProductInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProductInfo.designer.cs">
+      <DependentUpon>FrmProductInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStackMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStackMonitor.Designer.cs">
+      <DependentUpon>FrmStackMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStack.Designer.cs">
+      <DependentUpon>FrmStack.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="SmStackMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SmStackMonitor.Designer.cs">
+      <DependentUpon>SmStackMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StackModify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StackModify.Designer.cs">
+      <DependentUpon>StackModify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StackMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StackMonitor.Designer.cs">
+      <DependentUpon>StackMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\Haier_WMS_Interface\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmCradPrint.resx">
+      <DependentUpon>FrmCradPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEnergyLabel.resx">
+      <DependentUpon>FrmEnergyLabel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFoamingWeigh.resx">
+      <DependentUpon>FrmFoamingWeigh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmManualPrint.resx">
+      <DependentUpon>FrmManualPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSoundPlay.resx">
+      <DependentUpon>FrmSoundPlay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQuality.resx">
+      <DependentUpon>FrmQuality.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProductInfo.resx">
+      <DependentUpon>FrmProductInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStackMonitor.resx">
+      <DependentUpon>FrmStackMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStack.resx">
+      <DependentUpon>FrmStack.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SmStackMonitor.resx">
+      <DependentUpon>SmStackMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StackModify.resx">
+      <DependentUpon>StackModify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StackMonitor.resx">
+      <DependentUpon>StackMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Config\Sys.Config.csproj">
+      <Project>{9270162b-bc69-431b-850c-3afd0820dc2b}</Project>
+      <Name>Sys.Config</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ControlLogic\ControlLogic.csproj">
+      <Project>{b0874e9a-ae45-4f99-bf99-d3c50f7091e7}</Project>
+      <Name>ControlLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\DbUtilities\Sys.DbUtilities.csproj">
+      <Project>{3271fdd0-dda4-4819-93fc-1995f77d4355}</Project>
+      <Name>Sys.DbUtilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SysBusiness\Sys.SysBusiness.csproj">
+      <Project>{2d6e749a-26d8-4e43-929e-abab2a9df3a1}</Project>
+      <Name>Sys.SysBusiness</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\jt.png" />
+    <None Include="Web References\Haier_WMS_Interface\handResp.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\Haier_WMS_Interface\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\Haier_WMS_Interface\result.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\Haier_WMS_Interface\RfWebServiceImplService.wsdl" />
+    <None Include="Web References\Haier_WMS_Interface\transResult.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Guan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FA1_True.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DJ3_True.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DJ1_False.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DJ1_True.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DJ2_False.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DJ2_True.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DJ3_False.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FA1_False.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FA2_False.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FA2_True.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Status_Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Status_Red1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ZJJB.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT4.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Status_Green1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ZTJK.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FA1_Alarm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DJ1_Alarm.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DJ3_Alarm.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ZJJK.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DJ4_False.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DJ4_Alarm.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DJ4_True.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DJ2_Alarm.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FA2_Alarm.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TCCG.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JBJK.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ZJZZ.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT21.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT22.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT23.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT24.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT31.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT32.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT33.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT34.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT41.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT42.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT43.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT44.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT51.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT52.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT53.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT54.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT61.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT62.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT63.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT64.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT71.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT72.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT73.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT74.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT11.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT12.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT13.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JT14.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Beng1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Beng2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Beng3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TBJK.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Status_Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ZZJK.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CNT1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NMP.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Status_Alarm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_2_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\haier.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Barcode_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5_1_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Green2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\haier_logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\haier_HX.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://wcsweb.cosmoim-lsb.haier.net/cosmowcs/soap/rf%3fwsdl">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\Haier_WMS_Interface\</RelPath>
+      <UpdateFromURL>http://wcsweb.cosmoim-lsb.haier.net/cosmowcs/soap/rf%3fwsdl</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>Monitor_Haier_WMS_Interface_RfWebServiceImplService</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,244 @@
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ControlLogic\bin\Debug\ControlLogic.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ControlLogic\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ControlLogic\bin\Debug\Communication.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ControlLogic\bin\Debug\Sys.Config.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ControlLogic\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ControlLogic\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ControlLogic\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ControlLogic\bin\Debug\MySql.Data.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ControlLogic\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ControlLogic\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ControlLogic\bin\Debug\Communication.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ControlLogic\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ControlLogic\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ControlLogic\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ControlLogic\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ControlLogic\obj\Debug\ControlLogic.csprojResolveAssemblyReference.cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ControlLogic\obj\Debug\ControlLogic.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ControlLogic\obj\Debug\ControlLogic.pdb
+E:\1.工作代码\Mixing\ControlLogic\bin\Debug\ControlLogic.dll
+E:\1.工作代码\Mixing\ControlLogic\bin\Debug\ControlLogic.pdb
+E:\1.工作代码\Mixing\ControlLogic\bin\Debug\Communication.dll
+E:\1.工作代码\Mixing\ControlLogic\bin\Debug\Sys.Config.dll
+E:\1.工作代码\Mixing\ControlLogic\bin\Debug\Sys.DbUtilities.dll
+E:\1.工作代码\Mixing\ControlLogic\bin\Debug\Sys.SysBusiness.dll
+E:\1.工作代码\Mixing\ControlLogic\bin\Debug\Interop.ACTMULTILib.dll
+E:\1.工作代码\Mixing\ControlLogic\bin\Debug\MySql.Data.dll
+E:\1.工作代码\Mixing\ControlLogic\bin\Debug\System.Data.SQLite.dll
+E:\1.工作代码\Mixing\ControlLogic\bin\Debug\Frame.Utilities.dll
+E:\1.工作代码\Mixing\ControlLogic\bin\Debug\Communication.pdb
+E:\1.工作代码\Mixing\ControlLogic\bin\Debug\Sys.Config.pdb
+E:\1.工作代码\Mixing\ControlLogic\bin\Debug\Sys.DbUtilities.pdb
+E:\1.工作代码\Mixing\ControlLogic\bin\Debug\Sys.SysBusiness.pdb
+E:\1.工作代码\Mixing\ControlLogic\bin\Debug\Frame.Utilities.pdb
+E:\1.工作代码\Mixing\ControlLogic\obj\Debug\ControlLogic.csprojResolveAssemblyReference.cache
+E:\1.工作代码\Mixing\ControlLogic\obj\Debug\ControlLogic.dll
+E:\1.工作代码\Mixing\ControlLogic\obj\Debug\ControlLogic.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ControlLogic\bin\Debug\ControlLogic.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ControlLogic\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ControlLogic\bin\Debug\Communication.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ControlLogic\bin\Debug\Sys.Config.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ControlLogic\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ControlLogic\bin\Debug\MySql.Data.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ControlLogic\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ControlLogic\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ControlLogic\bin\Debug\Communication.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ControlLogic\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ControlLogic\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ControlLogic\obj\Debug\ControlLogic.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ControlLogic\obj\Debug\ControlLogic.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ControlLogic\obj\Debug\ControlLogic.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\bin\Debug\ControlLogic.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\bin\Debug\Communication.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\bin\Debug\Register.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\bin\Debug\SysBusiness.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\bin\Debug\MySql.Data.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\bin\Debug\Communication.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\obj\Debug\ControlLogic.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\obj\Debug\ControlLogic.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ControlLogic\obj\Debug\ControlLogic.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\bin\Debug\ControlLogic.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\bin\Debug\Communication.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\bin\Debug\Register.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\bin\Debug\SysBusiness.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\bin\Debug\MySql.Data.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\bin\Debug\Communication.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\obj\Debug\ControlLogic.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\obj\Debug\ControlLogic.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ControlLogic\obj\Debug\ControlLogic.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\ControlLogic.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Communication.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Register.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\SysBusiness.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\MySql.Data.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Communication.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\ControlLogic.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Communication.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Register.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\SysBusiness.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\MySql.Data.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Communication.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\ControlLogic.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Communication.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Register.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.Config.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\SysBusiness.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\MySql.Data.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Communication.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.csprojResolveAssemblyReference.cache
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\ControlLogic.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\ControlLogic.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Communication.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Register.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.Config.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\SysBusiness.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Interop.ACTMULTILib.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\MySql.Data.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\System.Data.SQLite.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Communication.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.Config.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.csprojResolveAssemblyReference.cache
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.pdb
+D:\工作代码\印度空调\SysFrame\ControlLogic\bin\Debug\ControlLogic.dll
+D:\工作代码\印度空调\SysFrame\ControlLogic\bin\Debug\ControlLogic.pdb
+D:\工作代码\印度空调\SysFrame\ControlLogic\bin\Debug\Communication.dll
+D:\工作代码\印度空调\SysFrame\ControlLogic\bin\Debug\Register.dll
+D:\工作代码\印度空调\SysFrame\ControlLogic\bin\Debug\Sys.Config.dll
+D:\工作代码\印度空调\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.dll
+D:\工作代码\印度空调\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.dll
+D:\工作代码\印度空调\SysFrame\ControlLogic\bin\Debug\SysBusiness.dll
+D:\工作代码\印度空调\SysFrame\ControlLogic\bin\Debug\Interop.ACTMULTILib.dll
+D:\工作代码\印度空调\SysFrame\ControlLogic\bin\Debug\MySql.Data.dll
+D:\工作代码\印度空调\SysFrame\ControlLogic\bin\Debug\System.Data.SQLite.dll
+D:\工作代码\印度空调\SysFrame\ControlLogic\bin\Debug\Communication.pdb
+D:\工作代码\印度空调\SysFrame\ControlLogic\bin\Debug\Sys.Config.pdb
+D:\工作代码\印度空调\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.pdb
+D:\工作代码\印度空调\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.pdb
+D:\工作代码\印度空调\SysFrame\ControlLogic\obj\Debug\ControlLogic.csprojResolveAssemblyReference.cache
+D:\工作代码\印度空调\SysFrame\ControlLogic\obj\Debug\ControlLogic.dll
+D:\工作代码\印度空调\SysFrame\ControlLogic\obj\Debug\ControlLogic.pdb
+D:\工作代码\新建文件夹\SysFrame\ControlLogic\bin\Debug\ControlLogic.dll
+D:\工作代码\新建文件夹\SysFrame\ControlLogic\bin\Debug\ControlLogic.pdb
+D:\工作代码\新建文件夹\SysFrame\ControlLogic\bin\Debug\Communication.dll
+D:\工作代码\新建文件夹\SysFrame\ControlLogic\bin\Debug\Register.dll
+D:\工作代码\新建文件夹\SysFrame\ControlLogic\bin\Debug\Sys.Config.dll
+D:\工作代码\新建文件夹\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.dll
+D:\工作代码\新建文件夹\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.dll
+D:\工作代码\新建文件夹\SysFrame\ControlLogic\bin\Debug\SysBusiness.dll
+D:\工作代码\新建文件夹\SysFrame\ControlLogic\bin\Debug\Interop.ACTMULTILib.dll
+D:\工作代码\新建文件夹\SysFrame\ControlLogic\bin\Debug\MySql.Data.dll
+D:\工作代码\新建文件夹\SysFrame\ControlLogic\bin\Debug\System.Data.SQLite.dll
+D:\工作代码\新建文件夹\SysFrame\ControlLogic\bin\Debug\Communication.pdb
+D:\工作代码\新建文件夹\SysFrame\ControlLogic\bin\Debug\Sys.Config.pdb
+D:\工作代码\新建文件夹\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.pdb
+D:\工作代码\新建文件夹\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.pdb
+D:\工作代码\新建文件夹\SysFrame\ControlLogic\obj\Debug\ControlLogic.csprojResolveAssemblyReference.cache
+D:\工作代码\新建文件夹\SysFrame\ControlLogic\obj\Debug\ControlLogic.dll
+D:\工作代码\新建文件夹\SysFrame\ControlLogic\obj\Debug\ControlLogic.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.csprojResolveAssemblyReference.cache
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\ControlLogic.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\ControlLogic.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Communication.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Register.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.Config.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\SysBusiness.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Interop.ACTMULTILib.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\MySql.Data.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\System.Data.SQLite.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Communication.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.Config.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\BarcodeLib.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\ControlLogic.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\ControlLogic.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Communication.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Register.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.Config.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\SysBusiness.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Interop.ACTMULTILib.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\MySql.Data.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\System.Data.SQLite.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\BarcodeLib.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Communication.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.Config.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.DbUtilities.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\bin\Debug\Sys.SysBusiness.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.csprojAssemblyReference.cache
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.csproj.CoreCompileInputs.cache
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ControlLogic\obj\Debug\ControlLogic.csproj.CopyComplete

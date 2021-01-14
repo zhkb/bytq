@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="06/07/2017 15:25:22" ReportInfo.Modified="09/07/2019 16:08:59" ReportInfo.CreatorVersion="1.8.30.0">
+  <Dictionary>
+    <MsSqlDataConnection Name="Connection" ConnectionString="rijcmlqJUrEa/KIcQqhhcfnlqC6PGg5imbaGg6zUaNTAYc5sc03TfePxSblja2w5ZBQ6XB2KW3rzKVqcx6AloZTNTR44dHkYeZUDGBO29MmMS3/EQZ1uB8oN4b6VT05NhkHDu4nSS02ixL5sCDaWruiw1dvBMMaAoWWyrYZLApMwLWsLZHcqfgz1m/Z3wQH4telYGa4">
+      <TableDataSource Name="Wms_Product_BarCode" Alias="BoxBarData" DataType="System.Int32" Enabled="true" TableName="Wms_Product_BarCode">
+        <Column Name="Bar_ID" Enabled="false" DataType="System.Int32"/>
+        <Column Name="Bar_Code" DataType="System.String"/>
+        <Column Name="Bar_Type" Enabled="false" DataType="System.Int32"/>
+        <Column Name="Line_Type" Enabled="false" DataType="System.String"/>
+        <Column Name="Material_Name" DataType="System.String" PropName="Part_No"/>
+        <Column Name="Order_Material" DataType="System.String" PropName="Part_Name"/>
+        <Column Name="Unit" Enabled="false" DataType="System.String"/>
+        <Column Name="Spection" Enabled="false" DataType="System.String"/>
+        <Column Name="Bar_Date" Enabled="false" DataType="System.String"/>
+        <Column Name="Create_Time" Enabled="false" DataType="System.DateTime"/>
+        <Column Name="Print_Group" Enabled="false" DataType="System.String"/>
+        <Column Name="Company_ID" Enabled="false" DataType="System.Int32"/>
+        <Column Name="Company_Name" Enabled="false" DataType="System.String"/>
+        <Column Name="Product_Line_ID" Enabled="false" DataType="System.Int32"/>
+        <Column Name="Product_Line_Name" Enabled="false" DataType="System.String"/>
+        <Column Name="Dept_ID" Enabled="false" DataType="System.Int32"/>
+        <Column Name="Dept_Name" Enabled="false" DataType="System.String"/>
+        <Column Name="Order_No" DataType="System.String" PropName="Column"/>
+        <CommandParameter Name="Parameter" DataType="22"/>
+      </TableDataSource>
+    </MsSqlDataConnection>
+    <Parameter Name="BarText" DataType="System.String"/>
+    <Parameter Name="MaterCode" DataType="System.String"/>
+    <Parameter Name="MaterName" DataType="System.String"/>
+    <Parameter Name="ProductDate" DataType="System.String"/>
+    <Parameter Name="SeqNo" DataType="System.String"/>
+  </Dictionary>
+  <ReportPage Name="Page1" PaperWidth="100" PaperHeight="150" LeftMargin="0" TopMargin="0" RightMargin="0" BottomMargin="0">
+    <DataBand Name="Data1" Width="378" Height="688.85" StartNewPage="true">
+      <TextObject Name="Text6" Left="403.35" Top="-145.15" Width="18.9" Height="123.25" Text="[BoxBarData.BarCode_No]" VertAlign="Center" Angle="90" Font="幼圆, 8pt"/>
+      <BarcodeObject Name="Barcode1" Left="246.85" Top="45.8" Width="46.25" Height="282.5" Angle="90" Expression="[BoxBarData.BarCode_No]" Text="L17091183015003164839123456" ShowText="false" Zoom="1.13" Barcode="Code128" Barcode.AutoEncode="true"/>
+      <TextObject Name="Text12" Left="307.85" Top="44.85" Width="37.8" Height="185.22" Text="[BoxBarData.M_Color]" VertAlign="Center" Angle="90" Font="幼圆, 12pt, style=Bold"/>
+      <TextObject Name="Text14" Left="280.2" Top="44.3" Width="37.8" Height="113.4" Text="Serial Number:" VertAlign="Center" Angle="90" Font="幼圆, 9.75pt"/>
+      <BarcodeObject Name="Barcode2" Left="158.2" Top="149.75" Width="74.6" Height="193.12" Angle="90" Expression="[BoxBarData.BarCode_No]" Text="6932290396935" Zoom="1.5" Barcode="EAN13"/>
+      <TextObject Name="Text15" Left="108.25" Top="47.85" Width="18.9" Height="24.57" Text="A" VertAlign="Center" Angle="90" Font="幼圆, 8.25pt, style=Bold"/>
+      <TextObject Name="Text16" Left="334.2" Top="44.25" Width="37.8" Height="415.8" Text="[BoxBarData.Material_Spec]" VertAlign="Center" Angle="90" Font="幼圆, 21.75pt, style=Bold"/>
+      <TextObject Name="Text17" Left="183.55" Top="44.3" Width="37.8" Height="94.5" Text="EAN CODE" VertAlign="Center" Angle="90" Font="幼圆, 15.75pt, style=Bold"/>
+      <BarcodeObject Name="Barcode3" Left="79.6" Top="47.25" Width="28.35" Height="277.5" Angle="90" Expression="[BoxBarData.BarCode_No]" Text="GAOSZP005003UK950001" ShowText="false" Barcode="Code128" Barcode.AutoEncode="true"/>
+      <TextObject Name="Text18" Left="49.25" Top="50.25" Width="18.9" Height="217.35" Text="[BoxBarData.M_Date]" VertAlign="Center" Angle="90" Font="微软雅黑, 12pt"/>
+      <TextObject Name="Text19" Left="16.9" Top="47.25" Width="37.8" Height="213.57" Text="[BoxBarData.M_Weight]" VertAlign="Center" Angle="90" Font="微软雅黑, 12pt"/>
+      <TextObject Name="Text20" Left="-37.8" Top="434.7" Width="359.1" Height="37.8" Text="[BoxBarData.Material_Spec]" VertAlign="Center" Angle="180" Font="幼圆, 21.75pt, style=Bold"/>
+      <BarcodeObject Name="Barcode4" Left="28.35" Top="510.3" Width="313.58" Height="27.35" Expression="[BoxBarData.BarCode_No]" Text="GAOSZP005003UK950001" ShowText="false" Zoom="1.13" Barcode="Code128" Barcode.AutoEncode="true"/>
+      <TextObject Name="Text21" Left="28.35" Top="538.65" Width="103.95" Height="37.8" Text="Serial Number:" VertAlign="Center" Font="幼圆, 8pt"/>
+      <BarcodeObject Name="Barcode5" Left="28.35" Top="567" Width="313.58" Height="37.8" Expression="[BoxBarData.BarCode_No]" Text="GAOSZP005003UK950001" ShowText="false" Zoom="1.13" Barcode="Code128" Barcode.AutoEncode="true"/>
+      <TextObject Name="Text22" Left="125.3" Top="45.25" Width="9.45" Height="137.97" Text="ES60H-KA3(2AU1)" VertAlign="Center" Angle="90" Font="幼圆, 8.25pt"/>
+      <TextObject Name="Text23" Left="105.95" Top="94.5" Width="18.9" Height="232.47" Text="[BoxBarData.BarCode_No1]" HorzAlign="Right" VertAlign="Center" Angle="90" Font="幼圆, 8.25pt"/>
+      <TextObject Name="Text24" Left="28.35" Top="481.95" Width="94.5" Height="37.8" Text="Serial Number:" VertAlign="Center" Font="幼圆, 8pt"/>
+      <TextObject Name="Text25" Left="189" Top="481.95" Width="151.2" Height="37.8" Text="[BoxBarData.BarCode_No1]" HorzAlign="Right" VertAlign="Center" Font="幼圆, 8pt"/>
+      <TextObject Name="Text26" Left="170.1" Top="538.65" Width="170.1" Height="37.8" Text="[BoxBarData.BarCode_No1]" HorzAlign="Right" VertAlign="Center" Font="幼圆, 8pt"/>
+      <TextObject Name="Text27" Left="290.5" Top="134.3" Width="18.9" Height="194.67" Text="[BoxBarData.BarCode_No1]" HorzAlign="Right" VertAlign="Center" Angle="90" Font="幼圆, 8.25pt"/>
+    </DataBand>
+  </ReportPage>
+</Report>

@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ConvertNulls="false" TextQuality="Regular" ReportInfo.Created="06/07/2017 15:25:22" ReportInfo.Modified="10/12/2019 10:30:13" ReportInfo.CreatorVersion="1.8.30.0">
+  <ScriptText>using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Windows.Forms;
+using System.Drawing;
+using System.Data;
+using FastReport;
+using FastReport.Data;
+using FastReport.Dialog;
+using FastReport.Barcode;
+using FastReport.Table;
+using FastReport.Utils;
+
+namespace FastReport
+{
+  public class ReportScript
+  {
+    
+    
+  }
+ 
+}
+                                      </ScriptText>
+  <Dictionary>
+    <MsSqlDataConnection Name="Connection" ConnectionString="rijcmlqJUrEa/KIcQqhhcfnlqC6PGg5imbaGg6zUaNTAYc5sc03TfePxSblja2w5ZBQ6XB2KW3rzKVqcx6AloZTNTR44dHkYeZUDGBO29MmMS3/EQZ1uB8oN4b6VT05NhkHDu4nSS02ixL5sCDaWruiw1dvBMMaAoWWyrYZLApMwLWsLZELLHofZEE4+KtspQtnZw0/">
+      <TableDataSource Name="Wms_Product_BarCode" Alias="BoxBarData" DataType="System.Int32" Enabled="true" TableName="Wms_Product_BarCode">
+        <Column Name="Bar_ID" Enabled="false" DataType="System.Int32"/>
+        <Column Name="Bar_Code" DataType="System.String"/>
+        <Column Name="Bar_Type" Enabled="false" DataType="System.Int32"/>
+        <Column Name="Line_Type" Enabled="false" DataType="System.String"/>
+        <Column Name="Material_Name" DataType="System.String" PropName="Part_No"/>
+        <Column Name="Order_Material" DataType="System.String" PropName="Part_Name"/>
+        <Column Name="Unit" Enabled="false" DataType="System.String"/>
+        <Column Name="Spection" Enabled="false" DataType="System.String"/>
+        <Column Name="Bar_Date" Enabled="false" DataType="System.String"/>
+        <Column Name="Create_Time" Enabled="false" DataType="System.DateTime"/>
+        <Column Name="Print_Group" Enabled="false" DataType="System.String"/>
+        <Column Name="Company_ID" Enabled="false" DataType="System.Int32"/>
+        <Column Name="Company_Name" Enabled="false" DataType="System.String"/>
+        <Column Name="Product_Line_ID" Enabled="false" DataType="System.Int32"/>
+        <Column Name="Product_Line_Name" Enabled="false" DataType="System.String"/>
+        <Column Name="Dept_ID" Enabled="false" DataType="System.Int32"/>
+        <Column Name="Dept_Name" Enabled="false" DataType="System.String"/>
+        <Column Name="Order_No" DataType="System.String" PropName="Column"/>
+        <CommandParameter Name="Parameter" DataType="22"/>
+      </TableDataSource>
+    </MsSqlDataConnection>
+    <MsSqlDataConnection Name="Connection1" ConnectionString="rijcmlqQG9MY5ISwkuzB0Wi8oMpsr9XxAhiHe1zbgmAGpLrp6znGnBet+XoFgYfj5gl+ytlUcHlfeEynGmamTZqajKOnUJPRzAEGZLoF3rvSvtMCHV+igYU39/b7u+65PK6rOIF2XJyGdyvmHlaH5UbQ2CWo7W5gD+jlKZcw325akI4GPHIZRARcyz7TJleH4RGyHCMgBWAjCkKfXtJ55m0zhAGyA==">
+      <TableDataSource Name="IMOS_TA_Material" DataType="System.Int32" Enabled="true" TableName="IMOS_TA_Material">
+        <Column Name="Material_ID" DataType="System.Int32"/>
+        <Column Name="Company_Code" DataType="System.String"/>
+        <Column Name="Company_Name" DataType="System.String"/>
+        <Column Name="Factory_Code" DataType="System.String"/>
+        <Column Name="Factory_Name" DataType="System.String"/>
+        <Column Name="Product_Line_Code" DataType="System.String"/>
+        <Column Name="Product_Line_Name" DataType="System.String"/>
+        <Column Name="Material_Code" DataType="System.String"/>
+        <Column Name="Material_Name" DataType="System.String"/>
+        <Column Name="Material_Type_Code" DataType="System.String"/>
+        <Column Name="Material_Type_Name" DataType="System.String"/>
+        <Column Name="Material_Spec" DataType="System.String"/>
+        <Column Name="Material_Unit" DataType="System.String"/>
+        <Column Name="Material_Image" DataType="System.String"/>
+        <Column Name="Material_Level" DataType="System.Int32"/>
+        <Column Name="Property2" DataType="System.String"/>
+        <Column Name="Foaming_Index" DataType="System.Int32"/>
+        <Column Name="Remark" DataType="System.String"/>
+        <Column Name="Use_Flag" DataType="System.String"/>
+        <Column Name="Delete_Flag" DataType="System.String"/>
+        <Column Name="Creation_Date" DataType="System.DateTime"/>
+        <Column Name="Created_By" DataType="System.Int32"/>
+        <Column Name="Last_Update_Date" DataType="System.DateTime"/>
+        <Column Name="Last_Updated_By" DataType="System.Int32"/>
+        <Column Name="Material_EnergyLabel_Website" DataType="System.String"/>
+        <Column Name="Material_manufacturer" DataType="System.String"/>
+        <Column Name="Material_Coefficient_EnergyConsumption" DataType="System.String"/>
+        <Column Name="Material_HotWater_OutputRate" DataType="System.Int32"/>
+      </TableDataSource>
+    </MsSqlDataConnection>
+    <Parameter Name="BarText" DataType="System.String"/>
+    <Parameter Name="MaterCode" DataType="System.String"/>
+    <Parameter Name="MaterName" DataType="System.String"/>
+    <Parameter Name="ProductDate" DataType="System.String"/>
+    <Parameter Name="SeqNo" DataType="System.String"/>
+  </Dictionary>
+  <ReportPage Name="Page1" PaperWidth="120" PaperHeight="140" LeftMargin="0" TopMargin="0" RightMargin="0" BottomMargin="0" Guides="255.15,418.4,207.9,415.8,283.5,425.25,28.35,141.75,236.25,179.55" Watermark.ImageSize="Center">
+    <DataBand Name="Data1" Top="20" Width="453.6" Height="529.2" StartNewPage="true" Guides="113.4,248.3,292.95,321.3,330.75,359.1,396.9,415.8,453.6,472.5,425.25,481.95">
+      <BarcodeObject Name="Barcode1" Left="255.15" Top="113.4" Width="163.25" Height="134.9" AutoSize="false" DataColumn="IMOS_TA_Material.Material_EnergyLabel_Website" Text="123" ShowText="false" Barcode="QR Code" Barcode.ErrorCorrection="L" Barcode.Encoding="UTF8" Barcode.QuietZone="false"/>
+      <TextObject Name="Text1" Left="207.9" Top="292.95" Width="207.9" Height="28.35" Text="[IMOS_TA_Material.Material_manufacturer]" HorzAlign="Right" Font="微软雅黑, 12pt, style=Bold"/>
+      <TextObject Name="Text2" Left="207.9" Top="330.75" Width="207.9" Height="28.35" Text="[IMOS_TA_Material.Material_Name]" HorzAlign="Right" Font="微软雅黑, 12pt, style=Bold"/>
+      <TextObject Name="Text3" Left="283.5" Top="396.9" Width="141.75" Height="18.9" Text="[IMOS_TA_Material.Material_Coefficient_EnergyConsumption]" HorzAlign="Right" Font="微软雅黑, 12pt, style=Bold"/>
+      <TextObject Name="Text4" Left="283.5" Top="453.6" Width="141.75" Height="18.9" Text="[IMOS_TA_Material.Material_HotWater_OutputRate]%" HorzAlign="Right" Font="微软雅黑, 12pt"/>
+    </DataBand>
+  </ReportPage>
+</Report>

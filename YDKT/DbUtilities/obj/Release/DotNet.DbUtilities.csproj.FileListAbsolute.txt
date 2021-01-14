@@ -1,0 +1,81 @@
+D:\Project\通用权限管理系统\DotNet.DbUtilities\bin\Release\DotNet.DbUtilities.dll
+D:\Project\通用权限管理系统\DotNet.DbUtilities\bin\Release\DotNet.DbUtilities.pdb
+D:\Project\通用权限管理系统\DotNet.DbUtilities\bin\Release\DotNet.Utilities.dll
+D:\Project\通用权限管理系统\DotNet.DbUtilities\bin\Release\MySql.Data.dll
+D:\Project\通用权限管理系统\DotNet.DbUtilities\bin\Release\System.Data.SQLite.dll
+D:\Project\通用权限管理系统\DotNet.DbUtilities\bin\Release\DotNet.Utilities.pdb
+D:\Project\通用权限管理系统\DotNet.DbUtilities\obj\Release\ResolveAssemblyReference.cache
+D:\Project\通用权限管理系统\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.dll
+D:\Project\通用权限管理系统\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.pdb
+D:\Project\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.DbUtilities.dll
+D:\Project\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.DbUtilities.pdb
+D:\Project\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.Utilities.dll
+D:\Project\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.Utilities.pdb
+D:\Project\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+D:\Project\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.dll
+D:\Project\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.pdb
+D:\Project\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\MySql.Data.dll
+D:\Project\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\System.Data.SQLite.dll
+D:\RFID Source\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.DbUtilities.dll
+D:\RFID Source\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.DbUtilities.pdb
+D:\RFID Source\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.Utilities.dll
+D:\RFID Source\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\MySql.Data.dll
+D:\RFID Source\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\System.Data.SQLite.dll
+D:\RFID Source\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.Utilities.pdb
+D:\RFID Source\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+D:\RFID Source\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.dll
+D:\RFID Source\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.pdb
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.DbUtilities.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.DbUtilities.pdb
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.Utilities.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\MySql.Data.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\System.Data.SQLite.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.Utilities.pdb
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.pdb
+E:\object\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.DbUtilities.dll
+E:\object\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.DbUtilities.pdb
+E:\object\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.Utilities.dll
+E:\object\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\MySql.Data.dll
+E:\object\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\System.Data.SQLite.dll
+E:\object\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.Utilities.pdb
+E:\object\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+E:\object\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.dll
+E:\object\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.Utilities.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\MySql.Data.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\System.Data.SQLite.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.Utilities.pdb
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20150416\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20150416\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20150416\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.Utilities.dll
+F:\我的obj\RFID Source20150416\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\MySql.Data.dll
+F:\我的obj\RFID Source20150416\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\System.Data.SQLite.dll
+F:\我的obj\RFID Source20150416\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.Utilities.pdb
+F:\我的obj\RFID Source20150416\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+F:\我的obj\RFID Source20150416\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20150416\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20150423\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20150423\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20150423\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.Utilities.dll
+F:\我的obj\RFID Source20150423\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\MySql.Data.dll
+F:\我的obj\RFID Source20150423\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\System.Data.SQLite.dll
+F:\我的obj\RFID Source20150423\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.Utilities.pdb
+F:\我的obj\RFID Source20150423\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+F:\我的obj\RFID Source20150423\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20150423\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20150430\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20150430\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20150430\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.Utilities.dll
+F:\我的obj\RFID Source20150430\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\MySql.Data.dll
+F:\我的obj\RFID Source20150430\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\System.Data.SQLite.dll
+F:\我的obj\RFID Source20150430\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Release\DotNet.Utilities.pdb
+F:\我的obj\RFID Source20150430\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+F:\我的obj\RFID Source20150430\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20150430\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Release\DotNet.DbUtilities.pdb

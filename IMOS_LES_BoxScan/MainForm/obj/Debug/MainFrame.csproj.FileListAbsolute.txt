@@ -1,0 +1,178 @@
+E:\学习\Src\New Frame\NewFrame\NewFrame\bin\Debug\MainFrame.exe.config
+E:\学习\Src\New Frame\NewFrame\NewFrame\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+E:\学习\Src\New Frame\NewFrame\NewFrame\obj\Debug\MainFrame.Properties.Resources.resources
+E:\学习\Src\New Frame\NewFrame\NewFrame\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+E:\学习\Src\New Frame\NewFrame\NewFrame\bin\Debug\MainFrame.exe
+E:\学习\Src\New Frame\NewFrame\NewFrame\bin\Debug\MainFrame.pdb
+E:\学习\Src\New Frame\NewFrame\NewFrame\bin\Debug\Frame.Config.dll
+E:\学习\Src\New Frame\NewFrame\NewFrame\bin\Debug\Frame.DbUtilities.dll
+E:\学习\Src\New Frame\NewFrame\NewFrame\bin\Debug\Frame.Utilities.dll
+E:\学习\Src\New Frame\NewFrame\NewFrame\bin\Debug\Material.dll
+E:\学习\Src\New Frame\NewFrame\NewFrame\bin\Debug\MySql.Data.dll
+E:\学习\Src\New Frame\NewFrame\NewFrame\bin\Debug\System.Data.SQLite.dll
+E:\学习\Src\New Frame\NewFrame\NewFrame\bin\Debug\Frame.Config.pdb
+E:\学习\Src\New Frame\NewFrame\NewFrame\bin\Debug\Frame.DbUtilities.pdb
+E:\学习\Src\New Frame\NewFrame\NewFrame\bin\Debug\Material.pdb
+E:\学习\Src\New Frame\NewFrame\NewFrame\bin\Debug\Frame.Utilities.pdb
+E:\学习\Src\New Frame\NewFrame\NewFrame\obj\Debug\MainFrame.MainForm.resources
+E:\学习\Src\New Frame\NewFrame\NewFrame\obj\Debug\MainFrame.exe
+E:\学习\Src\New Frame\NewFrame\NewFrame\obj\Debug\MainFrame.pdb
+E:\学习\Src\New Frame\NewFrame\MainForm\bin\Debug\MainFrame.exe.config
+E:\学习\Src\New Frame\NewFrame\MainForm\obj\Debug\MainFrame.exe
+E:\学习\Src\New Frame\NewFrame\MainForm\obj\Debug\MainFrame.pdb
+E:\学习\Src\New Frame\NewFrame\MainForm\bin\Debug\MainFrame.exe
+E:\学习\Src\New Frame\NewFrame\MainForm\bin\Debug\MainFrame.pdb
+E:\学习\Src\New Frame\NewFrame\MainForm\bin\Debug\Frame.Utilities.dll
+E:\学习\Src\New Frame\NewFrame\MainForm\bin\Debug\MySql.Data.dll
+E:\学习\Src\New Frame\NewFrame\MainForm\bin\Debug\System.Data.SQLite.dll
+E:\学习\Src\New Frame\NewFrame\MainForm\bin\Debug\Frame.Utilities.pdb
+E:\学习\Src\New Frame\NewFrame\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+E:\学习\Src\New Frame\NewFrame\MainForm\obj\Debug\MainFrame.MainForm.resources
+E:\学习\Src\New Frame\NewFrame\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+E:\学习\Src\New Frame\NewFrame\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+E:\学习\Src\New Frame\NewFrame\MainForm\bin\Debug\Config.xml
+E:\学习\Src\New Frame\NewFrame\MainForm\bin\Debug\Login.dll
+E:\学习\Src\New Frame\NewFrame\MainForm\bin\Debug\Material.dll
+E:\学习\Src\New Frame\NewFrame\MainForm\bin\Debug\Login.pdb
+E:\学习\Src\New Frame\NewFrame\MainForm\bin\Debug\Material.pdb
+E:\学习\Src\New Frame\NewFrame\MainForm\bin\Debug\Sys.Config.dll
+E:\学习\Src\New Frame\NewFrame\MainForm\bin\Debug\Sys.DbUtilities.dll
+E:\学习\Src\New Frame\NewFrame\MainForm\bin\Debug\Sys.SysBusiness.dll
+E:\学习\Src\New Frame\NewFrame\MainForm\bin\Debug\Sys.Config.pdb
+E:\学习\Src\New Frame\NewFrame\MainForm\bin\Debug\Sys.DbUtilities.pdb
+E:\学习\Src\New Frame\NewFrame\MainForm\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Config.xml
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\MainFrame.exe.config
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\MainFrame.exe
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\MainFrame.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Login.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Material.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Sys.Config.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\MySql.Data.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Login.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Material.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\obj\Debug\MainFrame.MainForm.resources
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\obj\Debug\MainFrame.exe
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\obj\Debug\MainFrame.pdb
+E:\江苏力信\Mixing\MainForm\bin\Debug\MainFrame.exe.config
+E:\江苏力信\Mixing\MainForm\obj\Debug\MainFrame.exe
+E:\江苏力信\Mixing\MainForm\obj\Debug\MainFrame.pdb
+E:\江苏力信\Mixing\MainForm\bin\Debug\Config.xml
+E:\江苏力信\Mixing\MainForm\bin\Debug\MainFrame.exe
+E:\江苏力信\Mixing\MainForm\bin\Debug\MainFrame.pdb
+E:\江苏力信\Mixing\MainForm\bin\Debug\Frame.Utilities.dll
+E:\江苏力信\Mixing\MainForm\bin\Debug\Login.dll
+E:\江苏力信\Mixing\MainForm\bin\Debug\Material.dll
+E:\江苏力信\Mixing\MainForm\bin\Debug\Sys.Config.dll
+E:\江苏力信\Mixing\MainForm\bin\Debug\Sys.DbUtilities.dll
+E:\江苏力信\Mixing\MainForm\bin\Debug\Sys.SysBusiness.dll
+E:\江苏力信\Mixing\MainForm\bin\Debug\MySql.Data.dll
+E:\江苏力信\Mixing\MainForm\bin\Debug\System.Data.SQLite.dll
+E:\江苏力信\Mixing\MainForm\bin\Debug\Sys.Config.pdb
+E:\江苏力信\Mixing\MainForm\bin\Debug\Sys.DbUtilities.pdb
+E:\江苏力信\Mixing\MainForm\bin\Debug\Login.pdb
+E:\江苏力信\Mixing\MainForm\bin\Debug\Material.pdb
+E:\江苏力信\Mixing\MainForm\bin\Debug\Sys.SysBusiness.pdb
+E:\江苏力信\Mixing\MainForm\bin\Debug\Frame.Utilities.pdb
+E:\江苏力信\Mixing\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+E:\江苏力信\Mixing\MainForm\obj\Debug\MainFrame.MainForm.resources
+E:\江苏力信\Mixing\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+E:\江苏力信\Mixing\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+E:\江苏力信\Mixing\MainForm\bin\Debug\Param.dll
+E:\江苏力信\Mixing\MainForm\bin\Debug\Param.pdb
+E:\江苏力信\Mixing\MainForm\bin\Debug\Report.dll
+E:\江苏力信\Mixing\MainForm\bin\Debug\Report.pdb
+E:\江苏力信\Mixing\MainForm\bin\Debug\FastReport.dll
+E:\江苏力信\Mixing\MainForm\bin\Debug\FastReport.Bars.dll
+E:\江苏力信\Mixing\MainForm\bin\Debug\FastReport.Editor.dll
+E:\江苏力信\Mixing\MainForm\bin\Debug\FastReport.xml
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Param.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Recipe.exe
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Report.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\FastReport.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\FastReport.Bars.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\FastReport.Editor.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Param.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Report.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Recipe.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\FastReport.xml
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Config.xml
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\MainFrame.exe.config
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\MainFrame.exe
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\MainFrame.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Login.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Material.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Param.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Recipe.exe
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Report.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Sys.Config.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\MySql.Data.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\FastReport.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\FastReport.Bars.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\FastReport.Editor.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Login.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Material.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Param.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Recipe.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Report.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\FastReport.xml
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\obj\Debug\MainFrame.MainForm.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\obj\Debug\MainFrame.exe
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\obj\Debug\MainFrame.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Monitor.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Plan.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Monitor.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Plan.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\.ControlLogic.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Communication.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Communication.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\.ControlLogic.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\obj\Debug\MainFrame.MainForm.resources
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\obj\Debug\MainFrame.exe
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\obj\Debug\MainFrame.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\Config.xml
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\MainFrame.exe.config
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\MainFrame.exe
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\MainFrame.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\MySql.Data.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\BarReport.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\FastReport.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\FastReport.Bars.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\FastReport.Editor.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\BarReport.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\FastReport.xml
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\MainForm\bin\Debug\BarPrint.exe.config

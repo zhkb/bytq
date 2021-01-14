@@ -1,0 +1,160 @@
+E:\学习\Src\New Frame\NewFrame\FrmMaterial\bin\Debug\Material.pdb
+E:\学习\Src\New Frame\NewFrame\FrmMaterial\obj\Debug\Material.Properties.Resources.resources
+E:\学习\Src\New Frame\NewFrame\FrmMaterial\obj\Debug\Material.csproj.GenerateResource.Cache
+E:\学习\Src\New Frame\NewFrame\FrmMaterial\obj\Debug\Material.pdb
+E:\学习\Src\New Frame\NewFrame\FrmMaterial\obj\Debug\Material.FrmBatch.resources
+E:\学习\Src\New Frame\NewFrame\FrmMaterial\obj\Debug\Material.FrmMaterial.resources
+E:\学习\Src\New Frame\NewFrame\FrmMaterial\bin\Debug\Material.dll.config
+E:\学习\Src\New Frame\NewFrame\FrmMaterial\bin\Debug\Material.dll
+E:\学习\Src\New Frame\NewFrame\FrmMaterial\obj\Debug\Material.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\FrmMaterial\bin\Debug\Material.dll.config
+E:\学习\Src\New Frame\NewFrame\ModuleForm\FrmMaterial\bin\Debug\Material.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\FrmMaterial\bin\Debug\Material.pdb
+E:\学习\Src\New Frame\NewFrame\ModuleForm\FrmMaterial\obj\Debug\Material.FrmMaterial.resources
+E:\学习\Src\New Frame\NewFrame\ModuleForm\FrmMaterial\obj\Debug\Material.Properties.Resources.resources
+E:\学习\Src\New Frame\NewFrame\ModuleForm\FrmMaterial\obj\Debug\Material.csproj.GenerateResource.Cache
+E:\学习\Src\New Frame\NewFrame\ModuleForm\FrmMaterial\obj\Debug\Material.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\FrmMaterial\obj\Debug\Material.pdb
+E:\学习\Src\New Frame\NewFrame\ModuleForm\FrmMaterial\obj\Debug\Material.csprojResolveAssemblyReference.cache
+E:\学习\Src\New Frame\NewFrame\ModuleForm\FrmMaterial\bin\Debug\Frame.Config.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\FrmMaterial\bin\Debug\Frame.DbUtilities.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\FrmMaterial\bin\Debug\Frame.SysBusiness.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\FrmMaterial\bin\Debug\Frame.Utilities.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\FrmMaterial\bin\Debug\MySql.Data.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\FrmMaterial\bin\Debug\System.Data.SQLite.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\FrmMaterial\bin\Debug\Frame.Config.pdb
+E:\学习\Src\New Frame\NewFrame\ModuleForm\FrmMaterial\bin\Debug\Frame.DbUtilities.pdb
+E:\学习\Src\New Frame\NewFrame\ModuleForm\FrmMaterial\bin\Debug\Frame.SysBusiness.pdb
+E:\学习\Src\New Frame\NewFrame\ModuleForm\FrmMaterial\bin\Debug\Frame.Utilities.pdb
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Material\bin\Debug\Material.dll.config
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Material\bin\Debug\Material.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Material\bin\Debug\Material.pdb
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Material\bin\Debug\MySql.Data.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Material\bin\Debug\System.Data.SQLite.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.pdb
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Material\obj\Debug\Material.csprojResolveAssemblyReference.cache
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterial.resources
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Material\obj\Debug\Material.Properties.Resources.resources
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Material\obj\Debug\Material.csproj.GenerateResource.Cache
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Material\obj\Debug\Material.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Material\obj\Debug\Material.pdb
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Material\bin\Debug\Sys.Config.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Material\bin\Debug\Sys.Config.pdb
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.pdb
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Material.dll.config
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Material.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Material.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Sys.Config.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\MySql.Data.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.csprojResolveAssemblyReference.cache
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterial.resources
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.Properties.Resources.resources
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.csproj.GenerateResource.Cache
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.pdb
+E:\江苏力信\Mixing\ModuleForm\Material\obj\Debug\Material.csprojResolveAssemblyReference.cache
+E:\江苏力信\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterial.resources
+E:\江苏力信\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterialModify.resources
+E:\江苏力信\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterialType.resources
+E:\江苏力信\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterialTypeModify.resources
+E:\江苏力信\Mixing\ModuleForm\Material\obj\Debug\Material.Properties.Resources.resources
+E:\江苏力信\Mixing\ModuleForm\Material\obj\Debug\Material.csproj.GenerateResource.Cache
+E:\江苏力信\Mixing\ModuleForm\Material\bin\Debug\Material.dll.config
+E:\江苏力信\Mixing\ModuleForm\Material\bin\Debug\Material.dll
+E:\江苏力信\Mixing\ModuleForm\Material\bin\Debug\Material.pdb
+E:\江苏力信\Mixing\ModuleForm\Material\bin\Debug\Frame.Utilities.dll
+E:\江苏力信\Mixing\ModuleForm\Material\bin\Debug\Sys.Config.dll
+E:\江苏力信\Mixing\ModuleForm\Material\bin\Debug\Sys.DbUtilities.dll
+E:\江苏力信\Mixing\ModuleForm\Material\bin\Debug\Sys.SysBusiness.dll
+E:\江苏力信\Mixing\ModuleForm\Material\bin\Debug\MySql.Data.dll
+E:\江苏力信\Mixing\ModuleForm\Material\bin\Debug\System.Data.SQLite.dll
+E:\江苏力信\Mixing\ModuleForm\Material\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\江苏力信\Mixing\ModuleForm\Material\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\江苏力信\Mixing\ModuleForm\Material\bin\Debug\Sys.Config.pdb
+E:\江苏力信\Mixing\ModuleForm\Material\bin\Debug\Sys.DbUtilities.pdb
+E:\江苏力信\Mixing\ModuleForm\Material\bin\Debug\Sys.SysBusiness.pdb
+E:\江苏力信\Mixing\ModuleForm\Material\bin\Debug\Frame.Utilities.pdb
+E:\江苏力信\Mixing\ModuleForm\Material\obj\Debug\Material.dll
+E:\江苏力信\Mixing\ModuleForm\Material\obj\Debug\Material.pdb
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\bin\Debug\Material.dll.config
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\bin\Debug\Material.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\bin\Debug\Material.pdb
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\bin\Debug\Frame.Utilities.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\bin\Debug\Sys.Config.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\bin\Debug\Sys.DbUtilities.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\bin\Debug\Sys.SysBusiness.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\bin\Debug\MySql.Data.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\bin\Debug\System.Data.SQLite.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\bin\Debug\Sys.Config.pdb
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\bin\Debug\Sys.DbUtilities.pdb
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\bin\Debug\Sys.SysBusiness.pdb
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\bin\Debug\Frame.Utilities.pdb
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\obj\Debug\Material.csprojResolveAssemblyReference.cache
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterial.resources
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterialModify.resources
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterialType.resources
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterialTypeModify.resources
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\obj\Debug\Material.Properties.Resources.resources
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\obj\Debug\Material.csproj.GenerateResource.Cache
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\obj\Debug\Material.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Material\obj\Debug\Material.pdb
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\bin\Debug\Material.dll.config
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\bin\Debug\Material.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\bin\Debug\Material.pdb
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\bin\Debug\Frame.Utilities.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\bin\Debug\Sys.Config.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\bin\Debug\Sys.DbUtilities.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\bin\Debug\Sys.SysBusiness.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\bin\Debug\MySql.Data.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\bin\Debug\System.Data.SQLite.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\bin\Debug\Sys.Config.pdb
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\bin\Debug\Sys.DbUtilities.pdb
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\bin\Debug\Sys.SysBusiness.pdb
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\bin\Debug\Frame.Utilities.pdb
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\obj\Debug\Material.csprojResolveAssemblyReference.cache
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\obj\Debug\Material.FrmMaterial.resources
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\obj\Debug\Material.FrmMaterialModify.resources
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\obj\Debug\Material.FrmMaterialType.resources
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\obj\Debug\Material.FrmMaterialTypeModify.resources
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\obj\Debug\Material.Properties.Resources.resources
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\obj\Debug\Material.csproj.GenerateResource.Cache
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\obj\Debug\Material.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Material\obj\Debug\Material.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Material.dll.config
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Material.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Material.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Sys.Config.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\MySql.Data.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.csprojResolveAssemblyReference.cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterial.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterialModify.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterialType.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterialTypeModify.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.Properties.Resources.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.csproj.GenerateResource.Cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.pdb

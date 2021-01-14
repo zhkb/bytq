@@ -1,0 +1,193 @@
+2019-02-01 08:56:34  1#plc10.10.60.180
+2019-02-01 08:56:50  数据库连接失败，重新连接中.....
+2019-02-01 08:57:19  系统正常退出.
+2019-02-01 08:58:04  1#plc10.10.60.180
+2019-02-01 08:58:15  系统正常退出.
+2019-02-01 08:58:31  1#plc10.10.60.180
+2019-02-01 08:58:58  获取菜单信息异常！对象名 'Sys_Menu' 无效。
+2019-02-01 09:00:01  系统正常退出.
+2019-02-01 09:05:05  1#plc10.10.60.180
+2019-02-01 09:05:20  系统正常退出.
+2019-02-01 09:06:15  1#plc10.10.60.180
+2019-02-01 09:06:42  系统正常退出.
+2019-02-01 09:07:40  1#plc10.10.60.180
+2019-02-01 09:09:07  获取菜单信息异常！对象名 'Sys_Menu' 无效。
+2019-02-01 09:09:14  系统正常退出.
+2019-02-01 09:09:41  1#plc10.10.60.180
+2019-02-01 09:09:46  系统正常退出.
+2019-02-01 09:11:18  1#plc10.10.60.180
+2019-02-01 09:12:07  系统正常退出.
+2019-02-01 09:46:40  1#plc10.10.60.180
+2019-02-01 09:46:50  系统正常退出.
+2019-02-01 09:48:12  1#plc10.10.60.180
+2019-02-01 09:48:25  系统正常退出.
+2019-02-01 09:49:09  1#plc10.10.60.180
+2019-02-01 09:49:22  系统正常退出.
+2019-02-01 09:52:52  1#plc10.10.60.180
+2019-02-01 09:53:03  系统正常退出.
+2019-02-01 09:53:48  1#plc10.10.60.180
+2019-02-01 09:55:56  系统正常退出.
+2019-02-01 10:23:15  1#plc10.10.60.180
+2019-02-01 10:23:59  系统正常退出.
+2019-02-01 10:25:17  1#plc10.10.60.180
+2019-02-01 10:25:23  系统正常退出.
+2019-02-01 10:25:47  1#plc10.10.60.180
+2019-02-01 10:29:25  1#plc10.10.60.180
+2019-02-01 10:29:34  系统正常退出.
+2019-02-01 10:30:40  1#plc10.10.60.180
+2019-02-01 10:30:48  系统正常退出.
+2019-02-01 10:31:53  1#plc10.10.60.180
+2019-02-01 10:32:20  系统正常退出.
+2019-02-01 10:41:25  1#plc10.10.60.180
+2019-02-01 10:43:10  1#plc10.10.60.180
+2019-02-01 10:43:14  系统正常退出.
+2019-02-01 10:43:29  1#plc10.10.60.180
+2019-02-01 10:44:00  系统正常退出.
+2019-02-01 10:44:25  1#plc10.10.60.180
+2019-02-01 10:46:02  系统正常退出.
+2019-02-01 10:46:27  1#plc10.10.60.180
+2019-02-01 10:51:59  系统正常退出.
+2019-02-01 10:52:49  1#plc10.10.60.180
+2019-02-01 10:54:18  系统正常退出.
+2019-02-01 11:05:15  1#plc10.10.60.180
+2019-02-01 11:07:45  系统正常退出.
+2019-02-01 11:08:05  1#plc10.10.60.180
+2019-02-01 11:08:15  参数项数据处理异常！'1' 附近有语法错误。
+2019-02-01 11:08:23  参数项数据处理异常！'1' 附近有语法错误。
+2019-02-01 11:09:13  参数项数据处理异常！'1' 附近有语法错误。
+2019-02-01 11:09:45  1#plc10.10.60.180
+2019-02-01 11:09:57  参数项数据处理异常！'1' 附近有语法错误。
+2019-02-01 11:10:28  参数项数据处理异常！'1' 附近有语法错误。
+2019-02-01 11:11:09  参数项数据处理异常！'1' 附近有语法错误。
+2019-02-01 11:11:10  数据库连接失败，重新连接中.....
+2019-02-01 11:12:12  修改参数项数据异常！未能找到名为 Head_ID 的列。
+参数名: columnName
+2019-02-01 11:12:17  系统正常退出.
+2019-02-01 11:13:30  1#plc10.10.60.180
+2019-02-01 11:13:37  修改参数项数据异常！关键字 'and' 附近有语法错误。
+2019-02-01 11:14:10  1#plc10.10.60.180
+2019-02-01 11:14:16  修改参数项数据异常！关键字 'and' 附近有语法错误。
+2019-02-01 11:14:28  修改参数项数据异常！关键字 'and' 附近有语法错误。
+2019-02-01 11:14:58  数据库连接失败，重新连接中.....
+2019-02-01 11:15:34  修改参数项数据异常！关键字 'and' 附近有语法错误。
+2019-02-01 11:15:35  数据库连接失败，重新连接中.....
+2019-02-01 11:15:43  修改参数项数据异常！列名 'F001' 无效。
+2019-02-01 11:16:01  修改参数项数据异常！列名 'F001' 无效。
+2019-02-01 11:16:41  修改参数项数据异常！列名 'F001' 无效。
+2019-02-01 11:16:44  数据库连接失败，重新连接中.....
+2019-02-01 11:18:29  1#plc10.10.60.180
+2019-02-01 11:19:19  系统正常退出.
+2019-02-01 11:20:21  1#plc10.10.60.180
+2019-02-01 11:21:48  参数项信息删除失败.未能找到名为 Head_ID 的列。
+参数名: columnName
+2019-02-01 11:21:53  系统正常退出.
+2019-02-01 11:24:44  1#plc10.10.60.180
+2019-02-01 11:24:49  参数项信息删除失败.对象名 'dbo.Sys_Code_Detail' 无效。
+2019-02-01 11:25:23  参数项信息删除失败.对象名 'dbo.Sys_Code_Detail' 无效。
+2019-02-01 11:25:28  数据库连接失败，重新连接中.....
+2019-02-01 11:25:30  参数项信息删除失败.无法绑定由多个部分组成的标识符 "a.Company_Code"。
+无法绑定由多个部分组成的标识符 "a.Factory_Code"。
+无法绑定由多个部分组成的标识符 "a.product_line_code"。
+2019-02-01 11:25:56  参数项信息删除失败.无法绑定由多个部分组成的标识符 "a.Company_Code"。
+无法绑定由多个部分组成的标识符 "a.Factory_Code"。
+无法绑定由多个部分组成的标识符 "a.product_line_code"。
+2019-02-01 11:25:59  数据库连接失败，重新连接中.....
+2019-02-01 11:26:09  数据库连接失败，重新连接中.....
+2019-02-01 11:26:15  系统正常退出.
+2019-02-01 11:29:42  1#plc10.10.60.180
+2019-02-01 11:29:55  系统正常退出.
+2019-02-01 11:30:41  1#plc10.10.60.180
+2019-02-01 11:30:52  系统正常退出.
+2019-02-01 11:32:55  1#plc10.10.60.180
+2019-02-01 11:33:40  系统正常退出.
+2019-02-01 11:38:40  1#plc10.10.60.180
+2019-02-01 11:39:13  系统正常退出.
+2019-02-01 12:41:12  1#plc10.10.60.180
+2019-02-01 12:41:24  系统正常退出.
+2019-02-01 13:01:35  1#plc10.10.60.180
+2019-02-01 13:01:37  获取用户信息失败.System.Data.SqlClient.SqlException (0x80131904): 列名 'ProductLine_Code' 无效。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   在 Sys.DbUtilities.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText) 位置 E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\DbUtilities\DbProvider\SqlHelper.cs:行号 48
+   在 Sys.DbUtilities.DataHelper.Fill(String commandText) 位置 E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\DbUtilities\DataHelper.cs:行号 44
+   在 Authority.FrmAuthority.GetUserData() 位置 E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Authority\FrmAuthority.cs:行号 42
+ClientConnectionId:26fb5e61-959a-4eef-a09a-425fce7d6fd5
+Error Number:207,State:1,Class:16
+2019-02-01 13:05:02  获取用户信息失败.System.Data.SqlClient.SqlException (0x80131904): 列名 'ProductLine_Code' 无效。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   在 Sys.DbUtilities.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText) 位置 E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\DbUtilities\DbProvider\SqlHelper.cs:行号 48
+   在 Sys.DbUtilities.DataHelper.Fill(String commandText) 位置 E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\DbUtilities\DataHelper.cs:行号 44
+   在 Authority.FrmAuthority.GetUserData() 位置 E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Authority\FrmAuthority.cs:行号 42
+ClientConnectionId:26fb5e61-959a-4eef-a09a-425fce7d6fd5
+Error Number:207,State:1,Class:16
+2019-02-01 13:06:30  1#plc10.10.60.180
+2019-02-01 13:07:10  1#plc10.10.60.180
+2019-02-01 13:11:00  1#plc10.10.60.180
+2019-02-01 13:11:16  数据库连接失败，重新连接中.....
+2019-02-01 13:13:14  系统正常退出.
+2019-02-01 13:13:37  1#plc10.10.60.180
+2019-02-01 13:13:53  系统正常退出.
+2019-02-01 13:19:11  1#plc10.10.60.180
+2019-02-01 13:19:20  系统正常退出.
+2019-02-01 13:20:34  1#plc10.10.60.180
+2019-02-01 13:21:16  系统正常退出.
+2019-02-01 13:23:21  1#plc10.10.60.180
+2019-02-01 13:23:53  系统正常退出.
+2019-02-01 13:24:26  1#plc10.10.60.180
+2019-02-01 13:24:35  系统正常退出.
+2019-02-01 13:25:42  1#plc10.10.60.180
+2019-02-01 13:25:54  系统正常退出.
+2019-02-01 13:27:26  1#plc10.10.60.180
+2019-02-01 13:27:49  系统正常退出.
+2019-02-01 13:28:50  1#plc10.10.60.180
+2019-02-01 13:29:13  系统正常退出.
+2019-02-01 13:32:51  1#plc10.10.60.180
+2019-02-01 13:33:18  系统正常退出.
+2019-02-01 13:33:51  1#plc10.10.60.180
+2019-02-01 13:34:04  系统正常退出.
+2019-02-01 14:05:26  1#plc10.10.60.180
+2019-02-01 14:07:42  1#plc10.10.60.180
+2019-02-01 14:08:19  数据库连接失败，重新连接中.....
+2019-02-01 14:09:41  系统正常退出.
+2019-02-01 14:27:58  1#plc10.10.60.180
+2019-02-01 14:28:13  系统正常退出.
+2019-02-01 14:28:25  1#plc10.10.60.180
+2019-02-01 14:29:22  1#plc10.10.60.180
+2019-02-01 14:30:23  系统正常退出.
+2019-02-01 14:30:54  1#plc10.10.60.180
+2019-02-01 14:31:06  系统正常退出.
+2019-02-01 14:32:09  1#plc10.10.60.180
+2019-02-01 14:44:11  1#plc10.10.60.180
+2019-02-01 14:44:38  对象名 'Sys_User' 无效。
+2019-02-01 14:44:48  系统正常退出.
+2019-02-01 14:45:32  1#plc10.10.60.180
+2019-02-01 14:45:45  系统正常退出.
+2019-02-01 14:55:31  1#plc10.10.60.180
+2019-02-01 15:28:15  系统正常退出.
+2019-02-01 15:28:58  1#plc10.10.60.180
+2019-02-01 15:29:13  系统正常退出.
+2019-02-01 15:35:58  1#plc10.10.60.180
+2019-02-01 15:37:55  系统正常退出.

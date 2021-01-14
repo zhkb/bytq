@@ -1,0 +1,496 @@
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\Tables\SqlMap.config
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.dll
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.pdb
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.dll
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.dll
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.dll
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.dll
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.dll
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.dll
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.dll
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.dll
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\MySql.Data.dll
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\System.Data.SQLite.dll
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.pdb
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.pdb
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.pdb
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.pdb
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.pdb
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.pdb
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.pdb
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.pdb
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmConfig.resources
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmIPLimitr.resources
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOn.resources
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnByName.resources
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnSelect.resources
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmSelectNetwork.resources
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csproj.GenerateResource.Cache
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.dll
+D:\Project\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.pdb
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\Tables\SqlMap.config
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.pdb
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\MySql.Data.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\System.Data.SQLite.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.pdb
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.pdb
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.pdb
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.pdb
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.pdb
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.pdb
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.pdb
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.pdb
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csprojResolveAssemblyReference.cache
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmConfig.resources
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmIPLimitr.resources
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOn.resources
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnByName.resources
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnSelect.resources
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmSelectNetwork.resources
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csproj.GenerateResource.Cache
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.pdb
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\Tables\SqlMap.config
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.dll
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.pdb
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.dll
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.dll
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.dll
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.dll
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.dll
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.dll
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.dll
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.dll
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\MySql.Data.dll
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\System.Data.SQLite.dll
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.pdb
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.pdb
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.pdb
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.pdb
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.pdb
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.pdb
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.pdb
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.pdb
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csprojResolveAssemblyReference.cache
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmConfig.resources
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmIPLimitr.resources
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOn.resources
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnByName.resources
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnSelect.resources
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmSelectNetwork.resources
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csproj.GenerateResource.Cache
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.dll
+E:\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.pdb
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\Tables\SqlMap.config
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.dll
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.pdb
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.dll
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.dll
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.dll
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.dll
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.dll
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.dll
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.dll
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.dll
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\MySql.Data.dll
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\System.Data.SQLite.dll
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.pdb
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.pdb
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.pdb
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.pdb
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.pdb
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.pdb
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.pdb
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.pdb
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csprojResolveAssemblyReference.cache
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmConfig.resources
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmIPLimitr.resources
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOn.resources
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnByName.resources
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnSelect.resources
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmSelectNetwork.resources
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csproj.GenerateResource.Cache
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.dll
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.pdb
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\Tables\SqlMap.config
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.dll
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.pdb
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.dll
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.dll
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.dll
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.dll
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.dll
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.dll
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.dll
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\MySql.Data.dll
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\System.Data.SQLite.dll
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.pdb
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.pdb
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.pdb
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.pdb
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.pdb
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.pdb
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.pdb
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csprojResolveAssemblyReference.cache
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmConfig.resources
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmIPLimitr.resources
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOn.resources
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnByName.resources
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnSelect.resources
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmSelectNetwork.resources
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csproj.GenerateResource.Cache
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.dll
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.pdb
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\Tables\SqlMap.config
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.dll
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.pdb
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.dll
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.dll
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.dll
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.dll
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.dll
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.dll
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.dll
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\MySql.Data.dll
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\System.Data.SQLite.dll
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.pdb
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.pdb
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.pdb
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.pdb
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.pdb
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.pdb
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.pdb
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csprojResolveAssemblyReference.cache
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmConfig.resources
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmIPLimitr.resources
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOn.resources
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnByName.resources
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnSelect.resources
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmSelectNetwork.resources
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csproj.GenerateResource.Cache
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.dll
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.pdb
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\Tables\SqlMap.config
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.dll
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.pdb
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.dll
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.dll
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.dll
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.dll
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.dll
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.dll
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.dll
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\MySql.Data.dll
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\System.Data.SQLite.dll
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.pdb
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.pdb
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.pdb
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.pdb
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.pdb
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.pdb
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.pdb
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csprojResolveAssemblyReference.cache
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmConfig.resources
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmIPLimitr.resources
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOn.resources
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnByName.resources
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnSelect.resources
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmSelectNetwork.resources
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csproj.GenerateResource.Cache
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.dll
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.pdb
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\Tables\SqlMap.config
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.dll
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.pdb
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.dll
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.dll
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.dll
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.dll
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.dll
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.dll
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.dll
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\MySql.Data.dll
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\System.Data.SQLite.dll
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.pdb
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.pdb
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.pdb
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.pdb
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.pdb
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.pdb
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.pdb
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csprojResolveAssemblyReference.cache
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmConfig.resources
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmIPLimitr.resources
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOn.resources
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnByName.resources
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnSelect.resources
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmSelectNetwork.resources
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csproj.GenerateResource.Cache
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.dll
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.pdb
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\Tables\SqlMap.config
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.pdb
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\MySql.Data.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\System.Data.SQLite.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.pdb
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.pdb
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.pdb
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.pdb
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.pdb
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.pdb
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.pdb
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csprojResolveAssemblyReference.cache
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmConfig.resources
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmIPLimitr.resources
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOn.resources
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnByName.resources
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnSelect.resources
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmSelectNetwork.resources
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csproj.GenerateResource.Cache
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.pdb
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\Tables\SqlMap.config
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.dll
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.pdb
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.dll
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.dll
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.dll
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.dll
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.dll
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.dll
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.dll
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.dll
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\MySql.Data.dll
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\System.Data.SQLite.dll
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.pdb
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.pdb
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.pdb
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.pdb
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.pdb
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.pdb
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.pdb
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.pdb
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmConfig.resources
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmIPLimitr.resources
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOn.resources
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnByName.resources
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnSelect.resources
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmSelectNetwork.resources
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csproj.GenerateResource.Cache
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.dll
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.pdb
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csprojResolveAssemblyReference.cache
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\Tables\SqlMap.config
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.dll
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.pdb
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.dll
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.dll
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.dll
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.dll
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.dll
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.dll
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.dll
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.dll
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\MySql.Data.dll
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\System.Data.SQLite.dll
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.pdb
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.pdb
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.pdb
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.pdb
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.pdb
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.pdb
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.pdb
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.pdb
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csprojResolveAssemblyReference.cache
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmConfig.resources
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmIPLimitr.resources
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOn.resources
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnByName.resources
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnSelect.resources
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmSelectNetwork.resources
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csproj.GenerateResource.Cache
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.dll
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.pdb
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmConfig.resources
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmIPLimitr.resources
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOn.resources
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnByName.resources
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnSelect.resources
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmSelectNetwork.resources
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csproj.GenerateResource.Cache
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.pdb
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\Tables\SqlMap.config
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.pdb
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\MySql.Data.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\System.Data.SQLite.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.pdb
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.pdb
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.pdb
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.pdb
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.pdb
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.pdb
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.pdb
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.pdb
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DevExpress.Office.v13.1.Core.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DevExpress.Xpf.Core.v13.1.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DevExpress.Xpf.Mvvm.v13.1.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\de\DevExpress.Xpf.Core.v13.1.resources.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\es\DevExpress.Xpf.Core.v13.1.resources.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\ja\DevExpress.Xpf.Core.v13.1.resources.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\ru\DevExpress.Xpf.Core.v13.1.resources.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csprojResolveAssemblyReference.cache
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Communication.dll
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Communication.pdb
+E:\工作代码\框架\服务端源码\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\Interop.ACTMULTILib.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\Tables\SqlMap.config
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.pdb
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DevExpress.Office.v13.1.Core.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Communication.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\Interop.ACTMULTILib.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DevExpress.Xpf.Core.v13.1.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\MySql.Data.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\System.Data.SQLite.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DevExpress.Xpf.Mvvm.v13.1.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Communication.pdb
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.IService.pdb
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Model.pdb
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Service.pdb
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Utilities.pdb
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.Utilities.pdb
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.DbUtilities.pdb
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.BaseManager.pdb
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.Business.pdb
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\de\DevExpress.Xpf.Core.v13.1.resources.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\es\DevExpress.Xpf.Core.v13.1.resources.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\ja\DevExpress.Xpf.Core.v13.1.resources.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\ru\DevExpress.Xpf.Core.v13.1.resources.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csprojResolveAssemblyReference.cache
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmConfig.resources
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmIPLimitr.resources
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOn.resources
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnByName.resources
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnSelect.resources
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmSelectNetwork.resources
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csproj.GenerateResource.Cache
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.dll
+E:\工作代码\Aucma\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.pdb
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\Tables\SqlMap.config
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DotNet.WinForm.LogOn.pdb
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DevExpress.Office.v13.1.Core.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\Interop.ACTMULTILib.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DevExpress.Xpf.Core.v13.1.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\MySql.Data.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\System.Data.SQLite.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\DevExpress.Xpf.Mvvm.v13.1.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\de\DevExpress.Xpf.Core.v13.1.resources.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\es\DevExpress.Xpf.Core.v13.1.resources.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\ja\DevExpress.Xpf.Core.v13.1.resources.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\ru\DevExpress.Xpf.Core.v13.1.resources.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csprojResolveAssemblyReference.cache
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmConfig.resources
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmIPLimitr.resources
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOn.resources
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnByName.resources
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmLogOnSelect.resources
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.FrmSelectNetwork.resources
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.csproj.GenerateResource.Cache
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\obj\Debug\DotNet.WinForm.LogOn.pdb
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\IPOS.Communication.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\IPOS.IService.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\IPOS.Model.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\IPOS.Service.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\IPOS.Utilities.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\IPOS.DbUtilities.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\IPOS.BaseManager.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\IPOS.Business.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\IPOS.Communication.pdb
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\IPOS.IService.pdb
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\IPOS.Model.pdb
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\IPOS.Service.pdb
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\IPOS.Utilities.pdb
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\IPOS.DbUtilities.pdb
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\IPOS.BaseManager.pdb
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\IPOS.Business.pdb
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\IPOE.LES.Utilities.dll
+E:\工作代码\Aucma\LES\DotNet.WinForms\DotNet.WinForm.Login\bin\Debug\IPOE.LES.Utilities.pdb

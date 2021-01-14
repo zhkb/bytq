@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="DJ1_Alarm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DJ1_Alarm.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DJ2_Alarm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DJ2_Alarm.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT32.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZZJK" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ZZJK.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TBJK" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TBJK.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZJJB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ZJJB.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="haier_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\haier_logo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Status_Green1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Status_Green1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT54" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT54.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Status_Red" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Status_Red.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DJ4_True" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DJ4_True.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Beng3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Beng3.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CNT" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CNT1.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lx" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DJ2_True" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DJ2_True.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT34" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT34.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FA2_False1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FA2_False.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT72.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT22.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_2_2_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2_2_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT3.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Status_Green" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Status_Green.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FA1_False" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FA1_False.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT74" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT74.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT31.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT61" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT61.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT24.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT62" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT62.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DJ4_False" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DJ4_False.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Red" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Red1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Beng1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Beng1.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DJ2_False" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DJ2_False.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZJZZ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ZJZZ.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FA2_False" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FA2_False.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT71" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT71.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DJ3_True" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DJ3_True.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT23.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FA2_Alarm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FA2_Alarm.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT21.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DJ1_False" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DJ1_False.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZJJK" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ZJJK.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="haier" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\haier.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FA3_False" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FA3_False.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT53" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT53.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT14.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FA4_False" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FA4_False.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT33.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FJJK" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FJJK.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Barcode_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Barcode_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_5_1_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5_1_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FA1_Alarm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FA1_Alarm.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT12.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT63" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT63.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT4.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT11.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Guan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Guan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Status_Alarm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Status_Alarm.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZTJK" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ZTJK.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT41" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT41.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DJ3_False" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DJ3_False.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT64.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FA1_False3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FA1_False.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT52" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT52.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT43" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT43.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT51" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT51.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT44" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT44.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TCCG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TCCG.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FA1_False2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FA1_False.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FA1_False1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FA1_False.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DJ4_Alarm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DJ4_Alarm.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NMP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NMP.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JBJK" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JBJK.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT13.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Beng2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Beng2.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT1.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FA1_True" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FA1_True.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3C" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3C.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FA2_True" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FA2_True.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Green" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Green2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT42" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT42.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT73" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT73.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DJ3_Alarm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DJ3_Alarm.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DJ1_True" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DJ1_True.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JT2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JT2.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="haier_HX" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\haier_HX.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

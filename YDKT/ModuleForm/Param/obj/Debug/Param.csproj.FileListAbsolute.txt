@@ -1,0 +1,358 @@
+E:\江苏力信\Mixing\Param\bin\Debug\Param.dll
+E:\江苏力信\Mixing\Param\bin\Debug\Param.pdb
+E:\江苏力信\Mixing\Param\obj\Debug\Param.csprojResolveAssemblyReference.cache
+E:\江苏力信\Mixing\Param\obj\Debug\Param.FrmParam.resources
+E:\江苏力信\Mixing\Param\obj\Debug\Param.csproj.GenerateResource.Cache
+E:\江苏力信\Mixing\Param\obj\Debug\Param.dll
+E:\江苏力信\Mixing\Param\obj\Debug\Param.pdb
+E:\江苏力信\Mixing\Param\bin\Debug\Frame.Utilities.dll
+E:\江苏力信\Mixing\Param\bin\Debug\Sys.Config.dll
+E:\江苏力信\Mixing\Param\bin\Debug\Sys.DbUtilities.dll
+E:\江苏力信\Mixing\Param\bin\Debug\Sys.SysBusiness.dll
+E:\江苏力信\Mixing\Param\bin\Debug\MySql.Data.dll
+E:\江苏力信\Mixing\Param\bin\Debug\System.Data.SQLite.dll
+E:\江苏力信\Mixing\Param\bin\Debug\Sys.Config.pdb
+E:\江苏力信\Mixing\Param\bin\Debug\Sys.DbUtilities.pdb
+E:\江苏力信\Mixing\Param\bin\Debug\Sys.SysBusiness.pdb
+E:\江苏力信\Mixing\Param\bin\Debug\Frame.Utilities.pdb
+E:\江苏力信\Mixing\Param\obj\Debug\Param.FrmParamModify.resources
+E:\江苏力信\Mixing\ModuleForm\Param\obj\Debug\Param.csprojResolveAssemblyReference.cache
+E:\江苏力信\Mixing\ModuleForm\Param\obj\Debug\Param.FrmParam.resources
+E:\江苏力信\Mixing\ModuleForm\Param\obj\Debug\Param.FrmParamModify.resources
+E:\江苏力信\Mixing\ModuleForm\Param\obj\Debug\Param.csproj.GenerateResource.Cache
+E:\江苏力信\Mixing\ModuleForm\Param\bin\Debug\Param.dll
+E:\江苏力信\Mixing\ModuleForm\Param\bin\Debug\Param.pdb
+E:\江苏力信\Mixing\ModuleForm\Param\bin\Debug\Frame.Utilities.dll
+E:\江苏力信\Mixing\ModuleForm\Param\bin\Debug\Sys.Config.dll
+E:\江苏力信\Mixing\ModuleForm\Param\bin\Debug\Sys.DbUtilities.dll
+E:\江苏力信\Mixing\ModuleForm\Param\bin\Debug\Sys.SysBusiness.dll
+E:\江苏力信\Mixing\ModuleForm\Param\bin\Debug\MySql.Data.dll
+E:\江苏力信\Mixing\ModuleForm\Param\bin\Debug\System.Data.SQLite.dll
+E:\江苏力信\Mixing\ModuleForm\Param\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\江苏力信\Mixing\ModuleForm\Param\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\江苏力信\Mixing\ModuleForm\Param\bin\Debug\Sys.Config.pdb
+E:\江苏力信\Mixing\ModuleForm\Param\bin\Debug\Sys.DbUtilities.pdb
+E:\江苏力信\Mixing\ModuleForm\Param\bin\Debug\Sys.SysBusiness.pdb
+E:\江苏力信\Mixing\ModuleForm\Param\bin\Debug\Frame.Utilities.pdb
+E:\江苏力信\Mixing\ModuleForm\Param\obj\Debug\Param.dll
+E:\江苏力信\Mixing\ModuleForm\Param\obj\Debug\Param.pdb
+E:\江苏力信\Mixing\ModuleForm\Param\obj\Debug\Param.FrmMaterialTypeModify.resources
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\bin\Debug\Param.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\bin\Debug\Param.pdb
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\bin\Debug\Frame.Utilities.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\bin\Debug\Sys.Config.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\bin\Debug\Sys.DbUtilities.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\bin\Debug\Sys.SysBusiness.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\bin\Debug\MySql.Data.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\bin\Debug\System.Data.SQLite.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\bin\Debug\Sys.Config.pdb
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\bin\Debug\Sys.DbUtilities.pdb
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\bin\Debug\Sys.SysBusiness.pdb
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\bin\Debug\Frame.Utilities.pdb
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\obj\Debug\Param.csprojResolveAssemblyReference.cache
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\obj\Debug\Param.FrmMaterialTypeModify.resources
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\obj\Debug\Param.FrmParam.resources
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\obj\Debug\Param.FrmParamModify.resources
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\obj\Debug\Param.csproj.GenerateResource.Cache
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\obj\Debug\Param.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Param\obj\Debug\Param.pdb
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\bin\Debug\Param.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\bin\Debug\Param.pdb
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\bin\Debug\Frame.Utilities.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\bin\Debug\Sys.Config.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\bin\Debug\Sys.DbUtilities.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\bin\Debug\Sys.SysBusiness.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\bin\Debug\MySql.Data.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\bin\Debug\System.Data.SQLite.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\bin\Debug\Sys.Config.pdb
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\bin\Debug\Sys.DbUtilities.pdb
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\bin\Debug\Sys.SysBusiness.pdb
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\bin\Debug\Frame.Utilities.pdb
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\obj\Debug\Param.csprojResolveAssemblyReference.cache
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\obj\Debug\Param.FrmMaterialTypeModify.resources
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\obj\Debug\Param.FrmParam.resources
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\obj\Debug\Param.FrmParamModify.resources
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\obj\Debug\Param.csproj.GenerateResource.Cache
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\obj\Debug\Param.dll
+E:\江苏力信\Mixing_Demo\ModuleForm\Param\obj\Debug\Param.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\bin\Debug\Param.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\bin\Debug\Param.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\bin\Debug\Sys.Config.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\bin\Debug\System.Net.Http.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\bin\Debug\MySql.Data.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\bin\Debug\System.Net.Http.xml
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\obj\Debug\Param.csprojResolveAssemblyReference.cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\obj\Debug\Param.FrmAction.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\obj\Debug\Param.FrmAlarm.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\obj\Debug\Param.FrmParam.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\obj\Debug\Param.FrmAlarmModify.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\obj\Debug\Param.FrmParamModify.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\obj\Debug\Param.Properties.Resources.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\obj\Debug\Param.csproj.GenerateResource.Cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\obj\Debug\Param.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Param\obj\Debug\Param.pdb
+E:\1.工作代码\Mixing\ModuleForm\Param\bin\Debug\Param.dll
+E:\1.工作代码\Mixing\ModuleForm\Param\bin\Debug\Param.pdb
+E:\1.工作代码\Mixing\ModuleForm\Param\bin\Debug\Frame.Utilities.dll
+E:\1.工作代码\Mixing\ModuleForm\Param\bin\Debug\Sys.Config.dll
+E:\1.工作代码\Mixing\ModuleForm\Param\bin\Debug\Sys.DbUtilities.dll
+E:\1.工作代码\Mixing\ModuleForm\Param\bin\Debug\Sys.SysBusiness.dll
+E:\1.工作代码\Mixing\ModuleForm\Param\bin\Debug\System.Net.Http.dll
+E:\1.工作代码\Mixing\ModuleForm\Param\bin\Debug\MySql.Data.dll
+E:\1.工作代码\Mixing\ModuleForm\Param\bin\Debug\System.Data.SQLite.dll
+E:\1.工作代码\Mixing\ModuleForm\Param\bin\Debug\Sys.Config.pdb
+E:\1.工作代码\Mixing\ModuleForm\Param\bin\Debug\Sys.DbUtilities.pdb
+E:\1.工作代码\Mixing\ModuleForm\Param\bin\Debug\Sys.SysBusiness.pdb
+E:\1.工作代码\Mixing\ModuleForm\Param\bin\Debug\Frame.Utilities.pdb
+E:\1.工作代码\Mixing\ModuleForm\Param\bin\Debug\System.Net.Http.xml
+E:\1.工作代码\Mixing\ModuleForm\Param\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\1.工作代码\Mixing\ModuleForm\Param\obj\Debug\Param.csprojResolveAssemblyReference.cache
+E:\1.工作代码\Mixing\ModuleForm\Param\obj\Debug\Param.FrmAction.resources
+E:\1.工作代码\Mixing\ModuleForm\Param\obj\Debug\Param.FrmAlarm.resources
+E:\1.工作代码\Mixing\ModuleForm\Param\obj\Debug\Param.FrmParam.resources
+E:\1.工作代码\Mixing\ModuleForm\Param\obj\Debug\Param.FrmAlarmModify.resources
+E:\1.工作代码\Mixing\ModuleForm\Param\obj\Debug\Param.FrmParamModify.resources
+E:\1.工作代码\Mixing\ModuleForm\Param\obj\Debug\Param.Properties.Resources.resources
+E:\1.工作代码\Mixing\ModuleForm\Param\obj\Debug\Param.csproj.GenerateResource.Cache
+E:\1.工作代码\Mixing\ModuleForm\Param\obj\Debug\Param.dll
+E:\1.工作代码\Mixing\ModuleForm\Param\obj\Debug\Param.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\bin\Debug\Param.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\bin\Debug\Param.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\bin\Debug\MySql.Data.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmAction.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmAlarm.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParam.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmAlarmModify.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamModify.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\obj\Debug\Param.Properties.Resources.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\obj\Debug\Param.csproj.GenerateResource.Cache
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\obj\Debug\Param.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\obj\Debug\Param.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Param\obj\Debug\Param.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Param.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Param.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\bin\Debug\MySql.Data.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBase.resources
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseDetailModify.resources
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseModify.resources
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\obj\Debug\Param.Properties.Resources.resources
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\obj\Debug\Param.csproj.GenerateResource.Cache
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\obj\Debug\Param.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\obj\Debug\Param.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Param\obj\Debug\Param.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Param.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Param.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\bin\Debug\MySql.Data.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\obj\Debug\Param.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBase.resources
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseDetailModify.resources
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseModify.resources
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\obj\Debug\Param.Properties.Resources.resources
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\obj\Debug\Param.csproj.GenerateResource.Cache
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\obj\Debug\Param.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Param\obj\Debug\Param.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Param.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Param.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\MySql.Data.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBase.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseDetailModify.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseModify.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.Properties.Resources.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.csproj.GenerateResource.Cache
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Param.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Param.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\MySql.Data.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBase.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseDetailModify.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseModify.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.Properties.Resources.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.csproj.GenerateResource.Cache
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Param.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Param.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\MySql.Data.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.csprojResolveAssemblyReference.cache
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBase.resources
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseDetailModify.resources
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseModify.resources
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.Properties.Resources.resources
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.csproj.GenerateResource.Cache
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Param.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Param.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\MySql.Data.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\System.Data.SQLite.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.csprojResolveAssemblyReference.cache
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBase.resources
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseDetailModify.resources
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseModify.resources
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.Properties.Resources.resources
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.csproj.GenerateResource.Cache
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.pdb
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\bin\Debug\Param.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\bin\Debug\Param.pdb
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\bin\Debug\MySql.Data.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\bin\Debug\System.Data.SQLite.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.pdb
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.pdb
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.pdb
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.pdb
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\obj\Debug\Param.csprojResolveAssemblyReference.cache
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBase.resources
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseDetailModify.resources
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseModify.resources
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\obj\Debug\Param.Properties.Resources.resources
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\obj\Debug\Param.csproj.GenerateResource.Cache
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\obj\Debug\Param.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Param\obj\Debug\Param.pdb
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\bin\Debug\Param.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\bin\Debug\Param.pdb
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\bin\Debug\MySql.Data.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\bin\Debug\System.Data.SQLite.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.pdb
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.pdb
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.pdb
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.pdb
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\obj\Debug\Param.csprojResolveAssemblyReference.cache
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBase.resources
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseDetailModify.resources
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseModify.resources
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\obj\Debug\Param.Properties.Resources.resources
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\obj\Debug\Param.csproj.GenerateResource.Cache
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\obj\Debug\Param.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Param\obj\Debug\Param.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Param.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Param.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\MySql.Data.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\System.Data.SQLite.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.csprojResolveAssemblyReference.cache
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBase.resources
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseDetailModify.resources
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseModify.resources
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.Properties.Resources.resources
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.csproj.GenerateResource.Cache
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\BarcodeLib.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Param.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Param.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\MySql.Data.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\System.Data.SQLite.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\BarcodeLib.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.Config.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.DbUtilities.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Sys.SysBusiness.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBase.resources
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseDetailModify.resources
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.FrmParamBaseModify.resources
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.Properties.Resources.resources
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.csproj.GenerateResource.Cache
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\bin\Debug\Frame.Utilities.dll.config
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.csprojAssemblyReference.cache
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.csproj.CoreCompileInputs.cache
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Param\obj\Debug\Param.csproj.CopyComplete

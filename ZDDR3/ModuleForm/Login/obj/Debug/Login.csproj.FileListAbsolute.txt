@@ -1,0 +1,464 @@
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Login\bin\Debug\Login.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Login\bin\Debug\Login.pdb
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Login\bin\Debug\MySql.Data.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Login\obj\Debug\Login.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Login\obj\Debug\Login.pdb
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Login\bin\Debug\Sys.Config.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+E:\学习\Src\New Frame\NewFrame\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Login.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Login.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Sys.Config.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\MySql.Data.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\obj\Debug\Login.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\obj\Debug\Login.pdb
+E:\江苏力信\Mixing\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\江苏力信\Mixing\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+E:\江苏力信\Mixing\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+E:\江苏力信\Mixing\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+E:\江苏力信\Mixing\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\江苏力信\Mixing\ModuleForm\Login\bin\Debug\Login.dll
+E:\江苏力信\Mixing\ModuleForm\Login\bin\Debug\Login.pdb
+E:\江苏力信\Mixing\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+E:\江苏力信\Mixing\ModuleForm\Login\bin\Debug\Sys.Config.dll
+E:\江苏力信\Mixing\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+E:\江苏力信\Mixing\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+E:\江苏力信\Mixing\ModuleForm\Login\bin\Debug\MySql.Data.dll
+E:\江苏力信\Mixing\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+E:\江苏力信\Mixing\ModuleForm\Login\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\江苏力信\Mixing\ModuleForm\Login\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\江苏力信\Mixing\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+E:\江苏力信\Mixing\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+E:\江苏力信\Mixing\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+E:\江苏力信\Mixing\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+E:\江苏力信\Mixing\ModuleForm\Login\obj\Debug\Login.dll
+E:\江苏力信\Mixing\ModuleForm\Login\obj\Debug\Login.pdb
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\bin\Debug\Login.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\bin\Debug\Login.pdb
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\bin\Debug\Sys.Config.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\bin\Debug\MySql.Data.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\obj\Debug\Login.dll
+E:\svn_root\LIXIN_MIXING\2-src\Mixing\ModuleForm\Login\obj\Debug\Login.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Login.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Login.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Sys.Config.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\MySql.Data.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\obj\Debug\Login.FrmPassWord.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\obj\Debug\Login.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Login\obj\Debug\Login.pdb
+E:\1.工作代码\Mixing\ModuleForm\Login\bin\Debug\Login.dll
+E:\1.工作代码\Mixing\ModuleForm\Login\bin\Debug\Login.pdb
+E:\1.工作代码\Mixing\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+E:\1.工作代码\Mixing\ModuleForm\Login\bin\Debug\Sys.Config.dll
+E:\1.工作代码\Mixing\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+E:\1.工作代码\Mixing\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+E:\1.工作代码\Mixing\ModuleForm\Login\bin\Debug\MySql.Data.dll
+E:\1.工作代码\Mixing\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+E:\1.工作代码\Mixing\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+E:\1.工作代码\Mixing\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+E:\1.工作代码\Mixing\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+E:\1.工作代码\Mixing\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+E:\1.工作代码\Mixing\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\1.工作代码\Mixing\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+E:\1.工作代码\Mixing\ModuleForm\Login\obj\Debug\Login.FrmPassWord.resources
+E:\1.工作代码\Mixing\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+E:\1.工作代码\Mixing\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+E:\1.工作代码\Mixing\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\1.工作代码\Mixing\ModuleForm\Login\obj\Debug\Login.dll
+E:\1.工作代码\Mixing\ModuleForm\Login\obj\Debug\Login.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\bin\Debug\Login.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\bin\Debug\Login.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\bin\Debug\Sys.Config.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\bin\Debug\MySql.Data.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\obj\Debug\Login.FrmPassWord.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\obj\Debug\Login.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\obj\Debug\Login.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\bin\Debug\Login.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\bin\Debug\Login.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\bin\Debug\Sys.Config.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\bin\Debug\MySql.Data.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\obj\Debug\Login.FrmPassWord.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\obj\Debug\Login.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\ModuleForm\Login\obj\Debug\Login.pdb
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\bin\Debug\Login.dll
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\bin\Debug\Login.pdb
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\bin\Debug\Sys.Config.dll
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\bin\Debug\MySql.Data.dll
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\obj\Debug\Login.FrmPassWord.resources
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\obj\Debug\Login.dll
+E:\Richard\Projects\TEST\SysFrame\ModuleForm\Login\obj\Debug\Login.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\bin\Debug\Login.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\bin\Debug\Login.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\bin\Debug\Sys.Config.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\bin\Debug\MySql.Data.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\obj\Debug\Login.FrmPassWord.resources
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\obj\Debug\Login.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\ModuleForm\Login\obj\Debug\Login.pdb
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\bin\Debug\Login.dll
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\bin\Debug\Login.pdb
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\bin\Debug\Sys.Config.dll
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\bin\Debug\MySql.Data.dll
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\obj\Debug\Login.FrmPassWord.resources
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\obj\Debug\Login.dll
+E:\Richard\Projects\Liudz2\中德电热\ModuleForm\Login\obj\Debug\Login.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Login.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Login.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\MySql.Data.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.FrmPassWord.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.pdb
+I:\ZDDR\ModuleForm\Login\bin\Debug\Login.dll
+I:\ZDDR\ModuleForm\Login\bin\Debug\Login.pdb
+I:\ZDDR\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+I:\ZDDR\ModuleForm\Login\bin\Debug\Sys.Config.dll
+I:\ZDDR\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+I:\ZDDR\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+I:\ZDDR\ModuleForm\Login\bin\Debug\MySql.Data.dll
+I:\ZDDR\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+I:\ZDDR\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+I:\ZDDR\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+I:\ZDDR\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+I:\ZDDR\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+I:\ZDDR\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+I:\ZDDR\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+I:\ZDDR\ModuleForm\Login\obj\Debug\Login.FrmPassWord.resources
+I:\ZDDR\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+I:\ZDDR\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+I:\ZDDR\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+I:\ZDDR\ModuleForm\Login\obj\Debug\Login.dll
+I:\ZDDR\ModuleForm\Login\obj\Debug\Login.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Login.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Login.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Sys.Config.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\MySql.Data.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.FrmPassWord.resources
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Login.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Login.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Sys.Config.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\MySql.Data.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.FrmPassWord.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\obj\Debug\Login.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\FastReport.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\FastReport.Bars.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\FastReport.Editor.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\FastReport.xml
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\ModuleForm\Login\bin\Debug\ThoughtWorks.QRCode.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\bin\Debug\Login.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\bin\Debug\Login.pdb
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\bin\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\bin\Debug\MySql.Data.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\bin\Debug\FastReport.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\bin\Debug\ThoughtWorks.QRCode.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\bin\Debug\BarcodeLib.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\bin\Debug\FastReport.Bars.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\bin\Debug\FastReport.Editor.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\bin\Debug\FastReport.xml
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\obj\Debug\Login.FrmPassWord.resources
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\obj\Debug\Login.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Login\obj\Debug\Login.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\bin\Debug\Login.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\bin\Debug\Login.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\bin\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\bin\Debug\MySql.Data.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\bin\Debug\FastReport.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\bin\Debug\ThoughtWorks.QRCode.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\bin\Debug\BarcodeLib.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\bin\Debug\FastReport.Bars.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\bin\Debug\FastReport.Editor.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\bin\Debug\FastReport.xml
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\obj\Debug\Login.FrmPassWord.resources
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\obj\Debug\Login.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Login\obj\Debug\Login.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\bin\Debug\Login.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\bin\Debug\Login.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\bin\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\bin\Debug\MySql.Data.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\bin\Debug\FastReport.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\bin\Debug\ThoughtWorks.QRCode.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\bin\Debug\BarcodeLib.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\bin\Debug\FastReport.Bars.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\bin\Debug\FastReport.Editor.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\bin\Debug\FastReport.xml
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\obj\Debug\Login.FrmPassWord.resources
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\obj\Debug\Login.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Login\obj\Debug\Login.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\bin\Debug\Login.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\bin\Debug\Login.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\bin\Debug\Sys.Config.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\bin\Debug\MySql.Data.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\bin\Debug\FastReport.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\bin\Debug\ThoughtWorks.QRCode.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\bin\Debug\BarcodeLib.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\bin\Debug\FastReport.Bars.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\bin\Debug\FastReport.Editor.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\bin\Debug\FastReport.xml
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\obj\Debug\Login.FrmPassWord.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\obj\Debug\Login.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Login\obj\Debug\Login.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Login.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Login.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Sys.Config.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\MySql.Data.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\FastReport.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\ThoughtWorks.QRCode.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\BarcodeLib.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\FastReport.Bars.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\FastReport.Editor.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\FastReport.xml
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\obj\Debug\Login.FrmPassWord.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\obj\Debug\Login.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\obj\Debug\Login.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Login.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Login.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Frame.Utilities.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Sys.Config.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Sys.DbUtilities.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Sys.SysBusiness.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\MySql.Data.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\System.Data.SQLite.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\FastReport.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\ThoughtWorks.QRCode.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\BarcodeLib.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\FastReport.Bars.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\FastReport.Editor.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Sys.Config.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Sys.DbUtilities.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Sys.SysBusiness.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Frame.Utilities.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\FastReport.xml
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\obj\Debug\Login.FrmLESUser.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\obj\Debug\Login.FrmPassWord.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\obj\Debug\Login.FrmSelectUser.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\obj\Debug\Login.Properties.Resources.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\obj\Debug\Login.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\obj\Debug\Login.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\bin\Debug\Frame.Utilities.dll.config
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\obj\Debug\Login.csprojAssemblyReference.cache
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Login\obj\Debug\Login.csproj.CopyComplete

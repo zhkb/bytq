@@ -1,0 +1,214 @@
+E:\Projects\走火入魔通用权限设计源码\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+E:\Projects\走火入魔通用权限设计源码\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+E:\Projects\走火入魔通用权限设计源码\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+E:\Projects\走火入魔通用权限设计源码\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+E:\Projects\走火入魔通用权限设计源码\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+E:\Projects\走火入魔通用权限设计源码\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+E:\Projects\走火入魔通用权限设计源码\DotNet.DbUtilities\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\走火入魔通用权限设计源码\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+E:\Projects\走火入魔通用权限设计源码\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+E:\Projects\通用权限设计源码\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+E:\Projects\通用权限设计源码\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+E:\Projects\通用权限设计源码\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+E:\Projects\通用权限设计源码\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+E:\Projects\通用权限设计源码\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+E:\Projects\通用权限设计源码\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+E:\Projects\通用权限设计源码\DotNet.DbUtilities\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\通用权限设计源码\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+E:\Projects\通用权限设计源码\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+D:\Project\走火入魔通用权限设计源码\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+D:\Project\走火入魔通用权限设计源码\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+D:\Project\走火入魔通用权限设计源码\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+D:\Project\走火入魔通用权限设计源码\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+D:\Project\走火入魔通用权限设计源码\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+D:\Project\走火入魔通用权限设计源码\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+D:\Project\走火入魔通用权限设计源码\DotNet.DbUtilities\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\走火入魔通用权限设计源码\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+D:\Project\走火入魔通用权限设计源码\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+D:\Project\通用权限管理系统\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+D:\Project\通用权限管理系统\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+D:\Project\通用权限管理系统\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+D:\Project\通用权限管理系统\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+D:\Project\通用权限管理系统\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+D:\Project\通用权限管理系统\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+D:\Project\通用权限管理系统\DotNet.DbUtilities\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\通用权限管理系统\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+D:\Project\通用权限管理系统\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+D:\通用权限管理系统\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+D:\通用权限管理系统\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+D:\通用权限管理系统\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+D:\通用权限管理系统\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+D:\通用权限管理系统\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+D:\通用权限管理系统\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+D:\通用权限管理系统\DotNet.DbUtilities\obj\Debug\ResolveAssemblyReference.cache
+D:\通用权限管理系统\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+D:\通用权限管理系统\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+E:\Projects\通用权限管理系统\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+E:\Projects\通用权限管理系统\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+E:\Projects\通用权限管理系统\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+E:\Projects\通用权限管理系统\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+E:\Projects\通用权限管理系统\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+E:\Projects\通用权限管理系统\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+E:\Projects\通用权限管理系统\DotNet.DbUtilities\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\通用权限管理系统\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+E:\Projects\通用权限管理系统\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+D:\Project\通用权限管理系统 - Copy\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+D:\Project\通用权限管理系统 - Copy\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+D:\Project\通用权限管理系统 - Copy\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+D:\Project\通用权限管理系统 - Copy\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+D:\Project\通用权限管理系统 - Copy\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+D:\Project\通用权限管理系统 - Copy\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+D:\Project\通用权限管理系统 - Copy\DotNet.DbUtilities\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\通用权限管理系统 - Copy\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+D:\Project\通用权限管理系统 - Copy\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+D:\Project\通用权限管理系统2010\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+D:\Project\通用权限管理系统2010\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+D:\Project\通用权限管理系统2010\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+D:\Project\通用权限管理系统2010\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+D:\Project\通用权限管理系统2010\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+D:\Project\通用权限管理系统2010\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+D:\Project\通用权限管理系统2010\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+D:\Project\通用权限管理系统2010\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+D:\Project\通用权限管理系统2010\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+F:\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+F:\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+F:\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+F:\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+F:\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\ResolveAssemblyReference.cache
+F:\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+F:\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+D:\Project\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+D:\Project\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+D:\Project\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+D:\Project\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+D:\Project\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+D:\Project\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+D:\Project\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+D:\Project\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+D:\Project\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+D:\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+E:\object\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+E:\object\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+E:\object\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+E:\object\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+E:\object\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+E:\object\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+E:\object\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+E:\object\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+E:\object\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+E:\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+E:\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+E:\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+E:\5.Source\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+E:\5.Source\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+E:\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+E:\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+E:\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+E:\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+E:\object\RFID Source20141113\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20141004\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20141125\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20141211\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20141225\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+F:\我的obj\RFID Source20150311\RFID Source20141223\CRFIDPS\5.Source\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+F:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+E:\项目\QQCTU港区非生产车辆智能管理系统\服务端源码\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+E:\工作代码\框架\服务端源码\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+E:\工作代码\框架\服务端源码\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+E:\工作代码\框架\服务端源码\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+E:\工作代码\框架\服务端源码\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+E:\工作代码\框架\服务端源码\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+E:\工作代码\框架\服务端源码\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+E:\工作代码\框架\服务端源码\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+E:\工作代码\框架\服务端源码\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+E:\工作代码\框架\服务端源码\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+E:\工作代码\Aucma\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+E:\工作代码\Aucma\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+E:\工作代码\Aucma\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+E:\工作代码\Aucma\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+E:\工作代码\Aucma\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+E:\工作代码\Aucma\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+E:\工作代码\Aucma\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+E:\工作代码\Aucma\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+E:\工作代码\Aucma\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb
+E:\工作代码\Aucma\LES\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.dll
+E:\工作代码\Aucma\LES\DotNet.DbUtilities\bin\Debug\DotNet.DbUtilities.pdb
+E:\工作代码\Aucma\LES\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.dll
+E:\工作代码\Aucma\LES\DotNet.DbUtilities\bin\Debug\MySql.Data.dll
+E:\工作代码\Aucma\LES\DotNet.DbUtilities\bin\Debug\System.Data.SQLite.dll
+E:\工作代码\Aucma\LES\DotNet.DbUtilities\bin\Debug\DotNet.Utilities.pdb
+E:\工作代码\Aucma\LES\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.csprojResolveAssemblyReference.cache
+E:\工作代码\Aucma\LES\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.dll
+E:\工作代码\Aucma\LES\DotNet.DbUtilities\obj\Debug\DotNet.DbUtilities.pdb

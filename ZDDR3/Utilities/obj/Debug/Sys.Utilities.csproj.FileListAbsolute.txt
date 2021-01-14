@@ -1,0 +1,136 @@
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Utilities\bin\Debug\Frame.Utilities.dll.config
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Utilities\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Utilities\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Utilities\bin\Debug\System.Net.Http.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Utilities\bin\Debug\System.Net.Http.xml
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Utilities\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Utilities\obj\Debug\Sys.Utilities.BaseForm.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Utilities\obj\Debug\Frame.Utilities.Properties.Resources.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Utilities\obj\Debug\Sys.Utilities.csproj.GenerateResource.Cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Utilities\obj\Debug\Frame.Utilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Utilities\obj\Debug\Frame.Utilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Utilities\obj\Debug\Sys.Utilities.csprojResolveAssemblyReference.cache
+E:\1.工作代码\Mixing\Utilities\bin\Debug\Frame.Utilities.dll.config
+E:\1.工作代码\Mixing\Utilities\bin\Debug\Frame.Utilities.dll
+E:\1.工作代码\Mixing\Utilities\bin\Debug\Frame.Utilities.pdb
+E:\1.工作代码\Mixing\Utilities\bin\Debug\System.Net.Http.dll
+E:\1.工作代码\Mixing\Utilities\bin\Debug\System.Net.Http.xml
+E:\1.工作代码\Mixing\Utilities\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\1.工作代码\Mixing\Utilities\obj\Debug\Sys.Utilities.BaseForm.resources
+E:\1.工作代码\Mixing\Utilities\obj\Debug\Frame.Utilities.Properties.Resources.resources
+E:\1.工作代码\Mixing\Utilities\obj\Debug\Sys.Utilities.csproj.GenerateResource.Cache
+E:\1.工作代码\Mixing\Utilities\obj\Debug\Frame.Utilities.dll
+E:\1.工作代码\Mixing\Utilities\obj\Debug\Frame.Utilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\Utilities\bin\Debug\Frame.Utilities.dll.config
+E:\0.工作任务\6-上位新框架\SysFrame\Utilities\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame\Utilities\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\Utilities\bin\Debug\System.Net.Http.dll
+E:\0.工作任务\6-上位新框架\SysFrame\Utilities\bin\Debug\System.Net.Http.xml
+E:\0.工作任务\6-上位新框架\SysFrame\Utilities\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\0.工作任务\6-上位新框架\SysFrame\Utilities\obj\Debug\Sys.Utilities.BaseForm.resources
+E:\0.工作任务\6-上位新框架\SysFrame\Utilities\obj\Debug\Frame.Utilities.Properties.Resources.resources
+E:\0.工作任务\6-上位新框架\SysFrame\Utilities\obj\Debug\Sys.Utilities.csproj.GenerateResource.Cache
+E:\0.工作任务\6-上位新框架\SysFrame\Utilities\obj\Debug\Frame.Utilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame\Utilities\obj\Debug\Frame.Utilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\Utilities\bin\Debug\Frame.Utilities.dll.config
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\Utilities\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\Utilities\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\Utilities\obj\Debug\Sys.Utilities.BaseForm.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\Utilities\obj\Debug\Frame.Utilities.Properties.Resources.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\Utilities\obj\Debug\Sys.Utilities.csproj.GenerateResource.Cache
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\Utilities\obj\Debug\Frame.Utilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\Utilities\obj\Debug\Frame.Utilities.pdb
+E:\Richard\Projects\TEST\SysFrame\Utilities\bin\Debug\Frame.Utilities.dll.config
+E:\Richard\Projects\TEST\SysFrame\Utilities\bin\Debug\Frame.Utilities.dll
+E:\Richard\Projects\TEST\SysFrame\Utilities\bin\Debug\Frame.Utilities.pdb
+E:\Richard\Projects\TEST\SysFrame\Utilities\bin\Debug\System.Net.Http.dll
+E:\Richard\Projects\TEST\SysFrame\Utilities\bin\Debug\System.Net.Http.xml
+E:\Richard\Projects\TEST\SysFrame\Utilities\obj\Debug\Sys.Utilities.csprojResolveAssemblyReference.cache
+E:\Richard\Projects\TEST\SysFrame\Utilities\obj\Debug\Sys.Utilities.BaseForm.resources
+E:\Richard\Projects\TEST\SysFrame\Utilities\obj\Debug\Frame.Utilities.Properties.Resources.resources
+E:\Richard\Projects\TEST\SysFrame\Utilities\obj\Debug\Sys.Utilities.csproj.GenerateResource.Cache
+E:\Richard\Projects\TEST\SysFrame\Utilities\obj\Debug\Frame.Utilities.dll
+E:\Richard\Projects\TEST\SysFrame\Utilities\obj\Debug\Frame.Utilities.pdb
+E:\Richard\Projects\Liudz2\中德电热\Utilities\bin\Debug\Frame.Utilities.dll.config
+E:\Richard\Projects\Liudz2\中德电热\Utilities\bin\Debug\Frame.Utilities.dll
+E:\Richard\Projects\Liudz2\中德电热\Utilities\bin\Debug\Frame.Utilities.pdb
+E:\Richard\Projects\Liudz2\中德电热\Utilities\bin\Debug\System.Net.Http.dll
+E:\Richard\Projects\Liudz2\中德电热\Utilities\bin\Debug\System.Net.Http.xml
+E:\Richard\Projects\Liudz2\中德电热\Utilities\obj\Debug\Sys.Utilities.csprojResolveAssemblyReference.cache
+E:\Richard\Projects\Liudz2\中德电热\Utilities\obj\Debug\Sys.Utilities.BaseForm.resources
+E:\Richard\Projects\Liudz2\中德电热\Utilities\obj\Debug\Frame.Utilities.Properties.Resources.resources
+E:\Richard\Projects\Liudz2\中德电热\Utilities\obj\Debug\Sys.Utilities.csproj.GenerateResource.Cache
+E:\Richard\Projects\Liudz2\中德电热\Utilities\obj\Debug\Frame.Utilities.dll
+E:\Richard\Projects\Liudz2\中德电热\Utilities\obj\Debug\Frame.Utilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\bin\Debug\Frame.Utilities.dll.config
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\obj\Debug\Sys.Utilities.BaseForm.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\obj\Debug\Frame.Utilities.Properties.Resources.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\obj\Debug\Sys.Utilities.csproj.GenerateResource.Cache
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\obj\Debug\Frame.Utilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\obj\Debug\Frame.Utilities.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\bin\Debug\Frame.Utilities.dll.config
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\bin\Debug\Frame.Utilities.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\bin\Debug\Frame.Utilities.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\obj\Debug\Sys.Utilities.csprojResolveAssemblyReference.cache
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\obj\Debug\Sys.Utilities.BaseForm.resources
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\obj\Debug\Frame.Utilities.Properties.Resources.resources
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\obj\Debug\Sys.Utilities.csproj.GenerateResource.Cache
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\obj\Debug\Frame.Utilities.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\obj\Debug\Frame.Utilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\bin\Debug\Frame.Utilities.dll.config
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\bin\Debug\Frame.Utilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\bin\Debug\Frame.Utilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\obj\Debug\Sys.Utilities.BaseForm.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\obj\Debug\Frame.Utilities.Properties.Resources.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\obj\Debug\Sys.Utilities.csproj.GenerateResource.Cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\obj\Debug\Frame.Utilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\obj\Debug\Frame.Utilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Utilities\obj\Debug\Sys.Utilities.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR\Utilities\bin\Debug\Frame.Utilities.dll.config
+D:\WYF\xm\ZDDR\ZDDR\Utilities\bin\Debug\Frame.Utilities.dll
+D:\WYF\xm\ZDDR\ZDDR\Utilities\bin\Debug\Frame.Utilities.pdb
+D:\WYF\xm\ZDDR\ZDDR\Utilities\obj\Debug\Sys.Utilities.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR\Utilities\obj\Debug\Sys.Utilities.BaseForm.resources
+D:\WYF\xm\ZDDR\ZDDR\Utilities\obj\Debug\Frame.Utilities.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR\Utilities\obj\Debug\Sys.Utilities.csproj.GenerateResource.Cache
+D:\WYF\xm\ZDDR\ZDDR\Utilities\obj\Debug\Frame.Utilities.dll
+D:\WYF\xm\ZDDR\ZDDR\Utilities\obj\Debug\Frame.Utilities.pdb
+D:\WYF\xm\ZDDR\ZDDR3\Utilities\bin\Debug\Frame.Utilities.dll.config
+D:\WYF\xm\ZDDR\ZDDR3\Utilities\bin\Debug\Frame.Utilities.dll
+D:\WYF\xm\ZDDR\ZDDR3\Utilities\bin\Debug\Frame.Utilities.pdb
+D:\WYF\xm\ZDDR\ZDDR3\Utilities\obj\Debug\Sys.Utilities.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR3\Utilities\obj\Debug\Sys.Utilities.BaseForm.resources
+D:\WYF\xm\ZDDR\ZDDR3\Utilities\obj\Debug\Frame.Utilities.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR3\Utilities\obj\Debug\Sys.Utilities.csproj.GenerateResource.Cache
+D:\WYF\xm\ZDDR\ZDDR3\Utilities\obj\Debug\Frame.Utilities.dll
+D:\WYF\xm\ZDDR\ZDDR3\Utilities\obj\Debug\Frame.Utilities.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\Utilities\bin\Debug\Frame.Utilities.dll.config
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\Utilities\bin\Debug\Frame.Utilities.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\Utilities\bin\Debug\Frame.Utilities.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\Utilities\obj\Debug\Sys.Utilities.csprojResolveAssemblyReference.cache
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\Utilities\obj\Debug\Sys.Utilities.BaseForm.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\Utilities\obj\Debug\Frame.Utilities.Properties.Resources.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\Utilities\obj\Debug\Sys.Utilities.csproj.GenerateResource.Cache
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\Utilities\obj\Debug\Frame.Utilities.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\Utilities\obj\Debug\Frame.Utilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Utilities\bin\Debug\Frame.Utilities.dll.config
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Utilities\bin\Debug\Frame.Utilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Utilities\bin\Debug\Frame.Utilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Utilities\obj\Debug\Sys.Utilities.csprojResolveAssemblyReference.cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Utilities\obj\Debug\Sys.Utilities.BaseForm.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Utilities\obj\Debug\Frame.Utilities.Properties.Resources.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Utilities\obj\Debug\Sys.Utilities.csproj.GenerateResource.Cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Utilities\obj\Debug\Frame.Utilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Utilities\obj\Debug\Frame.Utilities.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Utilities\bin\Debug\Frame.Utilities.dll.config
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Utilities\bin\Debug\Frame.Utilities.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Utilities\bin\Debug\Frame.Utilities.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Utilities\obj\Debug\Sys.Utilities.BaseForm.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Utilities\obj\Debug\Frame.Utilities.Properties.Resources.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Utilities\obj\Debug\Sys.Utilities.csproj.GenerateResource.Cache
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Utilities\obj\Debug\Frame.Utilities.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Utilities\obj\Debug\Frame.Utilities.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Utilities\obj\Debug\Sys.Utilities.csprojAssemblyReference.cache
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Utilities\obj\Debug\Sys.Utilities.csproj.CoreCompileInputs.cache

@@ -1,0 +1,124 @@
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.csprojResolveAssemblyReference.cache
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.FrmUserAdmin.resources
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.Properties.Resources.resources
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.csproj.GenerateResource.Cache
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\Tables\SqlMap.config
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.User.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.DbUtilities.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.Model.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.Service.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.Utilities.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.SysBusiness.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.Utilities.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\MySql.Data.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\System.Data.SQLite.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.IService.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.BaseManager.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.Business.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.DbUtilities.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.Model.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.Service.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.Utilities.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.SysBusiness.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.Utilities.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.IService.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.BaseManager.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.Business.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.User.dll.config
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.User.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.FrmUserModify.resources
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\Tables\SqlMap.config
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.User.dll.config
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.User.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.User.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.DbUtilities.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Model.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Service.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.Utilities.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.SysBusiness.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Utilities.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\MySql.Data.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\System.Data.SQLite.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.IService.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.BaseManager.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Business.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.DbUtilities.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Model.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Service.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.Utilities.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.SysBusiness.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Utilities.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.IService.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.BaseManager.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Business.pdb
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.csprojResolveAssemblyReference.cache
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.FrmUserAdmin.resources
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.FrmUserModify.resources
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.Properties.Resources.resources
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.csproj.GenerateResource.Cache
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.dll
+E:\ResourcesBackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.pdb
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\Tables\SqlMap.config
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.User.dll.config
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.User.dll
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.User.pdb
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.DbUtilities.dll
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Model.dll
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Service.dll
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.Utilities.dll
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.SysBusiness.dll
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Utilities.dll
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\MySql.Data.dll
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\System.Data.SQLite.dll
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.IService.dll
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.BaseManager.dll
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Business.dll
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.DbUtilities.pdb
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Model.pdb
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Service.pdb
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.Utilities.pdb
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.SysBusiness.pdb
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Utilities.pdb
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.IService.pdb
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.BaseManager.pdb
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Business.pdb
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.csprojResolveAssemblyReference.cache
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.FrmUserAdmin.resources
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.FrmUserModify.resources
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.Properties.Resources.resources
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.csproj.GenerateResource.Cache
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.dll
+E:\Project Resource BackUp\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.pdb
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\Tables\SqlMap.config
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.User.dll.config
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.User.dll
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.User.pdb
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.DbUtilities.dll
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Model.dll
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Service.dll
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.Utilities.dll
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.SysBusiness.dll
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Utilities.dll
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\MySql.Data.dll
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\System.Data.SQLite.dll
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.IService.dll
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.BaseManager.dll
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Business.dll
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.DbUtilities.pdb
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Model.pdb
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Service.pdb
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Stamping.Utilities.pdb
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.SysBusiness.pdb
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Utilities.pdb
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.IService.pdb
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.BaseManager.pdb
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\bin\Debug\IMOS.Business.pdb
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.csprojResolveAssemblyReference.cache
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.FrmUserAdmin.resources
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.FrmUserModify.resources
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.Properties.Resources.resources
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.csproj.GenerateResource.Cache
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.dll
+E:\最新的澳柯玛上位机和看板系统备份\Stamping\IMOS.Stamping.Forms\IMOS.Stamping.User\obj\Debug\IMOS.Stamping.User.pdb

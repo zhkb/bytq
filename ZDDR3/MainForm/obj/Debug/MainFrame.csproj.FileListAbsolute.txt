@@ -1,0 +1,794 @@
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Config.xml
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\MainFrame.exe.config
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\MainFrame.exe
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\MainFrame.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Communication.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\ControlLogic.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Equipment.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Login.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Material.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Monitor.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Option.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Param.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Plan.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Recipe.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Register.exe
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Report.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Sys.Config.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\System.Net.Http.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\User.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\MySql.Data.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\FastReport.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\FastReport.Bars.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\FastReport.Editor.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Communication.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Equipment.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Login.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Material.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Monitor.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Option.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Param.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Plan.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Recipe.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Register.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Report.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\User.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\System.Net.Http.xml
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\FastReport.xml
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\obj\Debug\MainFrame.MainForm.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\obj\Debug\MainFrame.exe
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\MainForm\obj\Debug\MainFrame.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\MainFrame.exe.config
+E:\1.工作代码\Mixing\MainForm\obj\Debug\MainFrame.exe
+E:\1.工作代码\Mixing\MainForm\obj\Debug\MainFrame.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Config.xml
+E:\1.工作代码\Mixing\MainForm\bin\Debug\MainFrame.exe
+E:\1.工作代码\Mixing\MainForm\bin\Debug\MainFrame.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Communication.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\ControlLogic.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Equipment.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Frame.Utilities.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Login.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Material.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Monitor.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Option.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Param.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Plan.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Recipe.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Register.exe
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Report.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Sys.Config.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Sys.DbUtilities.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Sys.SysBusiness.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\System.Net.Http.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\User.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Interop.ACTMULTILib.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\MySql.Data.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\System.Data.SQLite.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\FastReport.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\FastReport.Bars.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\FastReport.Editor.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Communication.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Sys.Config.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\ControlLogic.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Sys.DbUtilities.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Equipment.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Login.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Material.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Monitor.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Option.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Param.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Plan.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Recipe.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Register.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Report.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\User.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Sys.SysBusiness.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Frame.Utilities.pdb
+E:\1.工作代码\Mixing\MainForm\bin\Debug\System.Net.Http.xml
+E:\1.工作代码\Mixing\MainForm\bin\Debug\FastReport.xml
+E:\1.工作代码\Mixing\MainForm\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\1.工作代码\Mixing\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+E:\1.工作代码\Mixing\MainForm\obj\Debug\MainFrame.MainForm.resources
+E:\1.工作代码\Mixing\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+E:\1.工作代码\Mixing\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Authority.dll
+E:\1.工作代码\Mixing\MainForm\bin\Debug\Authority.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\MainFrame.exe.config
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\obj\Debug\MainFrame.exe
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\obj\Debug\MainFrame.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Config.xml
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\MainFrame.exe
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\MainFrame.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Authority.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Communication.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\ControlLogic.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Equipment.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Login.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Material.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Monitor.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Option.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Param.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Plan.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Recipe.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Register.exe
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Report.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Sys.Config.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\System.Net.Http.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\User.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\MySql.Data.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\FastReport.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\FastReport.Bars.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\FastReport.Editor.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Communication.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Authority.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Equipment.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Login.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Material.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Monitor.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Option.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Param.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Plan.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Recipe.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Register.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Report.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\User.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\System.Net.Http.xml
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\FastReport.xml
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\obj\Debug\MainFrame.MainForm.resources
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+E:\0.工作任务\6-上位新框架\SysFrame\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\MainFrame.exe.config
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\obj\Debug\MainFrame.exe
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\obj\Debug\MainFrame.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\obj\Debug\MainFrame.MainForm.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Config.xml
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\MainFrame.exe
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\MainFrame.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Authority.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\ControlLogic.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\FastReport.Bars.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\FastReport.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\FastReport.Editor.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Login.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Material.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Monitor.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Option.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Param.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Sys.Config.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\User.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\MySql.Data.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Authority.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Login.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Material.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Monitor.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Option.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Param.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\User.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\MainForm\bin\Debug\FastReport.xml
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\MainFrame.exe.config
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\obj\Debug\MainFrame.exe
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\obj\Debug\MainFrame.pdb
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\Config.xml
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\MainFrame.exe
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\MainFrame.pdb
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\Authority.dll
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\ControlLogic.dll
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\Frame.Utilities.dll
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\Login.dll
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\Material.dll
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\Monitor.dll
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\Option.dll
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\Sys.Config.dll
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\Sys.DbUtilities.dll
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\Sys.SysBusiness.dll
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\System.Net.Http.dll
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\User.dll
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\MySql.Data.dll
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\System.Data.SQLite.dll
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\Sys.Config.pdb
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\ControlLogic.pdb
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\Sys.DbUtilities.pdb
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\Authority.pdb
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\Login.pdb
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\Material.pdb
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\Monitor.pdb
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\Option.pdb
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\User.pdb
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\Sys.SysBusiness.pdb
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\Frame.Utilities.pdb
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\FastReport.xml
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\bin\Debug\System.Net.Http.xml
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\obj\Debug\MainFrame.MainForm.resources
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+E:\Richard\Projects\TEST\SysFrame 20181207\SysFrame 20181207\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\MainFrame.exe.config
+E:\Richard\Projects\TEST\SysFrame\MainForm\obj\Debug\MainFrame.exe
+E:\Richard\Projects\TEST\SysFrame\MainForm\obj\Debug\MainFrame.pdb
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\Config.xml
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\MainFrame.exe
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\MainFrame.pdb
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\Authority.dll
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\ControlLogic.dll
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\Frame.Utilities.dll
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\Login.dll
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\Material.dll
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\Monitor.dll
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\Option.dll
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\Sys.Config.dll
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\Sys.DbUtilities.dll
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\Sys.SysBusiness.dll
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\System.Net.Http.dll
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\User.dll
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\MySql.Data.dll
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\System.Data.SQLite.dll
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\Sys.Config.pdb
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\ControlLogic.pdb
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\Sys.DbUtilities.pdb
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\Authority.pdb
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\Login.pdb
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\Material.pdb
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\Monitor.pdb
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\Option.pdb
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\User.pdb
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\Sys.SysBusiness.pdb
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\Frame.Utilities.pdb
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\FastReport.xml
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\System.Net.Http.xml
+E:\Richard\Projects\TEST\SysFrame\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+E:\Richard\Projects\TEST\SysFrame\MainForm\obj\Debug\MainFrame.MainForm.resources
+E:\Richard\Projects\TEST\SysFrame\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+E:\Richard\Projects\TEST\SysFrame\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\FastReport.Bars.dll
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\FastReport.dll
+E:\Richard\Projects\TEST\SysFrame\MainForm\bin\Debug\FastReport.Editor.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\MainFrame.exe.config
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\obj\Debug\MainFrame.exe
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\obj\Debug\MainFrame.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\Config.xml
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\MainFrame.exe
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\MainFrame.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\Authority.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\ControlLogic.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\FastReport.Bars.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\FastReport.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\FastReport.Editor.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\Frame.Utilities.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\Login.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\Material.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\Monitor.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\Option.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\Sys.Config.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\Sys.DbUtilities.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\Sys.SysBusiness.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\System.Net.Http.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\User.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\MySql.Data.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\System.Data.SQLite.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\Sys.Config.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\ControlLogic.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\Sys.DbUtilities.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\Authority.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\Login.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\Material.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\Monitor.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\Option.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\User.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\Sys.SysBusiness.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\Frame.Utilities.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\FastReport.xml
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\bin\Debug\System.Net.Http.xml
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\obj\Debug\MainFrame.MainForm.resources
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+E:\Richard\Projects\Liudz\Haier\SysFrame\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\MainFrame.exe.config
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\obj\Debug\MainFrame.exe
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\obj\Debug\MainFrame.pdb
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\Config.xml
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\MainFrame.exe
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\MainFrame.pdb
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\Authority.dll
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\ControlLogic.dll
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\FastReport.Bars.dll
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\FastReport.dll
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\FastReport.Editor.dll
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\Frame.Utilities.dll
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\Login.dll
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\Material.dll
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\Monitor.dll
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\Option.dll
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\Sys.Config.dll
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\Sys.DbUtilities.dll
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\Sys.SysBusiness.dll
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\System.Net.Http.dll
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\User.dll
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\MySql.Data.dll
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\System.Data.SQLite.dll
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\Sys.Config.pdb
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\ControlLogic.pdb
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\Sys.DbUtilities.pdb
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\Authority.pdb
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\Login.pdb
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\Material.pdb
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\Monitor.pdb
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\Option.pdb
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\User.pdb
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\Sys.SysBusiness.pdb
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\Frame.Utilities.pdb
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\FastReport.xml
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\bin\Debug\System.Net.Http.xml
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\obj\Debug\MainFrame.MainForm.resources
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+E:\Richard\Projects\Liudz\Haier\中德电热\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\MainFrame.exe.config
+E:\Richard\Projects\Liudz2\中德电热\MainForm\obj\Debug\MainFrame.exe
+E:\Richard\Projects\Liudz2\中德电热\MainForm\obj\Debug\MainFrame.pdb
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\Config.xml
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\MainFrame.exe
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\MainFrame.pdb
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\Authority.dll
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\ControlLogic.dll
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\FastReport.Bars.dll
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\FastReport.dll
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\FastReport.Editor.dll
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\Frame.Utilities.dll
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\Login.dll
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\Material.dll
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\Monitor.dll
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\Option.dll
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\Sys.Config.dll
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\Sys.DbUtilities.dll
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\Sys.SysBusiness.dll
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\System.Net.Http.dll
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\User.dll
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\MySql.Data.dll
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\System.Data.SQLite.dll
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\Sys.Config.pdb
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\ControlLogic.pdb
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\Sys.DbUtilities.pdb
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\Authority.pdb
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\Login.pdb
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\Material.pdb
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\Monitor.pdb
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\Option.pdb
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\User.pdb
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\Sys.SysBusiness.pdb
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\Frame.Utilities.pdb
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\FastReport.xml
+E:\Richard\Projects\Liudz2\中德电热\MainForm\bin\Debug\System.Net.Http.xml
+E:\Richard\Projects\Liudz2\中德电热\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+E:\Richard\Projects\Liudz2\中德电热\MainForm\obj\Debug\MainFrame.MainForm.resources
+E:\Richard\Projects\Liudz2\中德电热\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+E:\Richard\Projects\Liudz2\中德电热\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\MainFrame.exe.config
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\obj\Debug\MainFrame.exe
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\obj\Debug\MainFrame.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Config.xml
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\MainFrame.exe
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\MainFrame.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\ControlLogic.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Login.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Monitor.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Option.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\User.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\MySql.Data.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Login.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Monitor.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Option.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\User.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\obj\Debug\MainFrame.MainForm.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Authority.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Material.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Authority.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Material.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\FastReport.Bars.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\FastReport.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\FastReport.Editor.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\FastReport.xml
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Config.xml
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\MainFrame.exe.config
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\MainFrame.exe
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\MainFrame.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Authority.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\ControlLogic.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\FastReport.Bars.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\FastReport.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\FastReport.Editor.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Frame.Utilities.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Login.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Material.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Monitor.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Option.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Sys.Config.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Sys.DbUtilities.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Sys.SysBusiness.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\User.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\MySql.Data.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\System.Data.SQLite.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Sys.Config.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\ControlLogic.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Sys.DbUtilities.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Authority.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Login.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Material.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Monitor.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Option.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\User.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Sys.SysBusiness.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Frame.Utilities.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\FastReport.xml
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\obj\Debug\MainFrame.MainForm.resources
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\obj\Debug\MainFrame.exe
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\obj\Debug\MainFrame.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Communication.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Communication.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\obj\Debug\MainFrame.MainForm.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Config.xml
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\MainFrame.exe.config
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\MainFrame.exe
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\MainFrame.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Authority.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\ControlLogic.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\FastReport.Bars.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\FastReport.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\FastReport.Editor.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Frame.Utilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Login.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Material.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Monitor.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Option.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Report.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Sys.Config.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Sys.DbUtilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Sys.SysBusiness.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\User.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Communication.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\MySql.Data.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\System.Data.SQLite.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Interop.ACTMULTILib.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Sys.Config.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\ControlLogic.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Sys.DbUtilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Authority.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Login.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Material.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Monitor.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Option.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\User.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Report.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Sys.SysBusiness.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Frame.Utilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\FastReport.xml
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Communication.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\obj\Debug\MainFrame.exe
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\obj\Debug\MainFrame.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Report.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\Report.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\MainForm\bin\Debug\ThoughtWorks.QRCode.dll
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\MainFrame.exe.config
+D:\WYF\xm\ZDDR\ZDDR\MainForm\obj\Debug\MainFrame.exe
+D:\WYF\xm\ZDDR\ZDDR\MainForm\obj\Debug\MainFrame.pdb
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Config.xml
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\MainFrame.exe
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\MainFrame.pdb
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Authority.dll
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\ControlLogic.dll
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Frame.Utilities.dll
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Login.dll
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Material.dll
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Monitor.dll
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Option.dll
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Report.dll
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Sys.DbUtilities.dll
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Sys.SysBusiness.dll
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\User.dll
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Communication.dll
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\MySql.Data.dll
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\System.Data.SQLite.dll
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\ThoughtWorks.QRCode.dll
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\BarcodeLib.dll
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Interop.ACTMULTILib.dll
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\ControlLogic.pdb
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Sys.DbUtilities.pdb
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Authority.pdb
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Login.pdb
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Material.pdb
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Monitor.pdb
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Option.pdb
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Report.pdb
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\User.pdb
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Sys.SysBusiness.pdb
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Frame.Utilities.pdb
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\FastReport.xml
+D:\WYF\xm\ZDDR\ZDDR\MainForm\bin\Debug\Communication.pdb
+D:\WYF\xm\ZDDR\ZDDR\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR\MainForm\obj\Debug\MainFrame.MainForm.resources
+D:\WYF\xm\ZDDR\ZDDR\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\MainFrame.exe.config
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\obj\Debug\MainFrame.exe
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\obj\Debug\MainFrame.pdb
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Config.xml
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\MainFrame.exe
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\MainFrame.pdb
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Authority.dll
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\ControlLogic.dll
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Frame.Utilities.dll
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Login.dll
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Material.dll
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Monitor.dll
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Option.dll
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Report.dll
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Sys.DbUtilities.dll
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Sys.SysBusiness.dll
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\User.dll
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Communication.dll
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\MySql.Data.dll
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\System.Data.SQLite.dll
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\ThoughtWorks.QRCode.dll
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\BarcodeLib.dll
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Interop.ACTMULTILib.dll
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\ControlLogic.pdb
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Sys.DbUtilities.pdb
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Authority.pdb
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Login.pdb
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Material.pdb
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Monitor.pdb
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Option.pdb
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Report.pdb
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\User.pdb
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Sys.SysBusiness.pdb
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Frame.Utilities.pdb
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\FastReport.xml
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\bin\Debug\Communication.pdb
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\obj\Debug\MainFrame.MainForm.resources
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR2\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\MainFrame.exe.config
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\obj\Debug\MainFrame.exe
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\obj\Debug\MainFrame.pdb
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Config.xml
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\MainFrame.exe
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\MainFrame.pdb
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Authority.dll
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\ControlLogic.dll
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Frame.Utilities.dll
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Login.dll
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Material.dll
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Monitor.dll
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Option.dll
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Report.dll
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Sys.DbUtilities.dll
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Sys.SysBusiness.dll
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\User.dll
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Communication.dll
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\MySql.Data.dll
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\System.Data.SQLite.dll
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\ThoughtWorks.QRCode.dll
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\BarcodeLib.dll
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Interop.ACTMULTILib.dll
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\ControlLogic.pdb
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Sys.DbUtilities.pdb
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Authority.pdb
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Login.pdb
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Material.pdb
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Monitor.pdb
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Option.pdb
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Report.pdb
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\User.pdb
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Sys.SysBusiness.pdb
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Frame.Utilities.pdb
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\bin\Debug\Communication.pdb
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\obj\Debug\MainFrame.MainForm.resources
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR3\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\MainFrame.exe.config
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\obj\Debug\MainFrame.exe
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\obj\Debug\MainFrame.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Config.xml
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\MainFrame.exe
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\MainFrame.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Authority.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\ControlLogic.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\FastReport.Bars.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\FastReport.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\FastReport.Editor.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Frame.Utilities.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Login.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Material.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Monitor.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Option.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Report.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Sys.Config.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Sys.DbUtilities.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Sys.SysBusiness.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\User.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Communication.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\MySql.Data.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\System.Data.SQLite.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\ThoughtWorks.QRCode.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\BarcodeLib.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Interop.ACTMULTILib.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Sys.Config.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\ControlLogic.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Sys.DbUtilities.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Authority.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Login.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Material.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Monitor.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Option.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Report.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\User.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Sys.SysBusiness.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Frame.Utilities.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\FastReport.xml
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\bin\Debug\Communication.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\obj\Debug\MainFrame.MainForm.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\MainFrame.exe.config
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\obj\Debug\MainFrame.exe
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\obj\Debug\MainFrame.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Config.xml
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\MainFrame.exe
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\MainFrame.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Authority.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\ControlLogic.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\FastReport.Bars.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\FastReport.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\FastReport.Editor.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Frame.Utilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Login.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Material.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Monitor.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Option.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Report.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Sys.Config.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Sys.DbUtilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Sys.SysBusiness.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\User.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Communication.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\MySql.Data.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\System.Data.SQLite.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\ThoughtWorks.QRCode.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\BarcodeLib.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Sys.Config.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\ControlLogic.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Sys.DbUtilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Authority.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Login.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Material.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Monitor.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Option.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Report.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\User.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Sys.SysBusiness.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Frame.Utilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\FastReport.xml
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Communication.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\obj\Debug\MainFrame.csprojResolveAssemblyReference.cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\obj\Debug\MainFrame.MainForm.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\ActUtlTypeLib.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\MainFrame.exe.config
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\obj\Debug\MainFrame.exe
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\obj\Debug\MainFrame.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Config.xml
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\MainFrame.exe
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\MainFrame.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Authority.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\ControlLogic.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\FastReport.Bars.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\FastReport.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\FastReport.Editor.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Frame.Utilities.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Login.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Material.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Monitor.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Option.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Report.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Sys.Config.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Sys.DbUtilities.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Sys.SysBusiness.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\User.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Communication.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\MySql.Data.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\System.Data.SQLite.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\ThoughtWorks.QRCode.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\BarcodeLib.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\ActUtlTypeLib.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Sys.Config.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\ControlLogic.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Sys.DbUtilities.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Authority.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Login.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Material.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Monitor.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Option.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Report.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\User.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Sys.SysBusiness.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Frame.Utilities.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\FastReport.xml
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Communication.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\obj\Debug\MainFrame.MainForm.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\obj\Debug\MainFrame.Properties.Resources.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\obj\Debug\MainFrame.csproj.GenerateResource.Cache
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Material.dll.config
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Monitor.dll.config
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\User.dll.config
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\bin\Debug\Frame.Utilities.dll.config
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\obj\Debug\MainFrame.csprojAssemblyReference.cache
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\obj\Debug\MainFrame.csproj.CoreCompileInputs.cache
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\MainForm\obj\Debug\MainFrame.csproj.CopyComplete

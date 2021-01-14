@@ -1,0 +1,3 @@
+FrmEnErMonitor            界面的分辨率1920，1080
+FrmEnErMonitor2          界面的分辨率1024，1080
+FrmEnErMonitor3          界面的分辨率1366，768

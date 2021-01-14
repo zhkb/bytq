@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://controller.rf.web.wcs.cosmo.haier.com/" xmlns:ns1="http://schemas.xmlsoap.org/soap/http" name="RfWebServiceImplService" targetNamespace="http://controller.rf.web.wcs.cosmo.haier.com/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xs:schema elementFormDefault="unqualified" targetNamespace="http://controller.rf.web.wcs.cosmo.haier.com/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="ILtkIn" type="tns:ILtkIn" />
+      <xs:element name="ILtkInResponse" type="tns:ILtkInResponse" />
+      <xs:element name="LtkBh" type="tns:LtkBh" />
+      <xs:element name="LtkBhResponse" type="tns:LtkBhResponse" />
+      <xs:element name="StackerCraneBH" type="tns:StackerCraneBH" />
+      <xs:element name="StackerCraneBHResponse" type="tns:StackerCraneBHResponse" />
+      <xs:element name="StgProOrderHlmpVO" type="tns:stgProOrderHlmpVO" />
+      <xs:element name="backFlush" type="tns:backFlush" />
+      <xs:element name="backFlushResponse" type="tns:backFlushResponse" />
+      <xs:element name="backLash" type="tns:backLash" />
+      <xs:element name="backLashResponse" type="tns:backLashResponse" />
+      <xs:element name="cancelKdOrders" type="tns:cancelKdOrders" />
+      <xs:element name="cancelKdOrdersResponse" type="tns:cancelKdOrdersResponse" />
+      <xs:element name="queryDBCKOrder" type="tns:queryDBCKOrder" />
+      <xs:element name="queryDBCKOrderResponse" type="tns:queryDBCKOrderResponse" />
+      <xs:element name="recClearFromHackMac" type="tns:recClearFromHackMac" />
+      <xs:element name="recClearFromHackMacResponse" type="tns:recClearFromHackMacResponse" />
+      <xs:element name="recFinishFromHackMac" type="tns:recFinishFromHackMac" />
+      <xs:element name="recFinishFromHackMacResponse" type="tns:recFinishFromHackMacResponse" />
+      <xs:element name="recSnFromHackMac" type="tns:recSnFromHackMac" />
+      <xs:element name="recSnFromHackMacResponse" type="tns:recSnFromHackMacResponse" />
+      <xs:element name="rfGetSysDate" type="tns:rfGetSysDate" />
+      <xs:element name="rfGetSysDateResponse" type="tns:rfGetSysDateResponse" />
+      <xs:element name="rfToHlesTest" type="tns:rfToHlesTest" />
+      <xs:element name="rfToHlesTestResponse" type="tns:rfToHlesTestResponse" />
+      <xs:element name="stgProOrderHlmp" type="tns:stgProOrderHlmp" />
+      <xs:element name="stgProOrderHlmpResponse" type="tns:stgProOrderHlmpResponse" />
+      <xs:complexType name="LtkBh">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="arg0" type="tns:ltkBhDTO" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ltkBhDTO">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="factoryCode" type="xs:string" />
+          <xs:element minOccurs="0" name="orderNo" type="xs:string" />
+          <xs:element minOccurs="0" name="schema" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="LtkBhResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:transResult" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="transResult">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:string" />
+          <xs:element minOccurs="0" name="data" type="xs:anyType" />
+          <xs:element minOccurs="0" name="msg" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="backFlush">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="arg0" type="tns:odsRawOfflineBackflushVO" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="odsRawOfflineBackflushVO">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:wmsEntity">
+            <xs:sequence>
+              <xs:element minOccurs="0" name="add1" type="xs:string" />
+              <xs:element minOccurs="0" name="add10" type="xs:string" />
+              <xs:element minOccurs="0" name="add2" type="xs:string" />
+              <xs:element minOccurs="0" name="add3" type="xs:string" />
+              <xs:element minOccurs="0" name="add4" type="xs:string" />
+              <xs:element minOccurs="0" name="add5" type="xs:string" />
+              <xs:element minOccurs="0" name="add6" type="xs:string" />
+              <xs:element minOccurs="0" name="add7" type="xs:string" />
+              <xs:element minOccurs="0" name="add8" type="xs:string" />
+              <xs:element minOccurs="0" name="add9" type="xs:string" />
+              <xs:element minOccurs="0" name="backFlag" type="xs:string" />
+              <xs:element minOccurs="0" name="backType" type="xs:string" />
+              <xs:element minOccurs="0" name="barcode" type="xs:string" />
+              <xs:element minOccurs="0" name="line" type="xs:string" />
+              <xs:element minOccurs="0" name="lineLocCode" type="xs:string" />
+              <xs:element minOccurs="0" name="lineType" type="xs:string" />
+              <xs:element minOccurs="0" name="orderNo" type="xs:string" />
+              <xs:element minOccurs="0" name="productCode" type="xs:string" />
+              <xs:element minOccurs="0" name="qty" type="xs:string" />
+              <xs:element minOccurs="0" name="rowId" type="xs:long" />
+              <xs:element minOccurs="0" name="whCode" type="xs:string" />
+            </xs:sequence>
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType name="wmsEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="activeFlag" type="xs:string" />
+          <xs:element minOccurs="0" name="cosmoType" type="xs:string" />
+          <xs:element minOccurs="0" name="createBy" type="xs:string" />
+          <xs:element minOccurs="0" name="createdBy" type="xs:string" />
+          <xs:element minOccurs="0" name="createdByName" type="xs:string" />
+          <xs:element minOccurs="0" name="createdDate" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="createdDateMax" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="createdDateMaxStr" type="xs:string" />
+          <xs:element minOccurs="0" name="createdDateMin" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="createdDateMinStr" type="xs:string" />
+          <xs:element minOccurs="0" name="createdDateStr" type="xs:string" />
+          <xs:element minOccurs="0" name="factoryCode" type="xs:string" />
+          <xs:element minOccurs="0" name="gmtCreate" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="gmtCreateMax" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="gmtCreateMin" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="gmtCreateStr" type="xs:string" />
+          <xs:element minOccurs="0" name="gmtModified" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="gmtModifiedMax" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="gmtModifiedMin" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="gmtModifiedStr" type="xs:string" />
+          <xs:element minOccurs="0" name="lastModifiedBy" type="xs:string" />
+          <xs:element minOccurs="0" name="lastUpdBy" type="xs:string" />
+          <xs:element minOccurs="0" name="lastUpdByName" type="xs:string" />
+          <xs:element minOccurs="0" name="lastUpdDate" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="lastUpdDateMax" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="lastUpdDateMin" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="lastUpdDateStr" type="xs:string" />
+          <xs:element name="page" type="xs:int" />
+          <xs:element minOccurs="0" name="remark" type="xs:string" />
+          <xs:element name="rows" type="xs:int" />
+          <xs:element minOccurs="0" name="sapFactoryCode" type="xs:string" />
+          <xs:element minOccurs="0" name="schema" type="xs:string" />
+          <xs:element minOccurs="0" name="sign" type="xs:string" />
+          <xs:element minOccurs="0" name="user" type="xs:string" />
+          <xs:element minOccurs="0" name="userDefined1" type="xs:string" />
+          <xs:element minOccurs="0" name="userDefined10" type="xs:string" />
+          <xs:element minOccurs="0" name="userDefined2" type="xs:string" />
+          <xs:element minOccurs="0" name="userDefined3" type="xs:string" />
+          <xs:element minOccurs="0" name="userDefined4" type="xs:string" />
+          <xs:element minOccurs="0" name="userDefined5" type="xs:string" />
+          <xs:element minOccurs="0" name="userDefined6" type="xs:string" />
+          <xs:element minOccurs="0" name="userDefined7" type="xs:string" />
+          <xs:element minOccurs="0" name="userDefined8" type="xs:string" />
+          <xs:element minOccurs="0" name="userDefined9" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="backFlushResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:result" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="result">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="result" type="xs:anyType" />
+          <xs:element minOccurs="0" name="resultCode" type="xs:int" />
+          <xs:element minOccurs="0" name="resultMsg" type="xs:string" />
+          <xs:element minOccurs="0" name="success" type="xs:boolean" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="cancelKdOrders">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="arg0" type="xs:string" />
+          <xs:element minOccurs="0" name="arg1" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="cancelKdOrdersResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="rfGetSysDate">
+        <xs:sequence />
+      </xs:complexType>
+      <xs:complexType name="rfGetSysDateResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="StackerCraneBH">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="arg0" type="tns:mdjBhDTO" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="mdjBhDTO">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="barCode" type="xs:string" />
+          <xs:element minOccurs="0" name="factoryCode" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="StackerCraneBHResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:transResult" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ILtkIn">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="arg0" type="tns:ltkInDTO" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ltkInDTO">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="barCodes" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="factoryCode" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ILtkInResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:transResult" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="recClearFromHackMac">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="arg0" type="tns:hackmacClearDto" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="hackmacClearDto">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:wmsEntity">
+            <xs:sequence>
+              <xs:element minOccurs="0" name="add1" type="xs:string" />
+              <xs:element minOccurs="0" name="add2" type="xs:string" />
+              <xs:element minOccurs="0" name="add3" type="xs:string" />
+              <xs:element minOccurs="0" name="add4" type="xs:string" />
+              <xs:element minOccurs="0" name="add5" type="xs:string" />
+              <xs:element minOccurs="0" name="id" type="xs:string" />
+              <xs:element minOccurs="0" name="macName" type="xs:string" />
+              <xs:element minOccurs="0" name="macNo" type="xs:string" />
+              <xs:element minOccurs="0" name="position" type="xs:string" />
+            </xs:sequence>
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType name="recClearFromHackMacResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:result" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="recFinishFromHackMac">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="arg0" type="tns:hackmacFinishDto" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="hackmacFinishDto">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:wmsEntity">
+            <xs:sequence>
+              <xs:element minOccurs="0" name="add1" type="xs:string" />
+              <xs:element minOccurs="0" name="add2" type="xs:string" />
+              <xs:element minOccurs="0" name="add3" type="xs:string" />
+              <xs:element minOccurs="0" name="add4" type="xs:string" />
+              <xs:element minOccurs="0" name="add5" type="xs:string" />
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="barCodes" nillable="true" type="xs:string" />
+              <xs:element minOccurs="0" name="id" type="xs:string" />
+              <xs:element minOccurs="0" name="macName" type="xs:string" />
+              <xs:element minOccurs="0" name="macNo" type="xs:string" />
+              <xs:element minOccurs="0" name="macNoSeq" type="xs:string" />
+              <xs:element minOccurs="0" name="position" type="xs:string" />
+              <xs:element minOccurs="0" name="productCode" type="xs:string" />
+              <xs:element minOccurs="0" name="productDesc" type="xs:string" />
+              <xs:element minOccurs="0" name="sequenceNo" type="xs:string" />
+            </xs:sequence>
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType name="recFinishFromHackMacResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:result" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="backLash">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="arg0" type="tns:odsProOrderBackVO" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="odsProOrderBackVO">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:wmsEntity">
+            <xs:sequence>
+              <xs:element minOccurs="0" name="backCount" type="xs:string" />
+              <xs:element minOccurs="0" name="backFlushAmount" type="xs:decimal" />
+              <xs:element minOccurs="0" name="dateBegin" type="xs:string" />
+              <xs:element minOccurs="0" name="dateEnd" type="xs:string" />
+              <xs:element minOccurs="0" name="message" type="xs:string" />
+              <xs:element minOccurs="0" name="odsProOrderBackId" type="xs:string" />
+              <xs:element minOccurs="0" name="orderid" type="xs:string" />
+              <xs:element minOccurs="0" name="rawKjckFlag" type="xs:string" />
+              <xs:element minOccurs="0" name="sapFlag" type="xs:string" />
+              <xs:element minOccurs="0" name="timeBegin" type="xs:string" />
+              <xs:element minOccurs="0" name="timeEnd" type="xs:string" />
+              <xs:element minOccurs="0" name="tmpidList" type="xs:string" />
+              <xs:element minOccurs="0" name="unit" type="xs:string" />
+              <xs:element minOccurs="0" name="ztype" type="xs:string" />
+            </xs:sequence>
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType name="backLashResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:result" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="recSnFromHackMac">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="arg0" type="tns:hackmacDto" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="hackmacDto">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:wmsEntity">
+            <xs:sequence>
+              <xs:element minOccurs="0" name="add1" type="xs:string" />
+              <xs:element minOccurs="0" name="add2" type="xs:string" />
+              <xs:element minOccurs="0" name="add3" type="xs:string" />
+              <xs:element minOccurs="0" name="add4" type="xs:string" />
+              <xs:element minOccurs="0" name="add5" type="xs:string" />
+              <xs:element minOccurs="0" name="barCode" type="xs:string" />
+              <xs:element minOccurs="0" name="id" type="xs:string" />
+              <xs:element minOccurs="0" name="macName" type="xs:string" />
+              <xs:element minOccurs="0" name="macNo" type="xs:string" />
+              <xs:element minOccurs="0" name="position" type="xs:string" />
+              <xs:element minOccurs="0" name="productCode" type="xs:string" />
+              <xs:element minOccurs="0" name="productDesc" type="xs:string" />
+            </xs:sequence>
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType name="recSnFromHackMacResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:result" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="queryDBCKOrder">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="arg0" type="tns:odsProOrderOutDTO" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="odsProOrderOutDTO">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:wmsEntity">
+            <xs:sequence>
+              <xs:element minOccurs="0" name="add1" type="xs:string" />
+              <xs:element minOccurs="0" name="add10" type="xs:string" />
+              <xs:element minOccurs="0" name="add2" type="xs:string" />
+              <xs:element minOccurs="0" name="add3" type="xs:string" />
+              <xs:element minOccurs="0" name="add4" type="xs:string" />
+              <xs:element minOccurs="0" name="add5" type="xs:string" />
+              <xs:element minOccurs="0" name="add6" type="xs:string" />
+              <xs:element minOccurs="0" name="add7" type="xs:string" />
+              <xs:element minOccurs="0" name="add8" type="xs:string" />
+              <xs:element minOccurs="0" name="add9" type="xs:string" />
+              <xs:element minOccurs="0" name="bcFlag" type="xs:string" />
+              <xs:element minOccurs="0" name="bhModel" type="xs:string" />
+              <xs:element minOccurs="0" name="cdCd" type="xs:string" />
+              <xs:element minOccurs="0" name="chCd" type="xs:string" />
+              <xs:element minOccurs="0" name="city" type="xs:string" />
+              <xs:element minOccurs="0" name="county" type="xs:string" />
+              <xs:element minOccurs="0" name="cpFlag" type="xs:string" />
+              <xs:element minOccurs="0" name="cpRef1" type="xs:dateTime" />
+              <xs:element minOccurs="0" name="cpRef10" type="xs:string" />
+              <xs:element minOccurs="0" name="cpRef2" type="xs:dateTime" />
+              <xs:element minOccurs="0" name="cpRef3" type="xs:dateTime" />
+              <xs:element minOccurs="0" name="cpRef4" type="xs:string" />
+              <xs:element minOccurs="0" name="cpRef5" type="xs:string" />
+              <xs:element minOccurs="0" name="cpRef6" type="xs:string" />
+              <xs:element minOccurs="0" name="cpRef7" type="xs:string" />
+              <xs:element minOccurs="0" name="cpRef8" type="xs:string" />
+              <xs:element minOccurs="0" name="cpRef9" type="xs:string" />
+              <xs:element minOccurs="0" name="custCode" type="xs:string" />
+              <xs:element minOccurs="0" name="djGzTime" type="xs:dateTime" />
+              <xs:element minOccurs="0" name="djStatus" type="xs:string" />
+              <xs:element minOccurs="0" name="goodsBindFlag" type="xs:string" />
+              <xs:element minOccurs="0" name="gridGroupCd" type="xs:string" />
+              <xs:element minOccurs="0" name="gzjd" type="xs:string" />
+              <xs:element minOccurs="0" name="jhlx" type="xs:string" />
+              <xs:element minOccurs="0" name="kcddCd" type="xs:string" />
+              <xs:element minOccurs="0" name="kcfpDes" type="xs:string" />
+              <xs:element minOccurs="0" name="kcfpFlag" type="xs:string" />
+              <xs:element minOccurs="0" name="ljFlag" type="xs:string" />
+              <xs:element minOccurs="0" name="ljStatus" type="xs:string" />
+              <xs:element minOccurs="0" name="merchantCode" type="xs:string" />
+              <xs:element minOccurs="0" name="omsOrderItem" type="xs:string" />
+              <xs:element minOccurs="0" name="omsOrderNo" type="xs:string" />
+              <xs:element minOccurs="0" name="order1" type="xs:string" />
+              <xs:element minOccurs="0" name="order10" type="xs:string" />
+              <xs:element minOccurs="0" name="order11" type="xs:string" />
+              <xs:element minOccurs="0" name="order2" type="xs:string" />
+              <xs:element minOccurs="0" name="order3" type="xs:string" />
+              <xs:element minOccurs="0" name="order4" type="xs:string" />
+              <xs:element minOccurs="0" name="order5" type="xs:string" />
+              <xs:element minOccurs="0" name="order6" type="xs:string" />
+              <xs:element minOccurs="0" name="order7" type="xs:string" />
+              <xs:element minOccurs="0" name="order8" type="xs:string" />
+              <xs:element minOccurs="0" name="order9" type="xs:string" />
+              <xs:element minOccurs="0" name="orderDate" type="xs:dateTime" />
+              <xs:element minOccurs="0" name="orderItem" type="xs:string" />
+              <xs:element minOccurs="0" name="orderNo" type="xs:string" />
+              <xs:element minOccurs="0" name="orderSourceSys" type="xs:string" />
+              <xs:element minOccurs="0" name="orderType" type="xs:string" />
+              <xs:element minOccurs="0" name="packageCode" type="xs:string" />
+              <xs:element minOccurs="0" name="paperPrintNum" type="xs:long" />
+              <xs:element minOccurs="0" name="pcTime" type="xs:dateTime" />
+              <xs:element minOccurs="0" name="plCode" type="xs:string" />
+              <xs:element minOccurs="0" name="productCode" type="xs:string" />
+              <xs:element minOccurs="0" name="productDescZh" type="xs:string" />
+              <xs:element minOccurs="0" name="productGroupCode" type="xs:string" />
+              <xs:element minOccurs="0" name="productStatus" type="xs:string" />
+              <xs:element minOccurs="0" name="prov" type="xs:string" />
+              <xs:element minOccurs="0" name="psfsCd" type="xs:string" />
+              <xs:element minOccurs="0" name="qty" type="xs:long" />
+              <xs:element minOccurs="0" name="qualityFlag" type="xs:string" />
+              <xs:element minOccurs="0" name="qut" type="xs:string" />
+              <xs:element minOccurs="0" name="qxFlag" type="xs:string" />
+              <xs:element minOccurs="0" name="receiver" type="xs:string" />
+              <xs:element minOccurs="0" name="receiverPhone" type="xs:string" />
+              <xs:element minOccurs="0" name="regionCode" type="xs:string" />
+              <xs:element minOccurs="0" name="registerFlag" type="xs:string" />
+              <xs:element minOccurs="0" name="roughWeight" type="xs:string" />
+              <xs:element minOccurs="0" name="rowId" type="xs:long" />
+              <xs:element minOccurs="0" name="scFlag" type="xs:string" />
+              <xs:element minOccurs="0" name="sdfCd" type="xs:string" />
+              <xs:element minOccurs="0" name="sdfNm" type="xs:string" />
+              <xs:element minOccurs="0" name="sfcCd" type="xs:string" />
+              <xs:element minOccurs="0" name="shippingAddress" type="xs:string" />
+              <xs:element minOccurs="0" name="signpaperFlag" type="xs:string" />
+              <xs:element minOccurs="0" name="signtransferFlag" type="xs:string" />
+              <xs:element minOccurs="0" name="snFlag" type="xs:string" />
+              <xs:element minOccurs="0" name="specArea" type="xs:string" />
+              <xs:element minOccurs="0" name="sscCd" type="xs:string" />
+              <xs:element minOccurs="0" name="subDestination" type="xs:string" />
+              <xs:element minOccurs="0" name="tdFlag" type="xs:string" />
+              <xs:element minOccurs="0" name="transportRoute" type="xs:string" />
+              <xs:element minOccurs="0" name="tsType" type="xs:string" />
+              <xs:element minOccurs="0" name="unit" type="xs:string" />
+              <xs:element minOccurs="0" name="volumn" type="xs:string" />
+              <xs:element minOccurs="0" name="volumnUnit" type="xs:string" />
+              <xs:element minOccurs="0" name="weightUnit" type="xs:string" />
+              <xs:element minOccurs="0" name="whCode" type="xs:string" />
+              <xs:element minOccurs="0" name="yckTime" type="xs:dateTime" />
+              <xs:element minOccurs="0" name="ydsscTime" type="xs:dateTime" />
+              <xs:element minOccurs="0" name="ydwdTime" type="xs:dateTime" />
+              <xs:element minOccurs="0" name="ywlyCd" type="xs:string" />
+              <xs:element minOccurs="0" name="yythTime" type="xs:dateTime" />
+              <xs:element minOccurs="0" name="yyyhTime" type="xs:dateTime" />
+              <xs:element minOccurs="0" name="zxCd" type="xs:string" />
+              <xs:element minOccurs="0" name="zyFlag" type="xs:string" />
+              <xs:element minOccurs="0" name="zyypFlag" type="xs:string" />
+            </xs:sequence>
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType name="queryDBCKOrderResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:handResp" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="handResp">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:string" />
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="list" nillable="true" type="tns:baseUserDomain" />
+          <xs:element minOccurs="0" name="msg" type="xs:string" />
+          <xs:element minOccurs="0" name="value" type="xs:string" />
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="values" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="baseUserDomain">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:pagination">
+            <xs:sequence>
+              <xs:element minOccurs="0" name="buzCode" type="xs:string" />
+              <xs:element minOccurs="0" name="code" type="xs:string" />
+              <xs:element minOccurs="0" name="dockCode" type="xs:string" />
+              <xs:element minOccurs="0" name="dockName" type="xs:string" />
+              <xs:element minOccurs="0" name="factoryCode" type="xs:string" />
+              <xs:element minOccurs="0" name="factoryName" type="xs:string" />
+              <xs:element minOccurs="0" name="factoryType" type="xs:string" />
+              <xs:element minOccurs="0" name="loginName" type="xs:string" />
+              <xs:element minOccurs="0" name="name" type="xs:string" />
+              <xs:element minOccurs="0" name="normalUserBuzType" type="xs:string" />
+              <xs:element minOccurs="0" name="regionCode" type="xs:string" />
+              <xs:element minOccurs="0" name="regionDesc" type="xs:string" />
+              <xs:element minOccurs="0" name="sapFactoryCode" type="xs:string" />
+              <xs:element minOccurs="0" name="sapFactoryName" type="xs:string" />
+              <xs:element minOccurs="0" name="userDefined3" type="xs:string" />
+              <xs:element minOccurs="0" name="userTypeCode" type="xs:string" />
+              <xs:element minOccurs="0" name="warehouseCode" type="xs:string" />
+              <xs:element minOccurs="0" name="warehouseName" type="xs:string" />
+              <xs:element minOccurs="0" name="warehouseType" type="xs:string" />
+              <xs:element minOccurs="0" name="workareaCode" type="xs:string" />
+              <xs:element minOccurs="0" name="workareaName" type="xs:string" />
+            </xs:sequence>
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType name="pagination">
+        <xs:sequence>
+          <xs:element name="currentPage" type="xs:int" />
+          <xs:element name="pageSize" type="xs:int" />
+          <xs:element name="startIndex" type="xs:int" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="stgProOrderHlmp">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="arg0" type="tns:stgProOrderHlmpVO" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="stgProOrderHlmpVO">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="bstkd" type="xs:string" />
+          <xs:element minOccurs="0" name="carLicen" type="xs:string" />
+          <xs:element minOccurs="0" name="deliveryOrderCode" type="xs:string" />
+          <xs:element minOccurs="0" name="factoryCode" type="xs:string" />
+          <xs:element minOccurs="0" name="gmCode" type="xs:string" />
+          <xs:element minOccurs="0" name="gmName" type="xs:string" />
+          <xs:element minOccurs="0" name="madeIn" type="xs:string" />
+          <xs:element minOccurs="0" name="materialCode" type="xs:string" />
+          <xs:element minOccurs="0" name="materialSece" type="xs:string" />
+          <xs:element minOccurs="0" name="nxOutCode" type="xs:string" />
+          <xs:element minOccurs="0" name="orderAmount" type="xs:decimal" />
+          <xs:element minOccurs="0" name="phoneNumber" type="xs:string" />
+          <xs:element minOccurs="0" name="proFactory" type="xs:string" />
+          <xs:element minOccurs="0" name="proOutFrom" type="xs:string" />
+          <xs:element minOccurs="0" name="rowItem" type="xs:string" />
+          <xs:element minOccurs="0" name="saleUnit" type="xs:string" />
+          <xs:element minOccurs="0" name="sapFactoryCode" type="xs:string" />
+          <xs:element minOccurs="0" name="tdCode" type="xs:string" />
+          <xs:element minOccurs="0" name="tdName" type="xs:string" />
+          <xs:element minOccurs="0" name="trainNumber" type="xs:string" />
+          <xs:element minOccurs="0" name="ydCreatedTime" type="xs:dateTime" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="stgProOrderHlmpResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:handResp" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="rfToHlesTest">
+        <xs:sequence />
+      </xs:complexType>
+      <xs:complexType name="rfToHlesTestResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+    </xs:schema>
+  </wsdl:types>
+  <wsdl:message name="recSnFromHackMacResponse">
+    <wsdl:part name="parameters" element="tns:recSnFromHackMacResponse" />
+  </wsdl:message>
+  <wsdl:message name="LtkBhResponse">
+    <wsdl:part name="parameters" element="tns:LtkBhResponse" />
+  </wsdl:message>
+  <wsdl:message name="queryDBCKOrderResponse">
+    <wsdl:part name="parameters" element="tns:queryDBCKOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="LtkBh">
+    <wsdl:part name="parameters" element="tns:LtkBh" />
+  </wsdl:message>
+  <wsdl:message name="cancelKdOrders">
+    <wsdl:part name="parameters" element="tns:cancelKdOrders" />
+  </wsdl:message>
+  <wsdl:message name="rfGetSysDate">
+    <wsdl:part name="parameters" element="tns:rfGetSysDate" />
+  </wsdl:message>
+  <wsdl:message name="stgProOrderHlmpResponse">
+    <wsdl:part name="parameters" element="tns:stgProOrderHlmpResponse" />
+  </wsdl:message>
+  <wsdl:message name="recClearFromHackMac">
+    <wsdl:part name="parameters" element="tns:recClearFromHackMac" />
+  </wsdl:message>
+  <wsdl:message name="recFinishFromHackMac">
+    <wsdl:part name="parameters" element="tns:recFinishFromHackMac" />
+  </wsdl:message>
+  <wsdl:message name="recSnFromHackMac">
+    <wsdl:part name="parameters" element="tns:recSnFromHackMac" />
+  </wsdl:message>
+  <wsdl:message name="rfGetSysDateResponse">
+    <wsdl:part name="parameters" element="tns:rfGetSysDateResponse" />
+  </wsdl:message>
+  <wsdl:message name="rfToHlesTest">
+    <wsdl:part name="parameters" element="tns:rfToHlesTest" />
+  </wsdl:message>
+  <wsdl:message name="ILtkInResponse">
+    <wsdl:part name="parameters" element="tns:ILtkInResponse" />
+  </wsdl:message>
+  <wsdl:message name="StackerCraneBHResponse">
+    <wsdl:part name="parameters" element="tns:StackerCraneBHResponse" />
+  </wsdl:message>
+  <wsdl:message name="backFlush">
+    <wsdl:part name="parameters" element="tns:backFlush" />
+  </wsdl:message>
+  <wsdl:message name="recClearFromHackMacResponse">
+    <wsdl:part name="parameters" element="tns:recClearFromHackMacResponse" />
+  </wsdl:message>
+  <wsdl:message name="StackerCraneBH">
+    <wsdl:part name="parameters" element="tns:StackerCraneBH" />
+  </wsdl:message>
+  <wsdl:message name="cancelKdOrdersResponse">
+    <wsdl:part name="parameters" element="tns:cancelKdOrdersResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILtkIn">
+    <wsdl:part name="parameters" element="tns:ILtkIn" />
+  </wsdl:message>
+  <wsdl:message name="rfToHlesTestResponse">
+    <wsdl:part name="parameters" element="tns:rfToHlesTestResponse" />
+  </wsdl:message>
+  <wsdl:message name="recFinishFromHackMacResponse">
+    <wsdl:part name="parameters" element="tns:recFinishFromHackMacResponse" />
+  </wsdl:message>
+  <wsdl:message name="backLash">
+    <wsdl:part name="parameters" element="tns:backLash" />
+  </wsdl:message>
+  <wsdl:message name="backLashResponse">
+    <wsdl:part name="parameters" element="tns:backLashResponse" />
+  </wsdl:message>
+  <wsdl:message name="queryDBCKOrder">
+    <wsdl:part name="parameters" element="tns:queryDBCKOrder" />
+  </wsdl:message>
+  <wsdl:message name="backFlushResponse">
+    <wsdl:part name="parameters" element="tns:backFlushResponse" />
+  </wsdl:message>
+  <wsdl:message name="stgProOrderHlmp">
+    <wsdl:part name="parameters" element="tns:stgProOrderHlmp" />
+  </wsdl:message>
+  <wsdl:portType name="RfWebService">
+    <wsdl:operation name="LtkBh">
+      <wsdl:input name="LtkBh" message="tns:LtkBh" />
+      <wsdl:output name="LtkBhResponse" message="tns:LtkBhResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="backFlush">
+      <wsdl:input name="backFlush" message="tns:backFlush" />
+      <wsdl:output name="backFlushResponse" message="tns:backFlushResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="cancelKdOrders">
+      <wsdl:input name="cancelKdOrders" message="tns:cancelKdOrders" />
+      <wsdl:output name="cancelKdOrdersResponse" message="tns:cancelKdOrdersResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="rfGetSysDate">
+      <wsdl:input name="rfGetSysDate" message="tns:rfGetSysDate" />
+      <wsdl:output name="rfGetSysDateResponse" message="tns:rfGetSysDateResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="StackerCraneBH">
+      <wsdl:input name="StackerCraneBH" message="tns:StackerCraneBH" />
+      <wsdl:output name="StackerCraneBHResponse" message="tns:StackerCraneBHResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="ILtkIn">
+      <wsdl:input name="ILtkIn" message="tns:ILtkIn" />
+      <wsdl:output name="ILtkInResponse" message="tns:ILtkInResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="recClearFromHackMac">
+      <wsdl:input name="recClearFromHackMac" message="tns:recClearFromHackMac" />
+      <wsdl:output name="recClearFromHackMacResponse" message="tns:recClearFromHackMacResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="recFinishFromHackMac">
+      <wsdl:input name="recFinishFromHackMac" message="tns:recFinishFromHackMac" />
+      <wsdl:output name="recFinishFromHackMacResponse" message="tns:recFinishFromHackMacResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="backLash">
+      <wsdl:input name="backLash" message="tns:backLash" />
+      <wsdl:output name="backLashResponse" message="tns:backLashResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="recSnFromHackMac">
+      <wsdl:input name="recSnFromHackMac" message="tns:recSnFromHackMac" />
+      <wsdl:output name="recSnFromHackMacResponse" message="tns:recSnFromHackMacResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="queryDBCKOrder">
+      <wsdl:input name="queryDBCKOrder" message="tns:queryDBCKOrder" />
+      <wsdl:output name="queryDBCKOrderResponse" message="tns:queryDBCKOrderResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="stgProOrderHlmp">
+      <wsdl:input name="stgProOrderHlmp" message="tns:stgProOrderHlmp" />
+      <wsdl:output name="stgProOrderHlmpResponse" message="tns:stgProOrderHlmpResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="rfToHlesTest">
+      <wsdl:input name="rfToHlesTest" message="tns:rfToHlesTest" />
+      <wsdl:output name="rfToHlesTestResponse" message="tns:rfToHlesTestResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="RfWebServiceImplServiceSoapBinding" type="tns:RfWebService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="LtkBh">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="LtkBh">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="LtkBhResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="backFlush">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="backFlush">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="backFlushResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="cancelKdOrders">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="cancelKdOrders">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="cancelKdOrdersResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="rfGetSysDate">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="rfGetSysDate">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="rfGetSysDateResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="StackerCraneBH">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="StackerCraneBH">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="StackerCraneBHResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ILtkIn">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="ILtkIn">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="ILtkInResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="recClearFromHackMac">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="recClearFromHackMac">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="recClearFromHackMacResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="recFinishFromHackMac">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="recFinishFromHackMac">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="recFinishFromHackMacResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="backLash">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="backLash">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="backLashResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="recSnFromHackMac">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="recSnFromHackMac">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="recSnFromHackMacResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="queryDBCKOrder">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="queryDBCKOrder">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="queryDBCKOrderResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="stgProOrderHlmp">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="stgProOrderHlmp">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="stgProOrderHlmpResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="rfToHlesTest">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="rfToHlesTest">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="rfToHlesTestResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="RfWebServiceImplService">
+    <wsdl:port name="RfWebServiceImplPort" binding="tns:RfWebServiceImplServiceSoapBinding">
+      <soap:address location="http://wcsweb.cosmoim-lsb.haier.net/cosmowcs/soap/rf" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

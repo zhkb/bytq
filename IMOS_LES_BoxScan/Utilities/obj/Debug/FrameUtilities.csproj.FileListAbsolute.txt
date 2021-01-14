@@ -1,0 +1,9 @@
+E:\学习\Src\New Frame\NewFrame\FrameUtilities\obj\Debug\FrameUtilities.Properties.Resources.resources
+E:\学习\Src\New Frame\NewFrame\FrameUtilities\obj\Debug\FrameUtilities.csproj.GenerateResource.Cache
+E:\学习\Src\New Frame\NewFrame\FrameUtilities\obj\Debug\FrameUtilities.BaseForm.resources
+E:\学习\Src\New Frame\NewFrame\FrameUtilities\bin\Debug\FrameUtilities.exe.config
+E:\学习\Src\New Frame\NewFrame\FrameUtilities\bin\Debug\FrameUtilities.exe
+E:\学习\Src\New Frame\NewFrame\FrameUtilities\bin\Debug\FrameUtilities.pdb
+E:\学习\Src\New Frame\NewFrame\FrameUtilities\obj\Debug\FrameUtilities.exe
+E:\学习\Src\New Frame\NewFrame\FrameUtilities\obj\Debug\FrameUtilities.pdb
+E:\学习\Src\New Frame\NewFrame\FrameUtilities\obj\Debug\FrameUtilities.csprojResolveAssemblyReference.cache

@@ -1,0 +1,428 @@
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Material.dll.config
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Material.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Material.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\ControlLogic.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Sys.Config.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\System.Net.Http.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Communication.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\MySql.Data.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\System.Net.Http.xml
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\Communication.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.csprojResolveAssemblyReference.cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.FrmDownMaterInfo.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterial.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterialList.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterialModify.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterialType.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterialTypeModify.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.Properties.Resources.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.csproj.GenerateResource.Cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\ModuleForm\Material\obj\Debug\Material.pdb
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\Material.dll.config
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\Material.dll
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\Material.pdb
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\ControlLogic.dll
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\Frame.Utilities.dll
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\Sys.Config.dll
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\Sys.DbUtilities.dll
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\Sys.SysBusiness.dll
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\System.Net.Http.dll
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\Communication.dll
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\MySql.Data.dll
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\System.Data.SQLite.dll
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\Interop.ACTMULTILib.dll
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\Sys.Config.pdb
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\ControlLogic.pdb
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\Sys.DbUtilities.pdb
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\Sys.SysBusiness.pdb
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\Frame.Utilities.pdb
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\System.Net.Http.xml
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\Communication.pdb
+E:\1.工作代码\Mixing\ModuleForm\Material\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\1.工作代码\Mixing\ModuleForm\Material\obj\Debug\Material.csprojResolveAssemblyReference.cache
+E:\1.工作代码\Mixing\ModuleForm\Material\obj\Debug\Material.FrmDownMaterInfo.resources
+E:\1.工作代码\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterial.resources
+E:\1.工作代码\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterialList.resources
+E:\1.工作代码\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterialModify.resources
+E:\1.工作代码\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterialType.resources
+E:\1.工作代码\Mixing\ModuleForm\Material\obj\Debug\Material.FrmMaterialTypeModify.resources
+E:\1.工作代码\Mixing\ModuleForm\Material\obj\Debug\Material.Properties.Resources.resources
+E:\1.工作代码\Mixing\ModuleForm\Material\obj\Debug\Material.csproj.GenerateResource.Cache
+E:\1.工作代码\Mixing\ModuleForm\Material\obj\Debug\Material.dll
+E:\1.工作代码\Mixing\ModuleForm\Material\obj\Debug\Material.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\Material.dll.config
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\Material.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\Material.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\Communication.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\MySql.Data.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\Communication.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\obj\Debug\Material.csprojResolveAssemblyReference.cache
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmDownMaterInfo.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterial.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialList.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialModify.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialType.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialTypeModify.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\obj\Debug\Material.Properties.Resources.resources
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\obj\Debug\Material.csproj.GenerateResource.Cache
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\obj\Debug\Material.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\obj\Debug\Material.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\Authority.dll
+E:\0.工作任务\6-上位新框架\SysFrame\ModuleForm\Material\bin\Debug\Authority.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Material.dll.config
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Material.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Material.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Authority.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Communication.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Register.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\MySql.Data.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\SysBusiness.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Authority.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Communication.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmDownMaterInfo.resources
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterial.resources
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialList.resources
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialModify.resources
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialType.resources
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialTypeModify.resources
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.Properties.Resources.resources
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.csproj.GenerateResource.Cache
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.dll
+E:\0.工作任务\0.2019年\0.Project_Company\5.蔚蓝生物\2-项目执行\1-代码\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Material.dll.config
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Material.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Material.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Authority.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Communication.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Register.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\MySql.Data.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\SysBusiness.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Authority.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\bin\Debug\Communication.pdb
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmDownMaterInfo.resources
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterial.resources
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialList.resources
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialModify.resources
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialType.resources
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialTypeModify.resources
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.Properties.Resources.resources
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.csproj.GenerateResource.Cache
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.dll
+E:\0.工作任务\0.2019年\0.Project_Company\300.标准框架\0.Source\SysFrame\ModuleForm\Material\obj\Debug\Material.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Material.dll.config
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Material.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Material.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Authority.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Communication.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Register.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\MySql.Data.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\SysBusiness.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Authority.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Communication.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmDownMaterInfo.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterial.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialList.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialModify.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialType.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialTypeModify.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.Properties.Resources.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.csproj.GenerateResource.Cache
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\31.印度NOIDA预装总装检测线\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Material.dll.config
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Material.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Material.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Authority.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Communication.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\MySql.Data.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Authority.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Communication.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmDownMaterInfo.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterial.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialList.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialModify.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialType.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialTypeModify.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.Properties.Resources.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.csproj.GenerateResource.Cache
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\33.印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Material.dll.config
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Material.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Material.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Authority.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Communication.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\MySql.Data.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Interop.ACTMULTILib.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Authority.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Communication.pdb
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.csprojResolveAssemblyReference.cache
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmDownMaterInfo.resources
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterial.resources
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialList.resources
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialModify.resources
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialType.resources
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialTypeModify.resources
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.Properties.Resources.resources
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.csproj.GenerateResource.Cache
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.dll
+E:\0.工作任务\1.2020项目\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Material.dll.config
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Material.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Material.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Authority.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Communication.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\MySql.Data.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\System.Data.SQLite.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Interop.ACTMULTILib.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Authority.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Communication.pdb
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.csprojResolveAssemblyReference.cache
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmDownMaterInfo.resources
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterial.resources
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialList.resources
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialModify.resources
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialType.resources
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialTypeModify.resources
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.Properties.Resources.resources
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.csproj.GenerateResource.Cache
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.dll
+E:\work\2020\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.pdb
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\Material.dll.config
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\Material.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\Material.pdb
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\Authority.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\Communication.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\MySql.Data.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\System.Data.SQLite.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\Interop.ACTMULTILib.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.pdb
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.pdb
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.pdb
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.pdb
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.pdb
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\Authority.pdb
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\bin\Debug\Communication.pdb
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\obj\Debug\Material.csprojResolveAssemblyReference.cache
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmDownMaterInfo.resources
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterial.resources
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialList.resources
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialModify.resources
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialType.resources
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialTypeModify.resources
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\obj\Debug\Material.Properties.Resources.resources
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\obj\Debug\Material.csproj.GenerateResource.Cache
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\obj\Debug\Material.dll
+D:\工作代码\印度空调\SysFrame\ModuleForm\Material\obj\Debug\Material.pdb
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\Material.dll.config
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\Material.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\Material.pdb
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\Authority.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\Communication.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\MySql.Data.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\System.Data.SQLite.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\Interop.ACTMULTILib.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.pdb
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.pdb
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.pdb
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.pdb
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.pdb
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\Authority.pdb
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\bin\Debug\Communication.pdb
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\obj\Debug\Material.csprojResolveAssemblyReference.cache
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmDownMaterInfo.resources
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterial.resources
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialList.resources
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialModify.resources
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialType.resources
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialTypeModify.resources
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\obj\Debug\Material.Properties.Resources.resources
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\obj\Debug\Material.csproj.GenerateResource.Cache
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\obj\Debug\Material.dll
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\obj\Debug\Material.pdb
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmWeighStandard.resources
+D:\工作代码\新建文件夹\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmWeightStandardModify.resources
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Material.dll.config
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Material.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Material.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Authority.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Communication.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\MySql.Data.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\System.Data.SQLite.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Interop.ACTMULTILib.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Authority.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Communication.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.csprojResolveAssemblyReference.cache
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmDownMaterInfo.resources
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterial.resources
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialList.resources
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialModify.resources
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialType.resources
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialTypeModify.resources
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmWeighStandard.resources
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmWeightStandardModify.resources
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.Properties.Resources.resources
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.csproj.GenerateResource.Cache
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.dll
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.pdb
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmQualityItem.resources
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmQualityItemModify.resources
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmQualityDetailModify.resources
+D:\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\BarcodeLib.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Material.dll.config
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Material.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Material.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Authority.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Communication.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\MySql.Data.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\System.Data.SQLite.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\BarcodeLib.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Interop.ACTMULTILib.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.Config.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\ControlLogic.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.DbUtilities.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Sys.SysBusiness.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Authority.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Communication.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmDownMaterInfo.resources
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterial.resources
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialList.resources
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialModify.resources
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialType.resources
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmMaterialTypeModify.resources
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmQualityDetailModify.resources
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmQualityItem.resources
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmQualityItemModify.resources
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmWeighStandard.resources
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.FrmWeightStandardModify.resources
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.Properties.Resources.resources
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.csproj.GenerateResource.Cache
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.dll
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.pdb
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\bin\Debug\Frame.Utilities.dll.config
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.csprojAssemblyReference.cache
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.csproj.CoreCompileInputs.cache
+D:\SVN\01.Q20-HE01 印度空调\2-项目执行\1-代码\SysFrame\ModuleForm\Material\obj\Debug\Material.csproj.CopyComplete

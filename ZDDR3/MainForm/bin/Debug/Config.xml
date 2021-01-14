@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <!-- 主程序名称 -->
+
+    <add key="DataBaseType" value="SqlServer"/>
+    <add key="ServerDataBaseType" value="MySql"/>
+
+    <!--add key="ServerDbConnection" value="server=10.181.192.211;port=3306;user id=cosmo_zddr;password=cosmo_zddr1054;database=cosmo_im_1054;charset=utf8" /-->
+    <add key="ServerDbConnection" value="server=127.0.0.1;port=3306;user id=root;password=root;database=cosmo_im_1054;charset=utf8" />
+    <add key="BusinessDbConnection" value="server=(local);database=Haier_ZDDR;user=sa;pwd=123;MultipleActiveResultSets=true" />
+
+    <!--公司编号-->
+    <add key="CompanyID" value="1001" />
+    <add key="CompanyCode" value="C001" />
+    <add key="CompanyName" value="海尔集团" />
+    <!--工厂编号-->
+    <add key="FactoryID" value="2001" />
+    <add key="FactoryCode" value="F001" />
+    <add key="FactoryName" value="中德电热" />
+    <!--产线编号-->
+    <add key="ProductLineID" value="3001" />
+    <add key="ProductLineCode" value="L001" />
+    <add key="ProductLineName" value="电热总装线体" />
+
+    <!--系统类型 -->
+    <add key="SystemType" value="1" />
+
+    <!-- 系统更新IP地址-->
+    <add key="App_AutoUpdateIP" value="127.0.0.1" />
+    <!-- 系统更新端口-->
+    <add key="App_AutoUpdatePort" value="8040" />
+    <!-- 系统更新文件目录-->
+    <add key="App_AutoUpdateDir" value="DownLoad" />
+    <!-- 程序是否进行过升级-->
+    <add key="App_AutoUpdateFinish" value="false" />
+    <!-- 系统更新是否成功-->
+    <add key="App_AutoUpdateSuccess" value="false" />
+    <!-- 升级完成要打开的程序文件-->
+    <add key="App_AutoExecuteName" value="IMOS.PTS.exe" />
+    <!-- 更新检查时间间隔-->
+    <add key="App_UpdateInterval" value="5" />
+    <!-- 当前系统版本-->
+    <add key="App_Version" value="中德电热系统 版本信息：1.0.0" />
+
+    <!-- PLC 相关 PLC 类型 1 三菱 2 西门子-->
+    <add key="PLCType" value="1" />
+
+    <!-- 是否启用PLC-->
+    <add key="PLC_UseFlag" value="true" />
+    <!-- 西门子PLC网络IP地址-->
+    <add key="MasterPLCIP_First" value="127.0.0.1" />
+    <add key="MasterPLCIP_Sencond" value="127.0.0.1" />
+    <!--三菱PLC站号-->
+    <add key="MasterPLCStation_First" value="1" />
+    <add key="MasterPLCStation_Sencond" value="2" />
+
+    <add key="CurrentUserID" value="2" />
+    <add key="CurrentUserCode" value="admin" />
+
+    <!-- 101 放下端盖 102 能耗贴 103 铭牌打印 104 终检 105 自动返修 106 铭牌打印 107 发泡称重 108 堆垛机-->
+
+    <add key="CurrentProcessCode" value="108"/>
+    <add key="CurrentProcessName" value="终检扫描"/>
+
+    <add key="CurrentProcessCode_Sec" value="105"/>
+    <add key="CurrentProcessName_Sec" value="自动返修"/>
+
+    <!--默认窗口 FrmFoamingWeigh  FrmQuality-->
+    <!--<add key="ApplicationSource" value="Monitor"/>
+    <add key="ApplicationForm" value="FrmCradPrint"/>
+    <add key="ApplicationTitle" value="中德电热总装终检返修扫描系统"/>-->
+    <add key="ApplicationSource" value="Monitor"/>
+    <add key="ApplicationForm" value="FrmStack"/>
+    <add key="ApplicationTitle" value="中德电热水器码垛管理系统"/>
+    
+    
+
+    <!-- 扫码器 以太网通讯 IP地址 端口号 -->
+    <add key="BarScanIP_1" value="127.0.0.1"/>
+    <add key="BarScanPort_1" value="2112"/>
+
+    <add key="BarScanIP_2" value="127.0.0.1"/>
+    <add key="BarScanPort_2" value="2112"/>
+
+    <add key="BarScanIP_3" value="127.0.0.1"/>
+    <add key="BarScanPort_3" value="2112"/>
+
+    <add key="BarScanIP_4" value="127.0.0.1"/>
+    <add key="BarScanPort_4" value="2112"/>
+
+    <add key="BarScanIP_5" value="127.0.0.1"/>
+    <add key="BarScanPort_5" value="2112"/>
+    
+    <!--扫码器 串口通讯 串口号-->
+    <add key="SerialPortName1" value="COM1"/>
+    <add key="SerialPortName2" value="COM2"/>
+    <add key="SerialPortName3" value="COM3"/>
+    <add key="SerialPortName4" value="COM2"/>
+    <add key="SerialPortName5" value="COM3"/>
+    
+    <!-- 打印机配置-->    
+    <add key="EnergyPrinterName1" value="一号能效贴打印机"/>
+    <add key="EnergyPrinterName2" value="二号能效贴打印机"/>
+    <add key="EnergyPrinterName3" value="Microsoft Print to PDF"/>
+
+
+    <!-- 堆垛机-->
+    <add key="IPAddress1" value="127.0.0.1"/>
+    <add key="IPEndPoint1" value="3112"/>
+
+
+    <!-- 记录当前的库位信息,前一个库位信息-->
+    <add key="CurrentStoreCode" value="1002"/>
+    <add key="PreviousStoreCode" value="1001"/>
+    
+    <add key="FactoryNumber" value="1054"/>
+    <add key="webServiceAddress" value="http://wcsweb.cosmoim-lsb.haier.net/cosmowcs/soap/rf?wsdl"/>
+  </appSettings>
+</configuration>

@@ -1,0 +1,132 @@
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Config\bin\Debug\Sys.Config.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Config\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Config\bin\Debug\System.Net.Http.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Config\bin\Debug\System.Net.Http.xml
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Config\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Config\obj\Debug\Sys.Config.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Config\obj\Debug\Sys.Config.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Config\obj\Debug\Sys.Config.csprojResolveAssemblyReference.cache
+E:\1.工作代码\Mixing\Config\bin\Debug\Sys.Config.dll
+E:\1.工作代码\Mixing\Config\bin\Debug\Sys.Config.pdb
+E:\1.工作代码\Mixing\Config\bin\Debug\System.Net.Http.dll
+E:\1.工作代码\Mixing\Config\bin\Debug\System.Net.Http.xml
+E:\1.工作代码\Mixing\Config\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\1.工作代码\Mixing\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+E:\1.工作代码\Mixing\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+E:\1.工作代码\Mixing\Config\obj\Debug\Sys.Config.dll
+E:\1.工作代码\Mixing\Config\obj\Debug\Sys.Config.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\Config\bin\Debug\Sys.Config.dll
+E:\0.工作任务\6-上位新框架\SysFrame\Config\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\Config\bin\Debug\System.Net.Http.dll
+E:\0.工作任务\6-上位新框架\SysFrame\Config\bin\Debug\System.Net.Http.xml
+E:\0.工作任务\6-上位新框架\SysFrame\Config\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\0.工作任务\6-上位新框架\SysFrame\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+E:\0.工作任务\6-上位新框架\SysFrame\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+E:\0.工作任务\6-上位新框架\SysFrame\Config\obj\Debug\Sys.Config.dll
+E:\0.工作任务\6-上位新框架\SysFrame\Config\obj\Debug\Sys.Config.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\Config\bin\Debug\Sys.Config.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\Config\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\Config\obj\Debug\Sys.Config.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\Config\obj\Debug\Sys.Config.pdb
+E:\Richard\Projects\TEST\SysFrame\Config\bin\Debug\Sys.Config.dll
+E:\Richard\Projects\TEST\SysFrame\Config\bin\Debug\Sys.Config.pdb
+E:\Richard\Projects\TEST\SysFrame\Config\bin\Debug\System.Net.Http.dll
+E:\Richard\Projects\TEST\SysFrame\Config\bin\Debug\System.Net.Http.xml
+E:\Richard\Projects\TEST\SysFrame\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+E:\Richard\Projects\TEST\SysFrame\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+E:\Richard\Projects\TEST\SysFrame\Config\obj\Debug\Sys.Config.dll
+E:\Richard\Projects\TEST\SysFrame\Config\obj\Debug\Sys.Config.pdb
+E:\Richard\Projects\TEST\SysFrame\Config\obj\Debug\Sys.Config.csprojResolveAssemblyReference.cache
+E:\Richard\Projects\Liudz\Haier\SysFrame\Config\bin\Debug\Sys.Config.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\Config\bin\Debug\Sys.Config.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\Config\bin\Debug\System.Net.Http.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\Config\bin\Debug\System.Net.Http.xml
+E:\Richard\Projects\Liudz\Haier\SysFrame\Config\obj\Debug\Sys.Config.csprojResolveAssemblyReference.cache
+E:\Richard\Projects\Liudz\Haier\SysFrame\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+E:\Richard\Projects\Liudz\Haier\SysFrame\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+E:\Richard\Projects\Liudz\Haier\SysFrame\Config\obj\Debug\Sys.Config.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\Config\obj\Debug\Sys.Config.pdb
+E:\Richard\Projects\Liudz2\中德电热\Config\bin\Debug\Sys.Config.dll
+E:\Richard\Projects\Liudz2\中德电热\Config\bin\Debug\Sys.Config.pdb
+E:\Richard\Projects\Liudz2\中德电热\Config\bin\Debug\System.Net.Http.dll
+E:\Richard\Projects\Liudz2\中德电热\Config\bin\Debug\System.Net.Http.xml
+E:\Richard\Projects\Liudz2\中德电热\Config\obj\Debug\Sys.Config.csprojResolveAssemblyReference.cache
+E:\Richard\Projects\Liudz2\中德电热\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+E:\Richard\Projects\Liudz2\中德电热\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+E:\Richard\Projects\Liudz2\中德电热\Config\obj\Debug\Sys.Config.dll
+E:\Richard\Projects\Liudz2\中德电热\Config\obj\Debug\Sys.Config.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\obj\Debug\Sys.Config.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\obj\Debug\Sys.Config.pdb
+I:\ZDDR\Config\bin\Debug\Sys.Config.dll
+I:\ZDDR\Config\bin\Debug\Sys.Config.pdb
+I:\ZDDR\Config\obj\Debug\Sys.Config.csprojResolveAssemblyReference.cache
+I:\ZDDR\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+I:\ZDDR\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+I:\ZDDR\Config\obj\Debug\Sys.Config.dll
+I:\ZDDR\Config\obj\Debug\Sys.Config.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\bin\Debug\Sys.Config.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\bin\Debug\Sys.Config.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\obj\Debug\Sys.Config.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\obj\Debug\Sys.Config.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\obj\Debug\Sys.Config.csprojResolveAssemblyReference.cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\bin\Debug\Sys.Config.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\bin\Debug\Sys.Config.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\obj\Debug\Sys.Config.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\obj\Debug\Sys.Config.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\obj\Debug\Sys.Config.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\Config\obj\Debug\Sys.Config.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR\Config\bin\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR\Config\bin\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR\Config\obj\Debug\Sys.Config.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+D:\WYF\xm\ZDDR\ZDDR\Config\obj\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR\Config\obj\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR2\Config\bin\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR2\Config\bin\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR2\Config\obj\Debug\Sys.Config.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR2\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR2\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+D:\WYF\xm\ZDDR\ZDDR2\Config\obj\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR2\Config\obj\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR3\Config\bin\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR3\Config\bin\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR3\Config\obj\Debug\Sys.Config.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR3\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR3\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+D:\WYF\xm\ZDDR\ZDDR3\Config\obj\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR3\Config\obj\Debug\Sys.Config.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\Config\bin\Debug\Sys.Config.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\Config\bin\Debug\Sys.Config.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\Config\obj\Debug\Sys.Config.csprojResolveAssemblyReference.cache
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\Config\obj\Debug\Sys.Config.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\Config\obj\Debug\Sys.Config.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Config\bin\Debug\Sys.Config.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Config\bin\Debug\Sys.Config.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Config\obj\Debug\Sys.Config.csprojResolveAssemblyReference.cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Config\obj\Debug\Sys.Config.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Config\obj\Debug\Sys.Config.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Config\bin\Debug\Sys.Config.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Config\bin\Debug\Sys.Config.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Config\obj\Debug\Sys.Config.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Config\obj\Debug\Sys.Config.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Config\obj\Debug\Sys.Config.csprojAssemblyReference.cache
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\Config\obj\Debug\Sys.Config.csproj.CoreCompileInputs.cache

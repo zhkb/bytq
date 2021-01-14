@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D6E749A-26D8-4E43-929E-ABAB2A9DF3A1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sys.SysBusiness</RootNamespace>
+    <AssemblyName>Sys.SysBusiness</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BarcodeLib, Version=1.2.0.0, Culture=neutral, PublicKeyToken=5f09bda868cc39e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarcodeLib.1.2.0.0\lib\net20\BarcodeLib.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FastReport, Version=1.8.30.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Register">
+      <HintPath>..\Register\Register.dll</HintPath>
+    </Reference>
+    <Reference Include="SysBusiness">
+      <HintPath>..\Register\SysBusiness.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDialog.Designer.cs">
+      <DependentUpon>FrmDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OptionSetting.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SysBusinessFunction.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Config\Sys.Config.csproj">
+      <Project>{9270162b-bc69-431b-850c-3afd0820dc2b}</Project>
+      <Name>Sys.Config</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DbUtilities\Sys.DbUtilities.csproj">
+      <Project>{3271fdd0-dda4-4819-93fc-1995f77d4355}</Project>
+      <Name>Sys.DbUtilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utilities\Sys.Utilities.csproj">
+      <Project>{6beb43c2-9c6c-4253-884b-5cf1f5c401be}</Project>
+      <Name>Sys.Utilities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmDialog.resx">
+      <DependentUpon>FrmDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\Infomation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\infomation_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\qustion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\infomation1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button2.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

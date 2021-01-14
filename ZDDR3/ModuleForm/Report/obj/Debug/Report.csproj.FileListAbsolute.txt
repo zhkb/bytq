@@ -1,0 +1,144 @@
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\bin\Debug\Report.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\bin\Debug\Report.pdb
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\bin\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\bin\Debug\Sys.DbUtilities.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\bin\Debug\Sys.SysBusiness.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\bin\Debug\MySql.Data.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\bin\Debug\System.Data.SQLite.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\bin\Debug\Frame.Utilities.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\bin\Debug\ThoughtWorks.QRCode.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\bin\Debug\BarcodeLib.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\bin\Debug\FastReport.Bars.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\bin\Debug\FastReport.Editor.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\bin\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\bin\Debug\Sys.DbUtilities.pdb
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\bin\Debug\Sys.SysBusiness.pdb
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\bin\Debug\FastReport.xml
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\bin\Debug\Frame.Utilities.pdb
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\obj\Debug\Report.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\obj\Debug\Report.EnergyReport.resources
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\obj\Debug\Report.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\obj\Debug\Report.dll
+D:\WYF\xm\ZDDR\ZDDR\ModuleForm\Report\obj\Debug\Report.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\bin\Debug\Report.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\bin\Debug\Report.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\bin\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\bin\Debug\Sys.DbUtilities.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\bin\Debug\Sys.SysBusiness.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\bin\Debug\MySql.Data.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\bin\Debug\System.Data.SQLite.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\bin\Debug\Frame.Utilities.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\bin\Debug\ThoughtWorks.QRCode.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\bin\Debug\BarcodeLib.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\bin\Debug\FastReport.Bars.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\bin\Debug\FastReport.Editor.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\bin\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\bin\Debug\Sys.DbUtilities.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\bin\Debug\Sys.SysBusiness.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\bin\Debug\FastReport.xml
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\bin\Debug\Frame.Utilities.pdb
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\obj\Debug\Report.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\obj\Debug\Report.EnergyReport.resources
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\obj\Debug\Report.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\obj\Debug\Report.dll
+D:\WYF\xm\ZDDR\ZDDR2\ModuleForm\Report\obj\Debug\Report.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\bin\Debug\Report.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\bin\Debug\Report.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\bin\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\bin\Debug\Sys.DbUtilities.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\bin\Debug\Sys.SysBusiness.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\bin\Debug\MySql.Data.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\bin\Debug\System.Data.SQLite.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\bin\Debug\Frame.Utilities.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\bin\Debug\ThoughtWorks.QRCode.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\bin\Debug\BarcodeLib.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\bin\Debug\FastReport.Bars.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\bin\Debug\FastReport.Editor.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\bin\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\bin\Debug\Sys.DbUtilities.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\bin\Debug\Sys.SysBusiness.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\bin\Debug\FastReport.xml
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\bin\Debug\Frame.Utilities.pdb
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\obj\Debug\Report.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\obj\Debug\Report.EnergyReport.resources
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\obj\Debug\Report.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\obj\Debug\Report.dll
+D:\WYF\xm\ZDDR\ZDDR3\ModuleForm\Report\obj\Debug\Report.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\bin\Debug\Report.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\bin\Debug\Report.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\bin\Debug\FastReport.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\bin\Debug\Sys.Config.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\bin\Debug\Sys.DbUtilities.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\bin\Debug\Sys.SysBusiness.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\bin\Debug\MySql.Data.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\bin\Debug\System.Data.SQLite.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\bin\Debug\Frame.Utilities.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\bin\Debug\ThoughtWorks.QRCode.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\bin\Debug\BarcodeLib.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\bin\Debug\FastReport.Bars.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\bin\Debug\FastReport.Editor.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\bin\Debug\Sys.Config.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\bin\Debug\Sys.DbUtilities.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\bin\Debug\Sys.SysBusiness.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\bin\Debug\FastReport.xml
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\bin\Debug\Frame.Utilities.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\obj\Debug\Report.csprojResolveAssemblyReference.cache
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\obj\Debug\Report.EnergyReport.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\obj\Debug\Report.Properties.Resources.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\obj\Debug\Report.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\ModuleForm\Report\obj\Debug\Report.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Report.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Report.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\FastReport.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Sys.Config.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Sys.DbUtilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Sys.SysBusiness.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\MySql.Data.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\System.Data.SQLite.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Frame.Utilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\ThoughtWorks.QRCode.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\BarcodeLib.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\FastReport.Bars.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\FastReport.Editor.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Sys.Config.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Sys.DbUtilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Sys.SysBusiness.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\FastReport.xml
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Frame.Utilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\obj\Debug\Report.csprojResolveAssemblyReference.cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\obj\Debug\Report.EnergyReport.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\obj\Debug\Report.Properties.Resources.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\obj\Debug\Report.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\obj\Debug\Report.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Report.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Report.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\FastReport.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Sys.Config.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Sys.DbUtilities.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Sys.SysBusiness.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\MySql.Data.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\System.Data.SQLite.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Frame.Utilities.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\ThoughtWorks.QRCode.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\BarcodeLib.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\FastReport.Bars.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\FastReport.Editor.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Sys.Config.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Sys.DbUtilities.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Sys.SysBusiness.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\FastReport.xml
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Frame.Utilities.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\obj\Debug\Report.EnergyReport.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\obj\Debug\Report.Properties.Resources.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\obj\Debug\Report.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\obj\Debug\Report.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\bin\Debug\Frame.Utilities.dll.config
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\obj\Debug\Report.csprojAssemblyReference.cache
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\obj\Debug\Report.csproj.CoreCompileInputs.cache
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\ModuleForm\Report\obj\Debug\Report.csproj.CopyComplete

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C1B87AEB-F787-4CE2-A449-233527CB0B5B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Login</RootNamespace>
+    <AssemblyName>Login</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>
+    </DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Register">
+      <HintPath>..\..\Register\Register.dll</HintPath>
+    </Reference>
+    <Reference Include="SysBusiness">
+      <HintPath>..\..\Register\SysBusiness.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmLESUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLESUser.designer.cs">
+      <DependentUpon>FrmLESUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPassWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPassWord.designer.cs">
+      <DependentUpon>FrmPassWord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSelectUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSelectUser.designer.cs">
+      <DependentUpon>FrmSelectUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmLESUser.resx">
+      <DependentUpon>FrmLESUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPassWord.resx">
+      <DependentUpon>FrmPassWord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSelectUser.resx">
+      <DependentUpon>FrmSelectUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Config\Sys.Config.csproj">
+      <Project>{9270162b-bc69-431b-850c-3afd0820dc2b}</Project>
+      <Name>Sys.Config</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\DbUtilities\Sys.DbUtilities.csproj">
+      <Project>{3271fdd0-dda4-4819-93fc-1995f77d4355}</Project>
+      <Name>Sys.DbUtilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SysBusiness\Sys.SysBusiness.csproj">
+      <Project>{2d6e749a-26d8-4e43-929e-abab2a9df3a1}</Project>
+      <Name>Sys.SysBusiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Utilities\Sys.Utilities.csproj">
+      <Project>{6beb43c2-9c6c-4253-884b-5cf1f5c401be}</Project>
+      <Name>Sys.Utilities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\图片1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\haier.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\haier_logo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

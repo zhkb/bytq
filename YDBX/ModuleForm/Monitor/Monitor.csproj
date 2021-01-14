@@ -1,0 +1,548 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BE6FDFB9-FFBF-49F2-A87F-79B19EFBFE9E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Monitor</RootNamespace>
+    <AssemblyName>Monitor</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BoxBodyStore\FrmAddPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BoxBodyStore\FrmAddPlan.Designer.cs">
+      <DependentUpon>FrmAddPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BoxBodyStore\FrmBoxBodyStoreDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BoxBodyStore\FrmBoxBodyStoreDetail.Designer.cs">
+      <DependentUpon>FrmBoxBodyStoreDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BoxBodyStore\FrmBoxBodyStoreGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BoxBodyStore\FrmBoxBodyStoreGroup.Designer.cs">
+      <DependentUpon>FrmBoxBodyStoreGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BoxBodyStore\FrmBoxBodyStoreOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BoxBodyStore\FrmBoxBodyStoreOut.Designer.cs">
+      <DependentUpon>FrmBoxBodyStoreOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BoxBodyStore\FrmManual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BoxBodyStore\FrmManual.Designer.cs">
+      <DependentUpon>FrmManual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BoxBodyStore\FrmPlanTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BoxBodyStore\FrmPlanTask.Designer.cs">
+      <DependentUpon>FrmPlanTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BoxBodyStore\FrmStoreBin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BoxBodyStore\FrmStoreBin.Designer.cs">
+      <DependentUpon>FrmStoreBin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnEr\FrmEnErEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnEr\FrmEnErEdit.Designer.cs">
+      <DependentUpon>FrmEnErEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnEr\FrmEnErMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnEr\FrmEnErMonitor.Designer.cs">
+      <DependentUpon>FrmEnErMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnEr\FrmEnErMonitor2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnEr\FrmEnErMonitor2.designer.cs">
+      <DependentUpon>FrmEnErMonitor2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnEr\FrmEnErMonitor3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnEr\FrmEnErMonitor3.designer.cs">
+      <DependentUpon>FrmEnErMonitor3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnEr\FrmEnErMonitor4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnEr\FrmEnErMonitor4.designer.cs">
+      <DependentUpon>FrmEnErMonitor4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnEr\FrmEnModify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnEr\FrmEnModify.Designer.cs">
+      <DependentUpon>FrmEnModify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnEr\FrmGridding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnEr\FrmGridding.designer.cs">
+      <DependentUpon>FrmGridding.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnEr\FrmGridding2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnEr\FrmGridding2.designer.cs">
+      <DependentUpon>FrmGridding2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnEr\FrmGridding3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnEr\FrmGridding3.designer.cs">
+      <DependentUpon>FrmGridding3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnEr\FrmGridding4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnEr\FrmGridding4.designer.cs">
+      <DependentUpon>FrmGridding4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBoxDoor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBoxDoor.Designer.cs">
+      <DependentUpon>FrmBoxDoor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBoxDoorMatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBoxDoorMatch.Designer.cs">
+      <DependentUpon>FrmBoxDoorMatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBoxDoorMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBoxDoorMonitor.Designer.cs">
+      <DependentUpon>FrmBoxDoorMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFrontCacheBinModify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFrontCacheBinModify.Designer.cs">
+      <DependentUpon>FrmFrontCacheBinModify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFrontCachePlanModify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFrontCachePlanModify.Designer.cs">
+      <DependentUpon>FrmFrontCachePlanModify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFrontCacheStoreDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFrontCacheStoreDetail.designer.cs">
+      <DependentUpon>FrmFrontCacheStoreDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFrontCacheStoreMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFrontCacheStoreMonitor.Designer.cs">
+      <DependentUpon>FrmFrontCacheStoreMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BoxBodyStore\FrmBoxBodyStoreMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BoxBodyStore\FrmBoxBodyStoreMonitor.Designer.cs">
+      <DependentUpon>FrmBoxBodyStoreMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFrontCacheStorePlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFrontCacheStorePlan.Designer.cs">
+      <DependentUpon>FrmFrontCacheStorePlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewFrmPressorMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewFrmPressorMonitor.designer.cs">
+      <DependentUpon>NewFrmPressorMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPressorMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPressorMonitor.designer.cs">
+      <DependentUpon>FrmPressorMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmShowBoxBodyMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmShowBoxBodyMonitor.Designer.cs">
+      <DependentUpon>FrmShowBoxBodyMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStoreDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStoreDetail.designer.cs">
+      <DependentUpon>FrmStoreDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStoreMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStoreMonitor.Designer.cs">
+      <DependentUpon>FrmStoreMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UShell\FrmAddPlanUshell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UShell\FrmAddPlanUshell.Designer.cs">
+      <DependentUpon>FrmAddPlanUshell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UShell\FrmAssignBinNo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UShell\FrmAssignBinNo.Designer.cs">
+      <DependentUpon>FrmAssignBinNo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UShell\FrmOutRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UShell\FrmOutRecord.Designer.cs">
+      <DependentUpon>FrmOutRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UShell\FrmProductionMode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UShell\FrmProductionMode.Designer.cs">
+      <DependentUpon>FrmProductionMode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UShell\FrmStoreDetailUshell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UShell\FrmStoreDetailUshell.designer.cs">
+      <DependentUpon>FrmStoreDetailUshell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UShell\FrmUshellStoreIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UShell\FrmUshellStoreIN.designer.cs">
+      <DependentUpon>FrmUshellStoreIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UShell\FrmUshellStoreOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UShell\FrmUshellStoreOut.designer.cs">
+      <DependentUpon>FrmUshellStoreOut.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BoxBodyStore\FrmAddPlan.resx">
+      <DependentUpon>FrmAddPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BoxBodyStore\FrmBoxBodyStoreDetail.resx">
+      <DependentUpon>FrmBoxBodyStoreDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BoxBodyStore\FrmBoxBodyStoreGroup.resx">
+      <DependentUpon>FrmBoxBodyStoreGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BoxBodyStore\FrmBoxBodyStoreOut.resx">
+      <DependentUpon>FrmBoxBodyStoreOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BoxBodyStore\FrmManual.resx">
+      <DependentUpon>FrmManual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BoxBodyStore\FrmPlanTask.resx">
+      <DependentUpon>FrmPlanTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BoxBodyStore\FrmStoreBin.resx">
+      <DependentUpon>FrmStoreBin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnEr\FrmEnErEdit.resx">
+      <DependentUpon>FrmEnErEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnEr\FrmEnErMonitor.en-US.resx">
+      <DependentUpon>FrmEnErMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnEr\FrmEnErMonitor.resx">
+      <DependentUpon>FrmEnErMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnEr\FrmEnErMonitor2.en-US.resx">
+      <DependentUpon>FrmEnErMonitor2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnEr\FrmEnErMonitor2.resx">
+      <DependentUpon>FrmEnErMonitor2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnEr\FrmEnErMonitor3.en-US.resx">
+      <DependentUpon>FrmEnErMonitor3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnEr\FrmEnErMonitor3.resx">
+      <DependentUpon>FrmEnErMonitor3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnEr\FrmEnErMonitor4.en-US.resx">
+      <DependentUpon>FrmEnErMonitor4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnEr\FrmEnErMonitor4.resx">
+      <DependentUpon>FrmEnErMonitor4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnEr\FrmEnModify.resx">
+      <DependentUpon>FrmEnModify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnEr\FrmGridding.en-US.resx">
+      <DependentUpon>FrmGridding.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnEr\FrmGridding.resx">
+      <DependentUpon>FrmGridding.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnEr\FrmGridding2.en-US.resx">
+      <DependentUpon>FrmGridding2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnEr\FrmGridding2.resx">
+      <DependentUpon>FrmGridding2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnEr\FrmGridding3.en-US.resx">
+      <DependentUpon>FrmGridding3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnEr\FrmGridding3.resx">
+      <DependentUpon>FrmGridding3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnEr\FrmGridding4.en-US.resx">
+      <DependentUpon>FrmGridding4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnEr\FrmGridding4.resx">
+      <DependentUpon>FrmGridding4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBoxDoor.resx">
+      <DependentUpon>FrmBoxDoor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBoxDoorMatch.resx">
+      <DependentUpon>FrmBoxDoorMatch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBoxDoorMonitor.resx">
+      <DependentUpon>FrmBoxDoorMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFrontCacheBinModify.resx">
+      <DependentUpon>FrmFrontCacheBinModify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFrontCachePlanModify.resx">
+      <DependentUpon>FrmFrontCachePlanModify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFrontCacheStoreDetail.resx">
+      <DependentUpon>FrmFrontCacheStoreDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFrontCacheStoreMonitor.resx">
+      <DependentUpon>FrmFrontCacheStoreMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BoxBodyStore\FrmBoxBodyStoreMonitor.resx">
+      <DependentUpon>FrmBoxBodyStoreMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFrontCacheStorePlan.resx">
+      <DependentUpon>FrmFrontCacheStorePlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewFrmPressorMonitor.resx">
+      <DependentUpon>NewFrmPressorMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPressorMonitor.resx">
+      <DependentUpon>FrmPressorMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmShowBoxBodyMonitor.resx">
+      <DependentUpon>FrmShowBoxBodyMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStoreDetail.resx">
+      <DependentUpon>FrmStoreDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStoreMonitor.resx">
+      <DependentUpon>FrmStoreMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\Monitor.BoxBodyStore.FrmAddPlan.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.BoxBodyStore.FrmManual.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.BoxBodyStore.FrmPlanTask.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.BoxBodyStore.FrmStoreBin.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmBoxBodyStoreDetail.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmBoxBodyStoreGroup.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmBoxBodyStoreMonitor.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmBoxBodyStoreOut.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmBoxDoorMatch.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmBoxDoorMonitor.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmEnErEdit.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmEnErMonitor.en-US.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmEnErMonitor.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmEnErMonitor2.en-US.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmEnErMonitor2.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmEnErMonitor3.en-US.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmEnErMonitor3.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmEnErMonitor4.en-US.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmEnErMonitor4.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmEnModify.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmFrontCacheBinModify.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmFrontCachePlanModify.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmFrontCacheStoreMonitor.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmFrontCacheStorePlan.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmGridding.en-US.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmGridding.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmGridding2.en-US.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmGridding2.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmGridding3.en-US.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmGridding3.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmGridding4.en-US.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmGridding4.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmPressorMonitor.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmStoreDetail.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.FrmStoreMonitor.resources" />
+    <EmbeddedResource Include="obj\Debug\Monitor.Properties.Resources.resources" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UShell\FrmAddPlanUshell.resx">
+      <DependentUpon>FrmAddPlanUshell.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UShell\FrmAssignBinNo.resx">
+      <DependentUpon>FrmAssignBinNo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UShell\FrmOutRecord.resx">
+      <DependentUpon>FrmOutRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UShell\FrmProductionMode.resx">
+      <DependentUpon>FrmProductionMode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UShell\FrmStoreDetailUshell.resx">
+      <DependentUpon>FrmStoreDetailUshell.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UShell\FrmUshellStoreIN.resx">
+      <DependentUpon>FrmUshellStoreIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UShell\FrmUshellStoreOut.resx">
+      <DependentUpon>FrmUshellStoreOut.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Communication\Communication.csproj">
+      <Project>{335e5c07-9767-40d9-92a3-b13cb5aafb84}</Project>
+      <Name>Communication</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Config\Sys.Config.csproj">
+      <Project>{9270162b-bc69-431b-850c-3afd0820dc2b}</Project>
+      <Name>Sys.Config</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ControlLogic\ControlLogic.csproj">
+      <Project>{b0874e9a-ae45-4f99-bf99-d3c50f7091e7}</Project>
+      <Name>ControlLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\DbUtilities\Sys.DbUtilities.csproj">
+      <Project>{3271fdd0-dda4-4819-93fc-1995f77d4355}</Project>
+      <Name>Sys.DbUtilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SysBusiness\Sys.SysBusiness.csproj">
+      <Project>{2d6e749a-26d8-4e43-929e-abab2a9df3a1}</Project>
+      <Name>Sys.SysBusiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Material\Material.csproj">
+      <Project>{04a4ff84-fbe0-4c36-915f-72224db5e304}</Project>
+      <Name>Material</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="obj\Debug\en-US\Monitor.resources.dll" />
+    <Content Include="obj\Debug\Monitor.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\Monitor.dll" />
+    <Content Include="obj\Debug\Monitor.pdb" />
+    <Content Include="obj\Debug\TempPE\Properties.Resources.Designer.cs.dll" />
+    <None Include="Resources\button_Black.bmp" />
+    <None Include="Resources\ZJJB - 副本.PNG" />
+    <None Include="Resources\zj.PNG" />
+    <None Include="Resources\scan_right.png" />
+    <None Include="Resources\scan.png" />
+    <None Include="Resources\Red.jpg" />
+    <None Include="Resources\Green1.png" />
+    <None Include="Resources\Green.png" />
+    <None Include="Resources\Green.jpg" />
+    <None Include="Resources\FJJK.PNG" />
+    <None Include="Resources\FA4_True.PNG" />
+    <None Include="Resources\FA4_False.PNG" />
+    <None Include="Resources\FA4_Alarm.PNG" />
+    <None Include="Resources\FA3_True.PNG" />
+    <None Include="Resources\FA3_False.PNG" />
+    <None Include="Resources\FA3_Alarm.PNG" />
+    <None Include="Resources\dj1.png" />
+    <None Include="Resources\color_red.png" />
+    <None Include="Resources\color_green.png" />
+    <None Include="Resources\color_black.png" />
+    <None Include="Resources\CNT.PNG" />
+    <None Include="Resources\bx.png" />
+    <None Include="Resources\BG.png" />
+    <None Include="Resources\ZJJB - 副本1.PNG" />
+    <None Include="Resources\zj1.PNG" />
+    <None Include="Resources\XT2.png" />
+    <None Include="Resources\XT.png" />
+    <None Include="Resources\TSJ.png" />
+    <None Include="Resources\22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\Monitor.csproj.GenerateResource.Cache" />
+    <None Include="obj\Debug\Monitor.csprojResolveAssemblyReference.cache" />
+    <None Include="Resources\button1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

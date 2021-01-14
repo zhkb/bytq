@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    <!-- 主程序名称 -->
+    <add key="DataBaseType" value="SqlServer" />
+    <add key="ServerDbConnection" value="server=(local);database=Haier_New;user=sa;pwd=123;MultipleActiveResultSets=true" />
+    <add key="BusinessDbConnection" value="server=192.168.1.177;database=Haier_Air_India;user=sa;pwd=bytq2016!!;MultipleActiveResultSets=true" />
+    <!--<add key="BusinessDbConnection" value="server=(local);database=Haier_Air_India;user=sa;pwd=123;MultipleActiveResultSets=true" />-->
+    <!--公司编号-->
+    <add key="CompanyID" value="1001" />
+    <add key="CompanyCode" value="C001" />
+    <add key="CompanyName" value="海尔集团" />
+    <add key="CompanyName_EN" value="海尔集团" />
+    <!--工厂编号-->
+    <add key="FactoryID" value="2001" />
+    <add key="FactoryCode" value="F001" />
+    <add key="FactoryName" value="海尔印度工厂" />
+    <add key="FactoryName_EN" value="海尔印度工厂" />
+    <!--产线编号-->
+    <add key="ProductLineID" value="3001" />
+    <add key="ProductLineCode" value="L001" />
+    <add key="ProductLineName" value="空调室外机总装线" />
+    <add key="ProductLineName_EN" value="空调室外机总装线" />
+    <add key="CurrentPlanName" value="计划参数" />
+    <!-- 1001 上线 1010 焊接  1020 检漏1  1030 安检  1200 称重 1050 检漏2 1060 检漏3 1090  下线 1100 灌注监控  1110 返修  -->
+    <add key="CurrentProcessCode" value="1001" />
+    <add key="CurrentProcessName" value="上线" />
+    <add key="CurrentProcessName_EN" value="weigh" />
+    <add key="CurrentStationNo1" value="1" />
+    <add key="CurrentStationNo2" value="2" />
+    <add key="CurrentStationNo3" value="3" />
+    <add key="CurrentStationNo4" value="4" />
+    <!--系统类型-->
+    <add key="SystemType" value="1" />
+    <!-- 系统更新IP地址-->
+    <add key="App_AutoUpdateIP" value="127.0.0.1" />
+    <!-- 系统更新端口-->
+    <add key="App_AutoUpdatePort" value="8040" />
+    <!-- 系统更新文件目录-->
+    <add key="App_AutoUpdateDir" value="DownLoad" />
+    <!-- 程序是否进行过升级-->
+    <add key="App_AutoUpdateFinish" value="False" />
+    <!-- 系统更新是否成功-->
+    <add key="App_AutoUpdateSuccess" value="False" />
+    <!-- 升级完成要打开的程序文件-->
+    <add key="App_AutoExecuteName" value="IMOS.PTS.exe" />
+    <!-- 更新检查时间间隔-->
+    <add key="App_UpdateInterval" value="5" />
+    <!-- 当前系统版本-->
+    <add key="App_Version" value="Version：1.0.0" />
+    <!-- PLC 相关 PLC 类型 1 三菱 2 西门子-->
+    <add key="PLCType" value="1" />
+    <add key="MasterPLCIP" value="127.0.0.1" />
+    <add key="RubberPLCIP" value="127.0.0.1" />
+    <add key="TerrinePLCIP" value="127.0.0.1" />
+    <add key="DispersePLCIP" value="127.0.0.1" />
+    <!--网络通信-->
+    <!--是否启用条码扫描以太网产品码A-->
+    <add key="IsInitBarOne" value="1" />
+    <add key="IntelligentDeviceIP1" value="127.0.0.1" />
+    <add key="IntelligentDevicePort1" value="2000" />
+    <!--网络通信-->
+    <!--是否启用条码扫描以太网产品码B-->
+    <add key="IsInitBarTwo" value="1" />
+    <add key="IntelligentDeviceIP2" value="127.0.0.1" />
+    <add key="IntelligentDevicePort2" value="2001" />
+    <!--网络通信-->
+    <!--是否启用称重仪器A-->
+    <add key="IsInitBarThree" value="1" />
+    <add key="IntelligentDeviceIP3" value="127.0.0.1" />
+    <add key="IntelligentDevicePort3" value="3000" />
+    <!--网络通信-->
+    <!--是否启用称重仪器B-->
+    <add key="IsInitBarFour" value="1" />
+    <add key="IntelligentDeviceIP4" value="127.0.0.1" />
+    <add key="IntelligentDevicePort4" value="3001" />
+    <!--扫码器 串口通讯 串口号-->
+    <add key="SerialPortName1" value="COM9" />
+    <add key="SerialPortName2" value="COM3" />
+    <add key="SerialPortName3" value="COM3" />
+    <add key="SerialPortName4" value="COM4" />
+    <add key="SerialPortName5" value="COM5" />
+    <!--PLC-->
+    <!--一号充氮前称重工位-->
+    <add key="WeightAddressA1" value="0" />
+    <!--一号充氮后称重工位-->
+    <add key="WeightAddressB1" value="1" />
+    <!--二号充氮称重工位-->
+    <add key="WeightAddressA2" value="10" />
+    <!--二号充氮后称重工位-->
+    <add key="WeightAddressB2" value="11" />
+    <!--灌注监控信息读取-->
+    <!--1#-->
+    <add key="MonitorAddress1" value="30" />
+    <!--2#-->
+    <add key="MonitorAddress2" value="53" />
+    <!--3#-->
+    <add key="MonitorAddress3" value="76" />
+    <!--4#-->
+    <add key="MonitorAddress4" value="99" />
+  </appSettings>
+</configuration>

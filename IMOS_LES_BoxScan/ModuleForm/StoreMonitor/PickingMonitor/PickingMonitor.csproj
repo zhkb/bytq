@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BB06507C-CC94-4C34-88C0-31E25FE30ED2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PickingMonitor</RootNamespace>
+    <AssemblyName>PickingMonitor</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmBinDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBinDetail.Designer.cs">
+      <DependentUpon>FrmBinDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBinMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBinMonitor.Designer.cs">
+      <DependentUpon>FrmBinMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNewStoreMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNewStoreMonitor.Designer.cs">
+      <DependentUpon>FrmNewStoreMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOperationMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOperationMonitor.Designer.cs">
+      <DependentUpon>FrmOperationMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStoreMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStoreMonitor.Designer.cs">
+      <DependentUpon>FrmStoreMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTaskMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTaskMonitor.Designer.cs">
+      <DependentUpon>FrmTaskMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmBinDetail.resx">
+      <DependentUpon>FrmBinDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBinMonitor.resx">
+      <DependentUpon>FrmBinMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNewStoreMonitor.resx">
+      <DependentUpon>FrmNewStoreMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOperationMonitor.resx">
+      <DependentUpon>FrmOperationMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStoreMonitor.resx">
+      <DependentUpon>FrmStoreMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTaskMonitor.resx">
+      <DependentUpon>FrmTaskMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Config\Sys.Config.csproj">
+      <Project>{9270162B-BC69-431B-850C-3AFD0820DC2B}</Project>
+      <Name>Sys.Config</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\ControlLogic\ControlLogic.csproj">
+      <Project>{b0874e9a-ae45-4f99-bf99-d3c50f7091e7}</Project>
+      <Name>ControlLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\DbUtilities\Sys.DbUtilities.csproj">
+      <Project>{3271FDD0-DDA4-4819-93FC-1995F77D4355}</Project>
+      <Name>Sys.DbUtilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\SysBusiness\Sys.SysBusiness.csproj">
+      <Project>{2d6e749a-26d8-4e43-929e-abab2a9df3a1}</Project>
+      <Name>Sys.SysBusiness</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Green.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

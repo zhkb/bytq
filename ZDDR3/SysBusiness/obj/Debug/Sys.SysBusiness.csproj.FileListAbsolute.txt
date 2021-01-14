@@ -1,0 +1,422 @@
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Sys.Config.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\MySql.Data.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmRegTips.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmReportPrint.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+E:\1.工作代码\Mixing\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+E:\1.工作代码\Mixing\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+E:\1.工作代码\Mixing\SysBusiness\bin\Debug\Frame.Utilities.dll
+E:\1.工作代码\Mixing\SysBusiness\bin\Debug\Sys.Config.dll
+E:\1.工作代码\Mixing\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+E:\1.工作代码\Mixing\SysBusiness\bin\Debug\MySql.Data.dll
+E:\1.工作代码\Mixing\SysBusiness\bin\Debug\System.Data.SQLite.dll
+E:\1.工作代码\Mixing\SysBusiness\bin\Debug\Sys.Config.pdb
+E:\1.工作代码\Mixing\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+E:\1.工作代码\Mixing\SysBusiness\bin\Debug\Frame.Utilities.pdb
+E:\1.工作代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+E:\1.工作代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+E:\1.工作代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+E:\1.工作代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+E:\1.工作代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+E:\1.工作代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmRegTips.resources
+E:\1.工作代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmReportPrint.resources
+E:\1.工作代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+E:\1.工作代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+E:\1.工作代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+E:\1.工作代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+E:\1.工作代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+E:\1.工作代码\Mixing\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\bin\Debug\Sys.Config.dll
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\bin\Debug\MySql.Data.dll
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmRegTips.resources
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmReportPrint.resources
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\6-上位新框架\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\obj\Debug\Sys.SysBusiness.FrmRegTips.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\bin\Debug\Sys.Config.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\bin\Debug\MySql.Data.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\6-上位新框架\SysFrame 20181207\SysBusiness\bin\Debug\Frame.Utilities.pdb
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\bin\Debug\Frame.Utilities.dll
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\bin\Debug\Sys.Config.dll
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\bin\Debug\MySql.Data.dll
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\bin\Debug\System.Data.SQLite.dll
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\bin\Debug\Sys.Config.pdb
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\bin\Debug\Frame.Utilities.pdb
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmRegTips.resources
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+E:\Richard\Projects\TEST\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\bin\Debug\Frame.Utilities.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\bin\Debug\Sys.Config.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\bin\Debug\MySql.Data.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\bin\Debug\System.Data.SQLite.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\bin\Debug\Sys.Config.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\bin\Debug\Frame.Utilities.pdb
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmRegTips.resources
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+E:\Richard\Projects\Liudz\Haier\SysFrame\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\bin\Debug\Frame.Utilities.dll
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\bin\Debug\Sys.Config.dll
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\bin\Debug\MySql.Data.dll
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\bin\Debug\System.Data.SQLite.dll
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\bin\Debug\Sys.Config.pdb
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\bin\Debug\Frame.Utilities.pdb
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\obj\Debug\Sys.SysBusiness.FrmRegTips.resources
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+E:\Richard\Projects\Liudz2\中德电热\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Frame.Utilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\MySql.Data.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\System.Data.SQLite.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Frame.Utilities.pdb
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmRegTips.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+I:\ZDDR\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+I:\ZDDR\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+I:\ZDDR\SysBusiness\bin\Debug\Frame.Utilities.dll
+I:\ZDDR\SysBusiness\bin\Debug\Sys.Config.dll
+I:\ZDDR\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+I:\ZDDR\SysBusiness\bin\Debug\MySql.Data.dll
+I:\ZDDR\SysBusiness\bin\Debug\System.Data.SQLite.dll
+I:\ZDDR\SysBusiness\bin\Debug\Sys.Config.pdb
+I:\ZDDR\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+I:\ZDDR\SysBusiness\bin\Debug\Frame.Utilities.pdb
+I:\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+I:\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+I:\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+I:\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+I:\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+I:\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmRegTips.resources
+I:\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+I:\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+I:\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+I:\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+I:\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+I:\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Frame.Utilities.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Sys.Config.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\MySql.Data.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\System.Data.SQLite.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Sys.Config.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Frame.Utilities.pdb
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmRegTips.resources
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+I:\soft\工作代码\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Frame.Utilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Sys.Config.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\MySql.Data.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\System.Data.SQLite.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Sys.Config.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\Frame.Utilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmRegTips.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\FastReport.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\FastReport.Bars.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\FastReport.Editor.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\FastReport.xml
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\FastReport.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\FastReport.Bars.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\FastReport.Editor.dll
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\FastReport.xml
+E:\0.工作任务\0.2019项目\0.Project_Company\9.中德海尔电热\2-项目执行\1-代码\ZDDR\SysBusiness\bin\Debug\ThoughtWorks.QRCode.dll
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\bin\Debug\BarcodeLib.dll
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\bin\Debug\Frame.Utilities.dll
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\bin\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\bin\Debug\ThoughtWorks.QRCode.dll
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\bin\Debug\MySql.Data.dll
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\bin\Debug\System.Data.SQLite.dll
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\bin\Debug\FastReport.Bars.dll
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\bin\Debug\FastReport.Editor.dll
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\bin\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\bin\Debug\Frame.Utilities.pdb
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\bin\Debug\FastReport.xml
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmRegTips.resources
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+D:\WYF\xm\ZDDR\ZDDR\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\bin\Debug\BarcodeLib.dll
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\bin\Debug\Frame.Utilities.dll
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\bin\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\bin\Debug\ThoughtWorks.QRCode.dll
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\bin\Debug\MySql.Data.dll
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\bin\Debug\System.Data.SQLite.dll
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\bin\Debug\FastReport.Bars.dll
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\bin\Debug\FastReport.Editor.dll
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\bin\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\bin\Debug\Frame.Utilities.pdb
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\bin\Debug\FastReport.xml
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\obj\Debug\Sys.SysBusiness.FrmRegTips.resources
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+D:\WYF\xm\ZDDR\ZDDR2\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\bin\Debug\BarcodeLib.dll
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\bin\Debug\Frame.Utilities.dll
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\bin\Debug\Sys.Config.dll
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\bin\Debug\ThoughtWorks.QRCode.dll
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\bin\Debug\MySql.Data.dll
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\bin\Debug\System.Data.SQLite.dll
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\bin\Debug\FastReport.Bars.dll
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\bin\Debug\FastReport.Editor.dll
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\bin\Debug\Sys.Config.pdb
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\bin\Debug\Frame.Utilities.pdb
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\bin\Debug\FastReport.xml
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmRegTips.resources
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+D:\WYF\xm\ZDDR\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\bin\Debug\BarcodeLib.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\bin\Debug\FastReport.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\bin\Debug\Frame.Utilities.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\bin\Debug\Sys.Config.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\bin\Debug\ThoughtWorks.QRCode.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\bin\Debug\MySql.Data.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\bin\Debug\System.Data.SQLite.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\bin\Debug\FastReport.Bars.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\bin\Debug\FastReport.Editor.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\bin\Debug\Sys.Config.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\bin\Debug\Frame.Utilities.pdb
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\bin\Debug\FastReport.xml
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmRegTips.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+H:\Users\ZHENGKB\WeChat Files\laozishiniubi\FileStorage\File\2020-04\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\BarcodeLib.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\FastReport.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\Frame.Utilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\Sys.Config.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\ThoughtWorks.QRCode.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\MySql.Data.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\System.Data.SQLite.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\FastReport.Bars.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\FastReport.Editor.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\Sys.Config.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\Frame.Utilities.pdb
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\FastReport.xml
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.csprojResolveAssemblyReference.cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmRegTips.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+D:\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\Sys.SysBusiness.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\Sys.SysBusiness.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\BarcodeLib.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\FastReport.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\Frame.Utilities.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\Sys.Config.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\Sys.DbUtilities.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\ThoughtWorks.QRCode.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\MySql.Data.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\System.Data.SQLite.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\FastReport.Bars.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\FastReport.Editor.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\Sys.Config.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\Sys.DbUtilities.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\Frame.Utilities.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\FastReport.xml
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmLocalPwd.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmDialog.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmItemSelect.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmNum.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmRegTips.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmSystemReg.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.FrmTip.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.Properties.Resources.resources
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.GenerateResource.Cache
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.dll
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.pdb
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\bin\Debug\Frame.Utilities.dll.config
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.csprojAssemblyReference.cache
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.CoreCompileInputs.cache
+D:\SVN\9.中德海尔电热\2-项目执行\1-代码\ZDDR3\SysBusiness\obj\Debug\Sys.SysBusiness.csproj.CopyComplete

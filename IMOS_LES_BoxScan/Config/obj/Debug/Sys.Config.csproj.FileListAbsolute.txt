@@ -1,0 +1,69 @@
+E:\学习\Src\New Frame\NewFrame\Config\bin\Debug\Sys.Config.dll
+E:\学习\Src\New Frame\NewFrame\Config\bin\Debug\Sys.Config.pdb
+E:\学习\Src\New Frame\NewFrame\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+E:\学习\Src\New Frame\NewFrame\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+E:\学习\Src\New Frame\NewFrame\Config\obj\Debug\Sys.Config.dll
+E:\学习\Src\New Frame\NewFrame\Config\obj\Debug\Sys.Config.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\Config\bin\Debug\Sys.Config.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\Config\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\Config\obj\Debug\Sys.Config.dll
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\Config\obj\Debug\Sys.Config.pdb
+E:\0.工作任务\江苏力信\2-项目执行\1-代码\Mixing\Config\obj\Debug\Sys.Config.csprojResolveAssemblyReference.cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Config\bin\Debug\Sys.Config.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Config\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Config\obj\Debug\Sys.Config.dll
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Config\obj\Debug\Sys.Config.pdb
+E:\0.工作任务\11-江苏力信\2-项目执行\1-代码\Mixing\Config\obj\Debug\Sys.Config.csprojResolveAssemblyReference.cache
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\Config\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\Config\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\Config\obj\Debug\Sys.Config.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\Config\obj\Debug\Sys.Config.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\Config\bin\Debug\System.Net.Http.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\Config\bin\Debug\System.Net.Http.xml
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\BarCode\Config\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\Config\bin\Debug\Sys.Config.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\Config\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\Config\obj\Debug\Sys.Config.dll
+E:\0.工作任务\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\Config\obj\Debug\Sys.Config.pdb
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\Config\bin\Debug\Sys.Config.dll
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\Config\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\Config\obj\Debug\Sys.Config.dll
+E:\0.工作任务\1.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\Config\obj\Debug\Sys.Config.pdb
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\Config\bin\Debug\Sys.Config.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\Config\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\Config\obj\Debug\Sys.Config.csproj.GenerateResource.Cache
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\Config\obj\Debug\Sys.Config.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\IMOS_LES_BarCode\Config\obj\Debug\Sys.Config.pdb
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\Config\bin\Debug\Sys.Config.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\Config\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\Config\obj\Debug\Sys.Config.csproj.GenerateResource.cache
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\Config\obj\Debug\Sys.Config.csproj.CoreCompileInputs.cache
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\Config\obj\Debug\Sys.Config.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BarCode\Config\obj\Debug\Sys.Config.pdb
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\Config\bin\Debug\Sys.Config.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\Config\bin\Debug\Sys.Config.pdb
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\Config\obj\Debug\Sys.Config.csproj.GenerateResource.cache
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\Config\obj\Debug\Sys.Config.csproj.CoreCompileInputs.cache
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\Config\obj\Debug\Sys.Config.dll
+E:\0.工作任务\98.旧项目\0-澳柯玛MES\2-项目执行\1-代码\智能冷柜二楼箱体库\IMOS_LES_BoxScan\Config\obj\Debug\Sys.Config.pdb
+D:\SVN\IMOS_LES_BoxScan\Config\bin\Debug\Sys.Config.dll
+D:\SVN\IMOS_LES_BoxScan\Config\bin\Debug\Sys.Config.pdb
+D:\SVN\IMOS_LES_BoxScan\Config\obj\Debug\Sys.Config.csprojAssemblyReference.cache
+D:\SVN\IMOS_LES_BoxScan\Config\obj\Debug\Sys.Config.Properties.Resources.resources
+D:\SVN\IMOS_LES_BoxScan\Config\obj\Debug\Sys.Config.csproj.GenerateResource.cache
+D:\SVN\IMOS_LES_BoxScan\Config\obj\Debug\Sys.Config.csproj.CoreCompileInputs.cache
+D:\SVN\IMOS_LES_BoxScan\Config\obj\Debug\Sys.Config.dll
+D:\SVN\IMOS_LES_BoxScan\Config\obj\Debug\Sys.Config.pdb
