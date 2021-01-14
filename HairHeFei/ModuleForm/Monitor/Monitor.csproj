@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BE6FDFB9-FFBF-49F2-A87F-79B19EFBFE9E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Monitor</RootNamespace>
+    <AssemblyName>Monitor</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AquaGauge">
+      <HintPath>..\..\Compment\AquaGauge.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.AcroPDFLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\AxInterop.AcroPDFLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Material">
+      <HintPath>..\Material\bin\Debug\Material.dll</HintPath>
+    </Reference>
+    <Reference Include="Sys.Config">
+      <HintPath>..\..\Config\bin\Debug\Sys.Config.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmBindingControlcs.cs" />
+    <Compile Include="FrmBinMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBinMonitor.Designer.cs">
+      <DependentUpon>FrmBinMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFPMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFPMonitor.Designer.cs">
+      <DependentUpon>FrmFPMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNewBinStoreMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNewBinStoreMonitor.Designer.cs">
+      <DependentUpon>FrmNewBinStoreMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNewDoorMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNewDoorMonitor.Designer.cs">
+      <DependentUpon>FrmNewDoorMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNewStoreMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNewStoreMonitor.Designer.cs">
+      <DependentUpon>FrmNewStoreMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNOutStoreDetailMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNOutStoreDetailMonitor.Designer.cs">
+      <DependentUpon>FrmNOutStoreDetailMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOutStoreDetailMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOutStoreDetailMonitor.Designer.cs">
+      <DependentUpon>FrmOutStoreDetailMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOutStoreMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOutStoreMonitor.Designer.cs">
+      <DependentUpon>FrmOutStoreMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBinStoreMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBinStoreMonitor.Designer.cs">
+      <DependentUpon>FrmBinStoreMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDoorMaterialMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDoorMaterialMonitor.designer.cs">
+      <DependentUpon>FrmDoorMaterialMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMaterialGridding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMaterialGridding.designer.cs">
+      <DependentUpon>FrmMaterialGridding.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRKMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRKMonitor.Designer.cs">
+      <DependentUpon>FrmRKMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRKPlanMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRKPlanMonitor.Designer.cs">
+      <DependentUpon>FrmRKPlanMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSelectMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSelectMaterial.Designer.cs">
+      <DependentUpon>FrmSelectMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSetPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSetPlan.Designer.cs">
+      <DependentUpon>FrmSetPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSetPlanModify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSetPlanModify.Designer.cs">
+      <DependentUpon>FrmSetPlanModify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStoreTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStoreTask.Designer.cs">
+      <DependentUpon>FrmStoreTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStoreTask2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStoreTask2.Designer.cs">
+      <DependentUpon>FrmStoreTask2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTaskModel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTaskModel.Designer.cs">
+      <DependentUpon>FrmTaskModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTaskModel2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTaskModel2.Designer.cs">
+      <DependentUpon>FrmTaskModel2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTaskMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTaskMonitor.Designer.cs">
+      <DependentUpon>FrmTaskMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVerifyMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVerifyMonitor.Designer.cs">
+      <DependentUpon>FrmVerifyMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmBinMonitor.resx">
+      <DependentUpon>FrmBinMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFPMonitor.resx">
+      <DependentUpon>FrmFPMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNewBinStoreMonitor.resx">
+      <DependentUpon>FrmNewBinStoreMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNewDoorMonitor.resx">
+      <DependentUpon>FrmNewDoorMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNewStoreMonitor.resx">
+      <DependentUpon>FrmNewStoreMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNOutStoreDetailMonitor.resx">
+      <DependentUpon>FrmNOutStoreDetailMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOutStoreDetailMonitor.resx">
+      <DependentUpon>FrmOutStoreDetailMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOutStoreMonitor.resx">
+      <DependentUpon>FrmOutStoreMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBinStoreMonitor.resx">
+      <DependentUpon>FrmBinStoreMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDoorMaterialMonitor.resx">
+      <DependentUpon>FrmDoorMaterialMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMaterialGridding.resx">
+      <DependentUpon>FrmMaterialGridding.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRKMonitor.resx">
+      <DependentUpon>FrmRKMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRKPlanMonitor.resx">
+      <DependentUpon>FrmRKPlanMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSelectMaterial.resx">
+      <DependentUpon>FrmSelectMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSetPlan.resx">
+      <DependentUpon>FrmSetPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSetPlanModify.resx">
+      <DependentUpon>FrmSetPlanModify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStoreTask.resx">
+      <DependentUpon>FrmStoreTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStoreTask2.resx">
+      <DependentUpon>FrmStoreTask2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTaskModel.resx">
+      <DependentUpon>FrmTaskModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTaskModel2.resx">
+      <DependentUpon>FrmTaskModel2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTaskMonitor.resx">
+      <DependentUpon>FrmTaskMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVerifyMonitor.resx">
+      <DependentUpon>FrmVerifyMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Communication\Communication.csproj">
+      <Project>{335E5C07-9767-40D9-92A3-B13CB5AAFB84}</Project>
+      <Name>Communication</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ControlLogic\ControlLogic.csproj">
+      <Project>{b0874e9a-ae45-4f99-bf99-d3c50f7091e7}</Project>
+      <Name>ControlLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\DbUtilities\Sys.DbUtilities.csproj">
+      <Project>{3271fdd0-dda4-4819-93fc-1995f77d4355}</Project>
+      <Name>Sys.DbUtilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SysBusiness\Sys.SysBusiness.csproj">
+      <Project>{2d6e749a-26d8-4e43-929e-abab2a9df3a1}</Project>
+      <Name>Sys.SysBusiness</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NotChecked.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NoCheck.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Green2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\haier_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Green3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Status_Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Status_Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HAIRLOGO-WHITE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_left_32px_1184717_easyicon.net.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_right_32px_1184718_easyicon.net.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_up_32px_1184719_easyicon.net.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

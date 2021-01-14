@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sys.SysBusiness.GroupInfo" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABgAAAAAAAAAQAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SysBusinessFunction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sys.SysBusiness.SysBusinessFunction" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AZACAIAAIAAESAgQAGAAAASBiBxSYE0AAAAAAKEIYII=</HashCode>
+      <FileName>SysBusinessFunction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Sys.SysBusiness.AlarmInfo" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAACAAAAABEACAAAAAAACAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>SysBusinessFunction.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Sys.SysBusiness.LoginUserInfo" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAgAAAAAAAACBQAAAAAQACA=</HashCode>
+      <FileName>SysBusinessFunction.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Sys.SysBusiness.StoreInfo" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAgA4gAAMAAAIEAAAA=</HashCode>
+      <FileName>SysBusinessFunction.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Sys.SysBusiness.TaskInfo" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAEgAAAABAAAAAAEAAAA=</HashCode>
+      <FileName>SysBusinessFunction.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Sys.SysBusiness.EquipmentInfo" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAABAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SysBusinessFunction.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Sys.SysBusiness.PrintParameterInfo" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>SysBusinessFunction.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Sys.SysBusiness.ModuleInfo" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAIAACAQAAAAAAAIAAAAAAABAACAAIAAQQAAAA=</HashCode>
+      <FileName>SysBusinessFunction.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Sys.SysBusiness.MenuInfo" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAABAAAAAAAgIAIAAAAAA=</HashCode>
+      <FileName>SysBusinessFunction.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <!-- 主程序名称 -->
+
+    <add key="DataBaseType" value="SqlServer"/>
+    
+    <add key="ServerDbConnection" value="server=192.168.1.177;database=Haier_XGL;user=sa;pwd=bytq2016!!;MultipleActiveResultSets=true" />
+    <add key="BusinessDbConnection" value="server=.;database=Haier_HFBX;user=sa;pwd=123;MultipleActiveResultSets=true" />
+    <!--<add key="BusinessDbConnection" value="server=192.168.1.177;database=Haier_XGL;user=sa;pwd=bytq2016!!;MultipleActiveResultSets=true" />-->
+
+    <!--公司编号-->
+    <add key="CompanyID" value="1001" />
+    <add key="CompanyCode" value="C001" />
+    <add key="CompanyName" value="海尔集团" />
+    <!--工厂编号-->
+    <add key="FactoryID" value="2001" />
+    <add key="FactoryCode" value="F001" />
+    <add key="FactoryName" value="海尔工业园" />
+    <!--产线编号-->
+    <add key="ProductLineID" value="3001" />
+    <add key="ProductLineCode" value="L001" />
+    <add key="ProductLineName" value="冰箱生产一线" />
+
+    <add key="CurrentProcessCode" value="GW001"/>
+    <add key="CurrentProcessName" value="绑定入库1"/>
+    
+    <!--系统类型-->
+    <add key="SystemType" value="1" />
+
+    <!-- PLC 相关 PLC 类型 1 三菱 2 西门子-->
+    <add key="PLCType" value="1" />
+
+    <add key="MasterPLCIP1" value="127.0.0.1" />
+    <add key="PLCStation1" value="1" />
+
+
+    <add key="MasterPLCIP2" value="127.0.0.1" />
+    <add key="PLCStation2" value="1" />
+
+
+    <!-- 西门子PLC网络IP地址-->
+    <add key="MasterPLCIP_First" value="127.0.0.1" />
+    <add key="MasterPLCIP_Sencond" value="127.0.0.1" />
+    <!--三菱PLC站号-->
+    <add key="MasterPLCStation_First" value="1" />
+    <add key="MasterPLCStation_Sencond" value="1" />
+    
+    <add key="DownBlockNo" value="0"/>
+    <add key="DownAddressNo" value="30"/>
+    
+    <add key="SerialPortName1" value="COM1"/>
+    <add key="SerialPortName2" value="COM2"/>
+
+    
+
+    <!-- 吊笼小车条码绑定扫码器相关 -->
+    <add key="BarScanProIP" value="127.0.0.1" />
+    <add key="BarScanProPort" value="2122" />
+    
+    <add key="RFIDIP" value="127.0.0.1" />
+    <add key="RFIDPort" value="2112" />
+    <add key="INRFIDIP" value="127.0.0.1" />
+    <add key="INRFIDPort" value="2113" />
+    <add key="OUTRFIDIP" value="127.0.0.1" />
+    <add key="OUTRFIDPort" value="2002" />
+    
+    <!--货道物料设置-->
+    <add key="AreaCode" value="A001" />
+
+    
+    <!--绑定选择物料列表-->
+    <add key="selectMaterialStr" value="R00006,R00009,R00007"/>
+
+    <!-- 程序标志位  A-2,B-1  -->
+    <add key="MCXFlag" value="1" />
+    <!-- 取料台标记  A1-1,A2-2,B1-1,B2-2  -->
+    <add key="CurrentINStoreCode" value="2" />
+
+    <!-- 取料台有料地址  A1-400, A2-405, B1-420, B2-425  -->
+    <add key="RKAddress1" value="420" />
+    <add key="RKAddress2" value="425" />
+    <add key="RKLen" value="2" />
+
+    <!-- 抓料方向信号  上层（B） 430 下层（A）410  -->
+    <add key="BDAddress" value="430" />
+    <add key="BDLen" value="2" />
+    <!-- 入库RFID下传地址  上层（B） 315 下层（A） 325 -->
+    <add key="INRAddress" value="315" />
+    <add key="INRLen" value="5" />
+    
+    <!-- 空板模式信号地址  上层（B） 435 下层（A） 415 -->
+    <add key="Maddress" value="435" />
+    <add key="Mlen" value="1" />
+    <!-- 空板模式放行地址  上层（B） 437 下层（A） 417  未用-->
+    <add key="Naddress" value="437" />
+    <add key="Nlen" value="1" />
+    
+    <!-- 库存产品信息  上层（B） 2000 下层（A） 2100-->
+    <add key="KCaddress" value="2000" />
+    
+    <!-- 货道对应的产品型号  上层（B） 3260 下层（A） 3270-->
+    <add key="CKAddress" value="3260" />
+    <add key="CKLen" value="1" />
+
+    <!-- 入库完成信号标记  上层（B） 400下层（A） 500-->
+    <add key="RKWCAddress" value="400" />
+    <add key="RKWCLen" value="8" />
+
+    <!-- 机械手复位标记 上层（B） 438 下层（A） 418-->
+    <add key="FWaddress" value="438" />
+    <add key="FWlen" value="1" />
+    <!-- 禁进先出标志  上层（B） 1140 下层（A） 1150-->
+    <add key="YXJADDRESS" value="1140" />
+    <add key="YXJLEN" value="1" />
+    <!-- 出库型号  上层（B） 3200 下层（A） 3300-->
+    <add key="FPAddress" value="3200" />
+    <!-- 出库模具号  上层（B） 3010 下层（A） 3110-->
+    <add key="MMADDRESS" value="3010" />
+
+    <!-- 机械手放料型号  上层（B） 433下层（A） 413-->
+    <add key="WLaddress" value="433" />
+    <add key="WLlen" value="2" />
+  </appSettings>
+</configuration>

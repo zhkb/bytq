@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{04A4FF84-FBE0-4C36-915F-72224DB5E304}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Material</RootNamespace>
+    <AssemblyName>Material</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>none</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <CodeAnalysisIgnoreGeneratedCode>false</CodeAnalysisIgnoreGeneratedCode>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ControlLogic">
+      <HintPath>..\..\ControlLogic\bin\Debug\ControlLogic.dll</HintPath>
+    </Reference>
+    <Reference Include="FastReport, Version=1.8.30.0, Culture=neutral, PublicKeyToken=db7e5ce63278458c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\FastReports\FastReport.Net Demo\FastReport.dll</HintPath>
+    </Reference>
+    <Reference Include="FastReport.Bars, Version=1.8.30.0, Culture=neutral, PublicKeyToken=db7e5ce63278458c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\FastReports\FastReport.Net Demo\FastReport.Bars.dll</HintPath>
+    </Reference>
+    <Reference Include="FastReport.Editor, Version=1.8.30.0, Culture=neutral, PublicKeyToken=db7e5ce63278458c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\FastReports\FastReport.Net Demo\FastReport.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Sys.Config">
+      <HintPath>..\..\Config\bin\Debug\Sys.Config.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http">
+      <HintPath>bin\Debug\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmBOM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBOM.Designer.cs">
+      <DependentUpon>FrmBOM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBOMDetailModify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBOMDetailModify.Designer.cs">
+      <DependentUpon>FrmBOMDetailModify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBOMModify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBOMModify.Designer.cs">
+      <DependentUpon>FrmBOMModify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMaterialModify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMaterialModify.Designer.cs">
+      <DependentUpon>FrmMaterialModify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMaterial.Designer.cs">
+      <DependentUpon>FrmMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMaterialType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMaterialType.Designer.cs">
+      <DependentUpon>FrmMaterialType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMaterialTypeModify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMaterialTypeModify.Designer.cs">
+      <DependentUpon>FrmMaterialTypeModify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStoreModifyMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStoreModifyMonitor.Designer.cs">
+      <DependentUpon>FrmStoreModifyMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStoreMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStoreMonitor.Designer.cs">
+      <DependentUpon>FrmStoreMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmBOM.resx">
+      <DependentUpon>FrmBOM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBOMDetailModify.resx">
+      <DependentUpon>FrmBOMDetailModify.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBOMModify.resx">
+      <DependentUpon>FrmBOMModify.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMaterialModify.resx">
+      <DependentUpon>FrmMaterialModify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMaterial.resx">
+      <DependentUpon>FrmMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMaterialType.resx">
+      <DependentUpon>FrmMaterialType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMaterialTypeModify.resx">
+      <DependentUpon>FrmMaterialTypeModify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStoreModifyMonitor.resx">
+      <DependentUpon>FrmStoreModifyMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStoreMonitor.resx">
+      <DependentUpon>FrmStoreMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\DbUtilities\Sys.DbUtilities.csproj">
+      <Project>{3271fdd0-dda4-4819-93fc-1995f77d4355}</Project>
+      <Name>Sys.DbUtilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SysBusiness\Sys.SysBusiness.csproj">
+      <Project>{2d6e749a-26d8-4e43-929e-abab2a9df3a1}</Project>
+      <Name>Sys.SysBusiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Utilities\Sys.Utilities.csproj">
+      <Project>{6beb43c2-9c6c-4253-884b-5cf1f5c401be}</Project>
+      <Name>Sys.Utilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Authority\Authority.csproj">
+      <Project>{632f54d1-e662-4dd6-a59b-5c341978f20a}</Project>
+      <Name>Authority</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\x86\Debug\Material.dll" />
+    <Content Include="bin\x86\Debug\Material.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

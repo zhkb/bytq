@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D6E749A-26D8-4E43-929E-ABAB2A9DF3A1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sys.SysBusiness</RootNamespace>
+    <AssemblyName>Sys.SysBusiness</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>false</DebugSymbols>
+    <DebugType>none</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BarcodeLib, Version=1.2.0.0, Culture=neutral, PublicKeyToken=5f09bda868cc39e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarcodeLib.1.2.0.0\lib\net20\BarcodeLib.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FastReport, Version=1.8.30.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\FastReports\FastReport.Net Demo\FastReport.dll</HintPath>
+    </Reference>
+    <Reference Include="Sys.Config, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Config\bin\Debug\Sys.Config.dll</HintPath>
+    </Reference>
+    <Reference Include="Sys.DbUtilities, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DbUtilities\bin\Debug\Sys.DbUtilities.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ThoughtWorks.QRCode, Version=1.0.4778.30637, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ThoughtWorks.QRCode.1.1.0\lib\ThoughtWorks.QRCode.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmLocalPwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLocalPwd.Designer.cs">
+      <DependentUpon>FrmLocalPwd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDialog.Designer.cs">
+      <DependentUpon>FrmDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmItemSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmItemSelect.Designer.cs">
+      <DependentUpon>FrmItemSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNum.Designer.cs">
+      <DependentUpon>FrmNum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSystemReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSystemReg.Designer.cs">
+      <DependentUpon>FrmSystemReg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTip.Designer.cs">
+      <DependentUpon>FrmTip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OptionSetting.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SysBusinessFunction.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmLocalPwd.resx">
+      <DependentUpon>FrmLocalPwd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDialog.resx">
+      <DependentUpon>FrmDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmItemSelect.resx">
+      <DependentUpon>FrmItemSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNum.resx">
+      <DependentUpon>FrmNum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSystemReg.resx">
+      <DependentUpon>FrmSystemReg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTip.resx">
+      <DependentUpon>FrmTip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Resources\Infomation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\infomation_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\qustion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\infomation1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Status_Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Status_Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\x86\Debug\Sys.SysBusiness.dll" />
+    <Content Include="bin\x86\Debug\Sys.SysBusiness.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Utilities\Sys.Utilities.csproj">
+      <Project>{6beb43c2-9c6c-4253-884b-5cf1f5c401be}</Project>
+      <Name>Sys.Utilities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
