@@ -1,0 +1,134 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-app"
+			}
+		}
+	    ,{
+            "path" : "pages/main/wait",
+            "style" :                                                                                    
+            {
+                
+            }
+            
+        }
+        ,{
+            "path" : "pages/main/execut",
+            "style" :                                                                                    
+            {
+            }
+            
+        }
+        ,{
+            "path" : "pages/main/perform",
+            "style" :                                                                                    
+            {
+            }
+            
+        }
+        
+        ,{
+            "path" : "pages/Detail/In/InPickDetail",
+            "style" :                                                                                    
+            {
+               
+            }
+            
+        }
+        ,{
+            "path" : "pages/Detail/In/InDraftDetail",
+            "style" :                                                                                    
+            {
+                
+            }
+            
+        }
+        ,{
+            "path" : "pages/Detail/In/InPopDetail",
+            "style" :                                                                                    
+            {
+                
+            }
+            
+        }
+        ,{
+            "path" : "pages/Detail/Out/OutDraftDetail",
+            "style" :                                                                                    
+            {
+              
+            }
+            
+        }
+        ,{
+            "path" : "pages/Detail/Out/OutPickDetail",
+            "style" :                                                                                    
+            {
+             
+            }
+            
+        }
+        
+        ,{
+            "path" : "pages/Detail/In/InShowDetail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/Detail/Out/OutShowDetail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/Detail/Quality/QuaCheck",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "components/uni-collapse-item/uni-collapse-item-me",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+	    "navigationStyle":"custom"
+	},
+	"tabBar":{
+		"color": "#7A7E83",
+		"selectedColor": "#3cc51f",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"fontSize": "10px",
+		"list":[
+			{
+				"pagePath":"pages/main/wait",
+				
+				"text":"待执行"
+		    },{
+				"pagePath":"pages/main/execut",
+				"text":"执行中"
+			},{
+				"pagePath":"pages/main/perform",
+				"text":"已完成"
+			}
+			
+		]
+	}
+}

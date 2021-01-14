@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/main/wait",
+    "pages/main/execut",
+    "pages/main/perform",
+    "pages/Detail/Detail",
+    "pages/Detail/InDetail",
+    "pages/Detail/OutDetail",
+    "pages/Detail/NewDetail",
+    "pages/Detail/DraftDetail",
+    "pages/Detail/PickDetail",
+    "pages/Detail/New",
+    "pages/Detail/PopDetail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationStyle": "custom"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "fontSize": "10px",
+    "list": [
+      {
+        "pagePath": "pages/main/wait",
+        "text": "待执行"
+      },
+      {
+        "pagePath": "pages/main/execut",
+        "text": "执行中"
+      },
+      {
+        "pagePath": "pages/main/perform",
+        "text": "已完成"
+      }
+    ]
+  },
+  "minPlatformVersion": 1070,
+  "name": "Aucma_H",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "package": "Aucma_H",
+  "usingComponents": {}
+}
